@@ -1,6 +1,6 @@
 {
   "name": "npm-expansions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "What does n-p-m stand for?",
   "main": "index.json",
   "repository": {
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/npm/npm-expansions/issues"
   },
-  "homepage": "https://github.com/npm/npm-expansions"
+  "homepage": "https://github.com/npm/npm-expansions",
+  "scripts": {
+    "alphabetize": "./bin/alphabetize.js",
+    "prepublish": "npm run alphabetize"
+  }
 }
