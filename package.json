@@ -23,6 +23,7 @@
   "homepage": "https://github.com/npm/npm-expansions",
   "scripts": {
     "alphabetize": "./bin/alphabetize.js",
+    "a": "npm run alphabetize",
     "prepublish": "npm run alphabetize"
   }
 }
