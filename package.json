@@ -5,7 +5,9 @@
   "main": "expansions.js",
   "scripts": {
     "build": "./bin/build.js",
-    "prepublish": "npm run build"
+    "prepublish": "npm test",
+    "pretest": "npm run build",
+    "test": "tap test"
   },
   "repository": {
     "type": "git",
@@ -24,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/npm/npm-expansions/issues"
   },
-  "homepage": "https://github.com/npm/npm-expansions"
+  "homepage": "https://github.com/npm/npm-expansions",
+  "devDependencies": {
+    "tap": "^0.4.13"
+  }
 }
