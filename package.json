@@ -23,7 +23,9 @@
   "homepage": "https://github.com/npm/npm-expansions",
   "scripts": {
     "alphabetize": "./bin/alphabetize.js",
+    "jsonify": "./bin/jsonify.js",
     "a": "npm run alphabetize",
-    "prepublish": "npm run alphabetize"
+    "j": "npm run jsonify",
+    "prepublish": "npm run j && npm run a"
   }
 }
