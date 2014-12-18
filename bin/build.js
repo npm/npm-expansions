@@ -20,7 +20,7 @@ var lines = [
   "",
   "*/",
   "",
-  JSON.stringify(expansions, null, 2),
+  "module.exports = " + JSON.stringify(expansions, null, 2),
   ""
 ]
 
