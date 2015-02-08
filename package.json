@@ -24,6 +24,11 @@
   "scripts": {
     "alphabetize": "./bin/alphabetize.js",
     "a": "npm run alphabetize",
-    "prepublish": "npm run alphabetize"
+    "prepublish": "npm run alphabetize",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.5"
   }
 }
