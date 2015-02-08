@@ -13,6 +13,16 @@ describe('index.json', function(){
     sortExpansionList(expansionsClone);
     expansionsClone.should.eql(expansions);
   });
+
+  it('should not contain duplicates', function(){
+    expansionsClone = expansions.slice(0);
+    sortExpansionList(expansionsClone);
+    for (var i = 0; i < expansionsClone.length - 1; i++) {
+      if (expansionsClone[i + 1].toLowerCase() == expansionsClone[i].toLowerCase()) {
+        throw new Error('"' + expansionsClone[i] + '" is duplicated');
+      }
+    }
+  });
 });
 
 // These expansions don't really follow the rules, but we don't want to
