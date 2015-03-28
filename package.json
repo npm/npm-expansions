@@ -15,23 +15,17 @@
     "acronym",
     "names",
     "naming-is-hard",
-    "npm",
-    "recursive-bacronymic-abbreviations"
+    "npm"
   ],
   "license": "ISC",
-  "main": "expansions.js",
+  "main": "expansions.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/npm/npm-expansions"
   },
   "scripts": {
     "prepublish": "npm test",
+    "pretest": "node build.js",
     "test": "tap test"
-  },
-  "browser": {
-    "fs": "brfs"
-  },
-  "dependencies": {
-    "brfs": "^1.4.0"
   }
 }

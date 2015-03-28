@@ -1,5 +1,0 @@
-module.exports = require('fs')
-  .readFileSync(__dirname + '/expansions.txt', 'utf8')
-  .split("\n")
-  .map(function(e) { return e.trim() })
-  .filter(function(e) { return e.length > 0 })
