@@ -30,5 +30,8 @@
   },
   "browser": {
     "fs": "brfs"
+  },
+  "dependencies": {
+    "brfs": "^1.4.0"
   }
 }
