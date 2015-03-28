@@ -27,7 +27,19 @@
     "url": "https://github.com/npm/npm-expansions/issues"
   },
   "homepage": "https://github.com/npm/npm-expansions",
+<<<<<<< HEAD
   "devDependencies": {
     "tap": "^0.4.13"
+=======
+  "scripts": {
+    "alphabetize": "./bin/alphabetize.js",
+    "a": "npm run alphabetize",
+    "prepublish": "npm run alphabetize",
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "should": "^4.6.5"
+>>>>>>> 15edbb446adefea916487c0e8fa63431a8008047
   }
 }
