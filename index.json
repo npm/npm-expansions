@@ -1,10 +1,13 @@
 [
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   "Nifty Procrastination Machine",
   "Nice Philanthropist Metalhead",
   "Never Pet Marmots",
 >>>>>>> 918a114d1ab855aa0c9ccbd0d890a86d5f26f60a
+=======
+>>>>>>> 7554befbdf8e22e720d0e0bd99b0ccd0271a077f
   "Naboo's Podracing Misadventure",
   "Nacho Pizza Marinade",
   "Nacho Portion Monitor",
@@ -81,12 +84,17 @@
   "Never Publish Malarkey",
   "Never Punch Manticores",
   "Never Push Mistakes",
+  "Never Push to Master",
   "Neverending Plethora of Modules",
+<<<<<<< HEAD
 <<<<<<< HEAD
   "Nevertheless Published Mine",
 =======
   "New Patch, Merge?",
 >>>>>>> cbfe0c7f1b4f43e5f5300ae7664f141504f8656e
+=======
+  "New Patch, Merge?",
+>>>>>>> 7554befbdf8e22e720d0e0bd99b0ccd0271a077f
   "New Powerful Machines",
   "New Power Management",
   "New Priority Mail",
@@ -139,6 +147,7 @@
   "No Packages Misplaced",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "No Pants, Mom"
 =======
   "No Pants Monkey",
@@ -152,6 +161,12 @@
   "No Possible Meaning",
 =======
 >>>>>>> 1df819f91697625bfb8c6d77e67224a53e6c051d
+=======
+  "No Pants, Mom",
+  "No Plugins; Monolithic",
+  "No Possible Meaning",
+  "No Possible Meaning",
+>>>>>>> 7554befbdf8e22e720d0e0bd99b0ccd0271a077f
   "No Potty Mouths",
   "No Prize Money",
   "No Problem Mate",
@@ -245,13 +260,18 @@
   "Nuclear Pumpkin Mocha",
   "Nude People Meditating",
   "Nude Pokémon Magazine",
+<<<<<<< HEAD
   "Nude Programming Monkeys"
+=======
+  "Nude Programming Monkeys",
+>>>>>>> 7554befbdf8e22e720d0e0bd99b0ccd0271a077f
   "Null Pointer Missing",
   "Numbers Prefer Multiplication",
   "Nutella Peanut-Butter Marshmallow",
   "Nutritious Pumpkin Meal",
   "Nutty Penguin Music",
   "Nutty Professor Movie",
+<<<<<<< HEAD
 <<<<<<< HEAD
   "Nymphomaniac Python Mythology",
 <<<<<<< HEAD
@@ -295,4 +315,7 @@
   "Nude Programming Monkeys",
   "Nationwide Polygamous Matrimony"
 >>>>>>> ea39b9d1fbb18f65c92a5a7f563811226b73da00
+=======
+  "Nymphomaniac Python Mythology"
+>>>>>>> 7554befbdf8e22e720d0e0bd99b0ccd0271a077f
 ]
