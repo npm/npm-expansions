@@ -2,7 +2,13 @@
   "name": "npm-expansions",
   "version": "1.14.0",
   "description": "What does n-p-m stand for?",
-  "main": "index.json",
+  "main": "expansions.js",
+  "scripts": {
+    "build": "./bin/build.js",
+    "prepublish": "npm test",
+    "pretest": "npm run build",
+    "test": "tap test"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/npm/npm-expansions"
@@ -21,9 +27,7 @@
     "url": "https://github.com/npm/npm-expansions/issues"
   },
   "homepage": "https://github.com/npm/npm-expansions",
-  "scripts": {
-    "alphabetize": "./bin/alphabetize.js",
-    "a": "npm run alphabetize",
-    "prepublish": "npm run alphabetize"
+  "devDependencies": {
+    "tap": "^0.4.13"
   }
 }
