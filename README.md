@@ -24,7 +24,7 @@ This is the source code for the three-word thingies that randomly appear in the 
 
 ## How to Contribute
 
-Add your own expansion to [index.txt](index.txt), then send us a pull request! If you think of multiple possibilities, it's best to submit them as separate PRs, as we may like some but not others.
+Add your own expansion to [expansions.txt](expansions.txt), then send us a pull request! If you think of multiple possibilities, it's best to submit them as separate PRs, as we may like some but not others.
 
 Some other suggestions:
 
