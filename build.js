@@ -7,6 +7,7 @@ var list = fs
   .split("\n")
   .map(function(e) { return e.trim() })
   .filter(function(e) { return e.length > 0 })
+  .filter(function(e) { return e.charAt(0) !== "#" })
   .sort()
 
 fs.writeFileSync(outfile, JSON.stringify(list, null, 2))
