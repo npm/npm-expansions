@@ -1,6 +1,3 @@
-npm provides modules
-npm: package manager
-npm: possibly marvellous
 Naboo's Podracing Misadventure
 Nacho Pizza Marinade
 Nacho Portion Monitor
@@ -19,11 +16,11 @@ Nananananananananananananananana.. Pat Man!
 Nancy's Preferred Machete
 Napping Panda Missionaries
 Naps Per Month
-Narcoleptic Possum Mob
 Narcissistic Passion Minified
 Narcissistic, Perfectly Modest
 Narcoleptic Pasta Manufacturer
 Narcoleptic Pony Machine
+Narcoleptic Possum Mob
 Narrating Prophetic Monks
 Narwhal Parade Maestro
 Narwhals Poke Mammals
@@ -48,6 +45,7 @@ Nattily Primped Monster
 Natural Pacifist Manatees
 Natural Performance Manager
 Natural Potato Magnet
+Natural Prehension for Minification
 Natural Push Machine
 Naturally Procured Models
 Naturally Produced Modules
@@ -66,6 +64,7 @@ Navy Penguin Mariachi
 Neanderthals Paint Mammals
 Neapolitan Pasta Maker
 Nearly Pooped Myself
+Neat Paraskavedekatriaphobia's Meaning
 Neatly Packaged Magic
 Neatly Packaged Modules
 Neatly Positioned Magazines
@@ -109,6 +108,7 @@ Neutralize Pesky Miscreants
 Neutron Polarization Manipulator
 Never Paint Mohawks
 Never Panic Much
+Never Pay your Mortgage
 Never Pet Marmots
 Never Pet Mermaids
 Never Poke Monkeys
@@ -127,6 +127,7 @@ New Patch, Merge?
 New Personal Mail
 New Phone Models
 New Power Management
+New Power Manual
 New Powerful Machines
 New Priority Mail
 New Programs Makers
@@ -137,6 +138,8 @@ Newton's Programmatic Measurements
 Newts Parading Majestically
 Next Perpendicular Moonlanding
 Next Popular Module
+Next Prince Montage
+next() Packaged Middleware
 Nice Paintings, Mondrian
 Nice Pants, Man
 Nice Parakeet Marriage
@@ -154,6 +157,7 @@ Nietzsche's Preposterous Moustache
 Nifty Pony Merchandise
 Nifty Procrastination Machine
 Nifty Pun Master
+Nifty Purring Manticore
 Nigerian Prince Meme
 Nightingale Posing Mischievously
 Nightly Panic Munchies
@@ -166,6 +170,7 @@ Nimoy Prospers Mystically
 Nincompoops Producing Methane
 Nine Parsecs from Milwaukee
 Nine Pedestrians Mesmerized
+Nine Putrid Mangos
 Nineties Party Mix
 Ninja Pokemon Master
 Ninja Programmers Mindmeld
@@ -176,10 +181,12 @@ No Packages Misplaced
 No Pants Monkey
 No Pants, Mom
 No Particular Method
+No Partying Mariachis
 No Plugins; Monolithic
 No Possible Meaning
 No Potty Mouths
 No Prize Money
+No Problem Man
 No Problem Mate
 No Problem, Meatbag
 No Proscribed Meaning
@@ -189,8 +196,8 @@ No, Pay Me
 Nobel Prize Magnet
 Noble Programming Mantra
 Nobody Packages More
-Nobody's Perfect, Man
 Nobody Publish Monsters
+Nobody's Perfect, Man
 Nocturnal Parakeet Monitor
 Nocturnally Psychologizing Millipede
 Node Package Maid
@@ -205,6 +212,7 @@ Node's Perpetuum Mobile
 Nodeschool Public Materials
 Noiseless Party Machine
 Noisy Pneumatic Mnemonic
+nom, please more
 Nomad Packaging Mechanism
 Nomenclature Processing Machine
 Nominally Patriotric Meathead
@@ -227,15 +235,17 @@ North Pittsburgh Meatpackers
 North Pole Merriment
 Northern Pileated Marmoset
 Norvell, Please Merge
+Norwegian Parcel Mail
 Norwegian Polka Music
+Norwegian Pony Master
 Nose Picker's Maven
 Nosey Party Murderer
 Nostalgic Perogi Monogramming
 Nostalgic Primordial Monster
+Not a Package Manager
 Not Parents' Money
 Not Particularly Meaningful
 Not Providing Milkshakes
-Not a Package Manager
 Notable Pastry Maker
 Notable Peru Mariachis
 Notable Pottery Manufacturer
@@ -243,6 +253,7 @@ Notably Polite Mariner
 Noteworthy Programming Masterpiece
 Noteworthy Programs Map
 Nothing Pleases Me
+Nothing's plumb meaningless
 Noticeably Playful Monkies
 Notify President Madagascar
 Notorious Public Menace
@@ -257,6 +268,7 @@ Novelty Palliates Malaise
 November Perfect Moustache
 November's Paddleball Marathon
 Novice Prime Minister
+Now Package More
 Now Packing Magic
 Now Particularly Misnamed
 Now Playing Mario
@@ -264,6 +276,10 @@ Now Printing Money
 Now, Please Meander
 Now, Publish Me
 Now, Push Me
+npm provides modules
+npm: package manager
+npm: possibly marvellous
+npm's pretty magical
 Nu Pop Metal
 Nuclear Planning Manual
 Nuclear Power Manager
@@ -275,7 +291,9 @@ Nude People Meditating
 Nude Pokémon Magazine
 Nude Poltergeist Monarch
 Nude Programming Monkeys
+nuǝɯ pǝɥsᴉꞁod mǝu
 Nuke Powered Mushroom
+Nukem's Possible Manifestation
 Null Pointer Micromanagement
 Null Pointer Missing
 Numbers Prefer Multiplication
@@ -292,21 +310,3 @@ Nutty Programming Men
 Nymph-Pursuing Machine
 Nymphets Playing Mahjong
 Nymphomaniac Python Mythology
-next() Packaged Middleware
-nom, please more
-npm's pretty magical
-nuǝɯ pǝɥsᴉꞁod mǝu
-Now Package More
-Norwegian Parcel Mail
-Norwegian Pony Master
-No Partying Mariachis
-New Power Manual
-Next Prince Montage
-Nifty Purring Manticore
-Nine Putrid Mangos
-No Problem Man
-Never Pay your Mortgage
-Nukem's Possible Manifestation
-Neat Paraskavedekatriaphobia's Meaning
-Nothing's plumb meaningless
-Natural Prehension for Minification
