@@ -213,6 +213,7 @@ Nocturnal Parakeet Monitor
 Nocturnally Psychologizing Millipede
 Node Package Maid
 Node Package Manager
+Node Package Master
 Node Packaged Masterfully
 Node Packaged Modules
 Node People Magic
