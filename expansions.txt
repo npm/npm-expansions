@@ -296,6 +296,7 @@ Now Printing Money
 Now, Please Meander
 Now, Publish Me
 Now, Push Me
+npm packaged modules
 npm provides modules
 npm: package manager
 npm: possibly marvellous
