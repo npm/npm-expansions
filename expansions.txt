@@ -38,7 +38,6 @@ National Party Month
 National Patience Month
 National Pest Management
 National Poetry Month
-node push master
 Nationwide Polygamous Matrimony
 Native Package Manager
 Native Package Master
