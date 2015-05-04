@@ -17,6 +17,7 @@ Nancy's Preferred Machete
 Nanometer Process Machine
 Napping Panda Missionaries
 Naps Per Month
+Nap Power: Maximum
 Narcissistic Passion Minified
 Narcissistic, Perfectly Modest
 Narcoleptic Pasta Manufacturer
@@ -303,6 +304,7 @@ Now Package More
 Now Packing Magic
 Now Particularly Misnamed
 Now Playing Mario
+Now Playing Mathcore
 Now Printing Money
 Now, Please Meander
 Now, Publish Me
