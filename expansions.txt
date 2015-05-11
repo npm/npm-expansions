@@ -351,6 +351,7 @@ Nybble Processing Mainframe
 Nymph-Pursuing Machine
 Nymphets Playing Mahjong
 Nymphomaniac Python Mythology
+Naked Party Monkey
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
