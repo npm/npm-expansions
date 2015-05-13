@@ -59,7 +59,9 @@ Naughty Panda Manga
 Naughty Pinching Mannequins
 Naughty Platypus Memorabilia
 Naughty Praying Mantis
+Naughty Privacy Mode
 Naughty Program Manipulator
+Naughty Program Manager
 Naughty Programmers Madness
 Naughty Pterodactyl Maid
 Naughty Push Message
@@ -142,7 +144,9 @@ Neverending Pun Machine
 Nevertheless Published Mine
 New Patch, Merge?
 New Personal Mail
+New Person Married
 New Phone Models
+New Policy Makers
 New Power Management
 New Power Manual
 New Powerful Machines
@@ -153,6 +157,7 @@ New Purple Moon
 Newbies Pass Muster
 Newline Proliferating Maniac
 Newly Paranoid Maintainers
+Newly Packed Mobiles
 Newton's Programmatic Measurements
 Newts Parading Majestically
 Next Perpendicular Moonlanding
@@ -205,6 +210,7 @@ No Pants Monkey
 No Pants, Mom
 No Particular Method
 No Partying Mariachis
+No Password Management
 No Plugins; Monolithic
 No Possible Meaning
 No Potty Mouths
