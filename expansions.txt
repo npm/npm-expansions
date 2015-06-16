@@ -252,6 +252,7 @@ Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
+Node's Persecution Mania
 Node's Play Mate
 Node's Pocket Monsters
 Nodeschool Public Materials
@@ -375,6 +376,7 @@ Nutty Programming Men
 Nybble Processing Mainframe
 Nymph-Pursuing Machine
 Nymphets Playing Mahjong
+Nymphomaniac Persecution Mania
 Nymphomaniac Python Mythology
 #
 # please don't add your expansions down here!
