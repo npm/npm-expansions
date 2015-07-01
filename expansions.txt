@@ -122,6 +122,7 @@ Nerdy Programmers Mingling
 Nerdy Pun Mavens
 Nerfing Powerful Megalomaniacs
 Nestable Processes Mutate
+Nested Public Modules
 Net Possiblity Multiplier
 Network Pipe Manufacturer
 Network Printer Manager
