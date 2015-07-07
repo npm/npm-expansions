@@ -256,7 +256,6 @@ Nobody Prefers Margarine
 Nocturnal Parakeet Monitor
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
-Nodding Personal Monks
 Node Package Maid
 Node Package Manager
 Node Package Master
@@ -272,6 +271,7 @@ Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
 Node's Play Mate
+Node's Personal Monk
 Node's Pocket Monsters
 Nodeschool Public Materials
 Noiseless Party Machine
