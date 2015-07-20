@@ -1,7 +1,7 @@
 {
   "name": "npm-expansions",
   "description": "What does n-p-m stand for?",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
   "bugs": {
     "url": "https://github.com/npm/npm-expansions/issues"

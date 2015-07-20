@@ -34,4 +34,5 @@ Some other suggestions:
 - Avoid hyphenation, especially "non-". Yes, there are some in there already. Sorry.
 - Use actual words. You can't just make up random new words. Unless they're really good.
 - Avoid names of people and products (other than npm ;-))
+- Avoid expansions that are gendered, sexual, aggressive, or violent. We are a diverse, positive place.
 - Avoid anything that even slightly hints of violating npm's [code of conduct](https://www.npmjs.com/policies/conduct/). These are literally the first words that appear on the website, and our audience is very broad, so it's best to avoid things that can be misconstrued.
