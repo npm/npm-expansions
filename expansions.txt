@@ -387,6 +387,7 @@ npm: possibly marvellous
 npm's pretty magical
 NTFS Path Mockery
 Nth Power Matrix
+nu phunktion(){"modestrict?"}
 Nu Pop Metal
 Nuclear Planning Manual
 Nuclear Power Manager
