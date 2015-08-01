@@ -295,6 +295,7 @@ Node Pizza Maker
 Node Pleases Me
 Node Plus Me
 Node Popular Man
+Node Programming: the Musical
 Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
