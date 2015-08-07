@@ -1,5 +1,4 @@
-N00b Pwn M3N00b's Programming Machine
-NASA: Pluto Matters!
+N00b Pwn M3N00b's Programming MachineNASA: Pluto Matters!
 NTFS Path Mockery
 Naboo's Podracing Misadventure
 Nacho Pace Maker
@@ -449,8 +448,3 @@ npm's pretty magical
 npm: package manager
 npm: possibly marvellous
 nuǝɯ pǝɥsᴉꞁod mǝu
-#
-# please don't add your expansions down here!
-# insert them in alphabetical order to help reduce merge conflicts.
-#
-# <3
