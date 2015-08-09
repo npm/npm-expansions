@@ -296,6 +296,7 @@ Nocturnally Psychologizing Millipede
 Node Package Maid
 Node Package Manager
 Node Package Master
+Node Package Monopoly
 Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
