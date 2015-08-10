@@ -361,6 +361,7 @@ Nose Picker's Maven
 Nosey Party Murderer
 Nostalgic Perogi Monogramming
 Nostalgic Piano Music
+Nostalgic Pickled Mango
 Nostalgic Pizza Manager
 Nostalgic Primordial Monster
 Not a Package Manager
