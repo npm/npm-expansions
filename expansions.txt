@@ -416,6 +416,7 @@ npm packaged modules
 npm private modules
 npm provides modules
 npm: package manager
+npm: partially recursive
 npm: possibly marvellous
 npm's pretty magical
 NTFS Path Mockery
