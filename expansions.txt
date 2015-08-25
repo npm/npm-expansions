@@ -428,6 +428,7 @@ npm packaged modules
 npm private modules
 npm provides modules
 npm: package manager
+npm possibilities - more!
 npm: possibly marvellous
 npm's pretty magical
 NTFS Path Mockery
