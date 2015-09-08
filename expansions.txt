@@ -12,6 +12,7 @@ Nail Polishing Minions
 Naive Puppets Marching
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
+Name Perfectly Managed
 Name Picker Malfunction
 Nameless Package Manager
 Namely, Pickled Meatballs
@@ -466,6 +467,7 @@ Nybble Processing Mainframe
 Nymph-Pursuing Machine
 Nymphets Playing Mahjong
 Nymphomaniac Python Mythology
+Nymphomaniac Playing Manager
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
