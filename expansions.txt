@@ -302,6 +302,9 @@ Nobody Publish Monsters
 Nobody's Perfect, Man
 Nobody Picked Me
 Nobody Prefers Margarine
+Nobody Package Manager
+Nobody Preferes Me
+Nobody Programming Manifest
 Noctiflorous Pansy Mulch
 Nocturnal Parakeet Monitor
 Nocturnal Practitioners of Magic
@@ -319,6 +322,8 @@ Node Pleases Me
 Node Plus Me
 Node Popular Man
 Node Promiscuous Modules
+Node's Pizza Magic
+Node's Pizza Manager
 Node's Package Magician
 Node's Perpetuum Mobile
 Node's Play Mate
@@ -342,6 +347,7 @@ Non-Polite Mother
 Non-Polynomial Mantissa
 Non-Potable Macchiato
 Non-Printable Material
+Non Programmable Manifest
 Nondeterministic Postrequisite Metaprotocol
 Nonvoluntary Professional Mangling
 Nonagons Please Me
