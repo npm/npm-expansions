@@ -49,6 +49,7 @@ Nascent Plasticine Materialist
 Nascent Prototype Metaverse
 Nasty Polka Music
 Nasty Popsicle Machine
+Nasty Pygmy Merchandise
 National Palace Museum
 National Party Month
 National Patience Month
@@ -430,6 +431,7 @@ npm provides modules
 npm: package manager
 npm: possibly marvellous
 npm's pretty magical
+npm's pseudo mnemonic
 NTFS Path Mockery
 Nth Phonetic Mnemonic
 Nth Power Matrix
