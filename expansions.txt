@@ -325,6 +325,7 @@ Node's Play Mate
 Node's Personal Monk
 Node's Pocket Monsters
 Node's Power Meal
+Node Powers Machines
 Nodes Per Minute
 Nodeschool Public Materials
 Noiseless Party Machine
