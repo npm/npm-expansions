@@ -322,6 +322,7 @@ Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
 Node's Play Mate
+Node's Potential Multiplies
 Node's Personal Monk
 Node's Pocket Monsters
 Node's Power Meal
