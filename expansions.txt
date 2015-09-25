@@ -155,6 +155,7 @@ Nerd Play Mate
 Nerds Pledge Magnanimously
 Nerds Produce Money
 Nerds Publishing Monstrosities
+Nerdy Pessimistic Monkeys
 Nerdy People Matriculate
 Nerdy Programmers Mingling
 Nerdy Pun Mavens
@@ -296,6 +297,7 @@ No Padding Margin
 No Painful Merges
 No Pants Monkey
 No Pants, Mom
+No Particular Alliance
 No Particular Method
 No Partying Mariachis
 No Password Management
@@ -343,6 +345,7 @@ Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
+Node's Pizza Machine
 Node's Play Mate
 Node's Personal Monk
 Node's Pocket Monsters
