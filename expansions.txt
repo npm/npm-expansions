@@ -16,6 +16,7 @@ Name Picker Malfunction
 Nameless Package Manager
 Namely, Pickled Meatballs
 Namespace Pollution Mechanism
+Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 Nanananananananana.. Pat Man!
@@ -90,6 +91,7 @@ Neapolitan Pasta Maker
 Near Perfect Mood
 Nearly Picked Makefiles
 Nearly Pooped Myself
+Nearly Prohibited Minion
 Neat Paraskavedekatriaphobia's Meaning
 Neat! Pickled Muskrat!
 Neatly Packaged Magic
@@ -165,6 +167,7 @@ Neurophysiologically Pseudoscientific Manatee
 Neurotic Pantaloon Maker
 Neurotic Pink Mongooses
 Neutered Paranoid Meerkat
+Neutral Point Measurement
 Neutral Pork Motel
 Neutralize Pesky Miscreants
 Neutrino Packing Machine
@@ -291,6 +294,7 @@ No Plugins; Monolithic
 No Points Made
 No Possible Meaning
 No Potty Mouths
+No! Primate Mutation!
 No Princess, Mario
 No Prize Money
 No Problem Man
@@ -368,6 +372,7 @@ Nonstop Progressive Marxism
 Nonviolent Pigeon Manifestation
 Noodle Printing Machine
 Noodly Pasta Maker
+noop(); pop(); map();
 Noosphere Possibilities Maximized
 Normal People, MMM!
 Normal Programming Mistake
