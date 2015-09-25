@@ -451,6 +451,7 @@ Now, Push Me
 Noxious Plant Miasma
 npm packaged modules
 npm private modules
+npm promotes metadefinitions
 npm provides modules
 npm: package manager
 npm: possibly marvellous
