@@ -9,7 +9,7 @@ This is the source code for the three-word thingies that randomly appear in the 
 
 - Naughty Push Message
 - Nectar of the Programming Masses
-- Needless Pachouli Manufacture
+- Needless Patchouli Manufacture
 - Neil Patrick's Mansion
 - Never Program Mad
 - Never Push to Master
