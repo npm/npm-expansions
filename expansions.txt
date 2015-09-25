@@ -458,6 +458,7 @@ npm packaged modules
 npm pretty much
 npm private modules
 npm promotes metadefinitions
+npm promulgates marsupials
 npm provides modules
 npm's pretty magical
 npm: package manager
