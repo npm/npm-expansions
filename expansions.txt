@@ -12,6 +12,7 @@ Nail Polishing Minions
 Naive Puppets Marching
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
+Namby Pamby Magicians
 Name Picker Malfunction
 Nameless Package Manager
 Namely, Pickled Meatballs
@@ -20,6 +21,7 @@ Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 Nanananananananana.. Pat Man!
 Nancy's Preferred Machete
+Nanobots Producing Megastructures
 Nanometer Process Machine
 Nanoprogrammed Penultimate Musicianship
 Nanoscale Parts Manufacturing
@@ -43,6 +45,7 @@ Narwhal Parade Maestro
 Narwhals Poke Mammals
 Nary a Package Missing
 NASA: Pluto Matters!
+NASA Proceeds to Mars
 Nasal Pathway Melodrama
 Nascent Personality Manifestation
 Nascent Plasticine Materialist
@@ -54,6 +57,7 @@ National Party Month
 National Patience Month
 National Pest Management
 National Poetry Month
+National Public Mania
 Nationwide Polygamous Matrimony
 Native Package Manager
 Native Papuan Masks
@@ -86,6 +90,7 @@ Neanderthals Paint Mammals
 Neanderthals Programming Machines
 Neapolitan Pasta Maker
 Near Perfect Mood
+Nearly Picked Makefiles
 Nearly Pooped Myself
 Neat Paraskavedekatriaphobia's Meaning
 Neat! Pickled Muskrat!
@@ -96,6 +101,7 @@ Neatly Prepared Mustache
 Neatly Punctuated Musings
 Neato Polyester Material
 Nebulous Program Mechanic
+Nebulous Puffy Marshmallows
 Necessitates Proper Modularity
 Neckbeard Party Materials
 Necromancers Playing MTG
@@ -105,6 +111,7 @@ Need Package Maintenance
 Need Pray More
 Need Private Modules
 Need Prize Money
+Needle-Pinpointing Machine
 Needless Pachouli Manufacture
 Needlessly Postulating Minds
 Needlessly Promiscuous, Modularize!
@@ -117,15 +124,19 @@ Negatively Proportional Model
 Negatory. Postpone Mission.
 Neglected Pulse Machine
 Neglected Parking Meter
+Negligent Pachinko Machine
 Negligible Participation Metric
+Neigh Purr Moo
 Neighbourhood Party Manager
 Neighbor's Preppy Maltese
 Neil Patrick's Mansion
+Nemo's Parental Misguidance
 Neoanthropic Preternatural Murmurings
 Neoclassical Piano Montage
 Neoclassical Programming Multitude
 Neocon Propaganda Machine
 Neodymium Plated Magnet
+Neolithic Programming Machine
 Neologistic Paraphasic Mumbling
 Neon Papier Mâché
 Neo's Personal Matrix
@@ -137,6 +148,7 @@ Neptune's Personal Maid
 Neptunium, Promethium, Manganese
 Nerdiest Political Manifesto
 Nerdiest Precious Modules
+Nerd Party Madness
 Nerd Play Mate
 Nerds Pledge Magnanimously
 Nerds Produce Money
@@ -201,6 +213,7 @@ New Programs Makers
 New Project, Monday
 New Purple Moon
 Newbies Pass Muster
+Newline Pending Merge
 Newline Proliferating Maniac
 Newly Paranoid Maintainers
 Newly Practicing Mortician
@@ -244,6 +257,7 @@ Niggling Pant Monkey
 Nightingale Posing Mischievously
 Nightly Panic Munchies
 Nightly Patch Machine
+Nightly Perpetrated Mischief
 Nightly Punk Masters
 Nights Pay More
 Nighttime Peanut Migrations
@@ -268,7 +282,9 @@ Ninja Parading Musically
 Ninja Pokémon Master
 Ninja Programmers Mindmeld
 Ninja Pumpkin Mutants
+Ninjas Practicing Multidimensionality
 Nitrogen Poisonous Monoxide
+Nitrogenous Polymorphic Molecule
 Nixon's Pants Missing
 No Packages, Mate
 No Package Mishaps
@@ -289,6 +305,7 @@ No Prize Money
 No Problem Man
 No Problem Mate
 No Problem, Meatbag
+No Problemo Muchacho
 No Proscribed Meaning
 No Punches Made
 No Puns Monday
@@ -299,6 +316,7 @@ Nobel Prize Magnet
 Noble Programming Mantra
 Nobody Packages More
 Nobody Pays (for) Magazines
+Nobody Peels Mangoes
 Nobody Publish Monsters
 Nobody's Perfect, Man
 Nobody Picked Me
@@ -380,8 +398,10 @@ Nostalgic Piano Music
 Nostalgic Pickled Mango
 Nostalgic Pizza Manager
 Nostalgic Primordial Monster
+Nosy Pinocchio Manners
 Not a Package Manager
 Not a Penny More
+Not Pancake Mix
 Not Parents' Money
 Not Particularly Meaningful
 Not Pictured: Mangoes
@@ -411,6 +431,7 @@ Novel Personal Mantras
 Novel Planetary Movement
 Novelty Palliates Malaise
 Novelty Plastic Moustache
+Novelty Polygonal Mathematics
 November Perfect Moustache
 November's Paddleball Marathon
 Novice Prime Minister
@@ -431,10 +452,12 @@ npm provides modules
 npm: package manager
 npm: possibly marvellous
 npm's pretty magical
+npm pretty much
 NTFS Path Mockery
 Nth Phonetic Mnemonic
 Nth Power Matrix
 Nu Pop Metal
+Nuclear Pizza Machine
 Nuclear Planning Manual
 Nuclear Power Manager
 Nuclear Powered Macros
@@ -443,6 +466,7 @@ Nuclear Pumpkin Mocha
 Nuclearly Potent Moonshine
 Nucleophosmin
 nuǝɯ pǝɥsᴉꞁod mǝu
+NuGet Package Manager
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
 Null Pointer Missing
