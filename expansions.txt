@@ -347,6 +347,7 @@ Node's Play Mate
 Node's Personal Monk
 Node's Pocket Monsters
 Node's Power Meal
+Node Powers Machines
 Nodes Per Minute
 Nodeschool Public Materials
 Noiseless Party Machine
@@ -356,6 +357,7 @@ Noisy Pop Music
 nom, please more
 Nomad Packaging Mechanism
 Nomenclature Processing Machine
+Nominal Programmer, Majesty
 Nominally Patriotic Meathead
 Nomnom Pumpernickle Muffins
 Non Programming Manager
