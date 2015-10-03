@@ -382,6 +382,7 @@ Nonchalantly Performs Magic
 Noncollinear Perpendicular Microcrystalline
 Noncommital Premarital Mischief
 Nonconformist Propaganda Machine
+Nondeterministic Palindrome Machine
 Nondeterministic Polynomial Munchies
 Nondeterministic Postrequisite Metaprotocol
 Nondeterministic Programming Methodology
