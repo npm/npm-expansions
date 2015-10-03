@@ -399,6 +399,7 @@ Nonviolent Pigeon Manifestation
 Nonvoluntary Professional Mangling
 Noodle Printing Machine
 Noodly Pasta Maker
+noop(); pop(); map();
 Noosphere Possibilities Maximized
 Normal People, MMM!
 Normal Programming Mistake
