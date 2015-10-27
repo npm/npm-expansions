@@ -20,7 +20,6 @@ This is the source code for the three-word thingies that randomly appear in the 
 - Nickel Plated Moose
 - Nineties Party Mix
 - Null Pointer Missing
-- Nymphets Playing Mahjong
 
 ## How to Contribute
 

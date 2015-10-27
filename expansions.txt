@@ -11,7 +11,6 @@ Nagging Penguin Matriarchs
 Nail Polishing Minions
 Naive Puppets Marching
 Naivete Precedes Misrepresentation
-Naked Panda Meditations
 Namby Pamby Magicians
 Name Picker Malfunction
 Nameless Package Manager
@@ -63,7 +62,6 @@ National Patience Month
 National Pest Management
 National Poetry Month
 National Public Mania
-Nationwide Polygamous Matrimony
 Native Package Manager
 Native Papuan Masks
 Natively Pronounced Mandarin
@@ -82,7 +80,6 @@ Naughty Platypus Memorabilia
 Naughty Praying Mantis
 Naughty Program Manipulator
 Naughty Programmer's Madness
-Naughty Pterodactyl Maid
 Naughty Push Message
 Nauseating Packaged Meat
 Nautical Pea Maker
@@ -159,7 +156,6 @@ Nepotistic Pontifex Maximus
 Neptune's Personal Maid
 Neptunium, Promethium, Manganese
 Nerd Party Madness
-Nerd Play Mate
 Nerdiest Political Manifesto
 Nerdiest Precious Modules
 Nerds Pledge Magnanimously
@@ -272,7 +268,6 @@ Nifty Poutine Meal
 Nifty Procrastination Machine
 Nifty Pun Master
 Nifty Purring Manticore
-Nigerian Prince Meme
 Niggling Pant Monkey
 Nightingale Posing Mischievously
 Nightly Panic Munchies
@@ -308,7 +303,6 @@ Ninjas Practicing Multidimensionality
 Nitrate Processed Mincemeat
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
-Nixon's Pants Missing
 No Package Mishaps
 No Packages Misplaced
 No Packages, Mate
@@ -324,7 +318,6 @@ No Points Made
 No Possible Meaning
 No Potty Mouths
 No! Primate Mutation!
-No Princess, Mario
 No Prize Money
 No Problem Man
 No Problem Mate
@@ -351,7 +344,6 @@ Nocturnal Parakeet Monitor
 Nocturnal Practitioners of Magic
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
-Node Package Maid
 Node Package Manager
 Node Package Master
 Node Packaged Masterfully
@@ -362,11 +354,9 @@ Node Pizza Maker
 Node Pleases Me
 Node Plus Me
 Node Popular Man
-Node Promiscuous Modules
 Node's Package Magician
 Node's Perpetuum Mobile
 Node's Personal Monk
-Node's Play Mate
 Node's Pocket Monsters
 Node's Power Meal
 Nodes Per Minute
@@ -522,9 +512,6 @@ Nutty Professor Movie
 Nutty Programming Men
 nuǝɯ pǝɥsᴉꞁod mǝu
 Nybble Processing Mainframe
-Nymph-Pursuing Machine
-Nymphets Playing Mahjong
-Nymphomaniac Python Mythology
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
