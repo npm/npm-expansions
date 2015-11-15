@@ -48,6 +48,7 @@ Narwhal Parade Maestro
 Narwhals Playing Mahjong
 Narwhals Poke Mammals
 Nary a Package Missing
+Nasa Planet Maps
 NASA Proceeds to Mars
 NASA: Pluto Matters!
 Nasal Pathway Melodrama
@@ -157,6 +158,7 @@ Neopolitan Pizza Maker
 Neovictorian Paisley Menswear
 Nepotistic Pontifex Maximus
 Neptune's Personal Maid
+Neptune's Planet Moons
 Neptunium, Promethium, Manganese
 Nerd Party Madness
 Nerd Play Mate
@@ -207,6 +209,7 @@ Never Publish Malarkey
 Never Pummel Muskoxen
 Never Punch Manticores
 Never Push Mistakes
+Never Push Me
 Never Push to Master
 Neverending Package Mountain
 Neverending Perpetual Motion
@@ -316,6 +319,7 @@ No Padding Margin
 No Painful Merges
 No Pants Monkey
 No Pants, Mom
+No Paranormal Movies?
 No Particular Method
 No Partying Mariachis
 No Password Management
@@ -414,6 +418,8 @@ Normal Programming Mistake
 Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
 North Pole Merriment
+North Pole Magnet
+North-American Paris Movement
 Northern Pileated Marmoset
 Norvell's Public Machinations
 Norvell, Please Merge
@@ -482,6 +488,7 @@ npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
+npm puzzles me
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
