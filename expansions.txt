@@ -414,6 +414,7 @@ Normal Programming Mistake
 Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
 North Pole Merriment
+North-American Paris Movement 
 Northern Pileated Marmoset
 Norvell's Public Machinations
 Norvell, Please Merge
@@ -485,6 +486,7 @@ npm provides modules
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
+NPM Supports Paris
 NTFS Path Mockery
 Nth Phonetic Mnemonic
 Nth Power Matrix
