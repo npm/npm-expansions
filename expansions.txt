@@ -207,6 +207,7 @@ Never Publish Malarkey
 Never Pummel Muskoxen
 Never Punch Manticores
 Never Push Mistakes
+Never Push Monkeys
 Never Push to Master
 Neverending Package Mountain
 Neverending Perpetual Motion
