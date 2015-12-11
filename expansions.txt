@@ -8,6 +8,7 @@ Nacho Portmanteau Meltdown
 Nacho Printing Machine
 Nachos Pillage Milwaukee
 Nagging Penguin Matriarchs
+Nail Polish Makeover
 Nail Polishing Minions
 Naive Puppets Marching
 Naivete Precedes Misrepresentation
@@ -219,6 +220,7 @@ New Package Monster
 New Patch, Merge?
 New Personal Mail
 New Phone Models
+New Policy Maker
 New Power Management
 New Power Manual
 New Powerful Machines
@@ -411,6 +413,7 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Normal People, MMM!
 Normal Programming Mistake
+Normally Pleasant Mixture
 Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
 North Pole Merriment
@@ -443,6 +446,7 @@ Notable Pseudocode Mashups
 Notably Polite Mariner
 Notary Public Mystifier
 Note: Purchase Milk
+Notebook Page Margin
 Noteworthy Programming Masterpiece
 Noteworthy Programs Map
 Nothing Pleases Me
@@ -486,6 +490,7 @@ npm's pretty magical
 npm: package manager
 npm: possibly marvellous
 NTFS Path Mockery
+Nth Permutation Mathematics
 Nth Phonetic Mnemonic
 Nth Power Matrix
 Nu Pop Metal
