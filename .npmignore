@@ -1,4 +1,4 @@
 # I'm here and I'm empty
 #
-# expansions.js is a product of the build process, so it's ignored by git
-# This empty .npmignore files exists so it's not ignored by npm
+# expansions.json is a product of the build process, so it's ignored by git
+# This empty .npmignore file exists so expansions.json will not be ignored by npm

@@ -1,33 +1,31 @@
 {
   "name": "npm-expansions",
-  "version": "1.14.0",
   "description": "What does n-p-m stand for?",
-  "main": "expansions.js",
-  "scripts": {
-    "build": "./bin/build.js",
-    "prepublish": "npm test",
-    "pretest": "npm run build",
-    "test": "tap test"
+  "version": "2.2.1",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "bugs": {
+    "url": "https://github.com/npm/npm-expansions/issues"
   },
+  "devDependencies": {
+    "tap": "^0.4.13"
+  },
+  "homepage": "https://github.com/npm/npm-expansions",
+  "keywords": [
+    "abbreviations",
+    "acronym",
+    "names",
+    "naming-is-hard",
+    "npm"
+  ],
+  "license": "ISC",
+  "main": "expansions.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/npm/npm-expansions"
   },
-  "keywords": [
-    "npm",
-    "acronym",
-    "abbreviations",
-    "names",
-    "naming-is-hard",
-    "recursive-bacronymic-abbreviations"
-  ],
-  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/npm/npm-expansions/issues"
-  },
-  "homepage": "https://github.com/npm/npm-expansions",
-  "devDependencies": {
-    "tap": "^0.4.13"
+  "scripts": {
+    "prepublish": "npm test",
+    "pretest": "node build.js",
+    "test": "tap test"
   }
 }
