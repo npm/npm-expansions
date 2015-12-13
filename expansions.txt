@@ -427,13 +427,13 @@ Nondeterministic Palindrome Machine
 Nondeterministic Polynomial Munchies
 Nondeterministic Postrequisite Metaprotocol
 Nondeterministic Programming Methodology
-Nondigestible Purple Mayonnaise 
+Nondigestible Purple Mayonnaise
 Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
 Nonlinear Programming Methods
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
-Nonstop Pajama Models 
+Nonstop Pajama Models
 Nonstop Pet Mewing
 Nonstop Progressive Marxism
 Nonviolent Pigeon Manifestation
@@ -444,6 +444,7 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Normal People, MMM!
 Normal Programming Mistake
+Normally Pleasant Mixture
 Normally Palatable Mango
 Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
