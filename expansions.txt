@@ -526,6 +526,7 @@ npm's pretty magical
 npm: package manager
 npm: possibly marvellous
 NTFS Path Mockery
+Nth Permutation Mathematics
 Nth Phonetic Mnemonic
 Nth Power Matrix
 Nü Metal Provocateur
