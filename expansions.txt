@@ -28,10 +28,10 @@ Nana Plays Minesweeper
 Nanananananananana.. Pat Man!
 Nancy's Preferred Machete
 Nanobots Producing Megastructures
-Nanotech Parading Mars
 Nanometer Process Machine
 Nanoprogrammed Penultimate Musicianship
 Nanoscale Parts Manufacturing
+Nanotech Parading Mars
 Nanotechnology Promises Much
 Nap Power: Maximum
 Napolean Paced Mischeviously
@@ -103,6 +103,7 @@ Naval Pilgrim's Mayflower
 Navel Piercing Madness
 Navy Penguin Mariachi
 Naysayers Promote Misery
+Ne Pas Manger!
 Neanderthals Paint Mammals
 Neanderthals Programming Machines
 Neapolitan Pasta Maker
@@ -110,8 +111,8 @@ Near Perfect Mood
 Nearly Past Midnight
 Nearly Perfect Mediocracy
 Nearly Picked Makefiles
-Nearly-Pickled Module
 Nearly Pooped Myself
+Nearly-Pickled Module
 Nearsighted Paramecium Multiverse
 Neat Paraskavedekatriaphobia's Meaning
 Neat! Pickled Muskrat!
@@ -153,8 +154,8 @@ Negligent Pachinko Machine
 Negligible Participation Metric
 Negotiable Paleobotanist Missions
 Neigh Purr Moo
-Neighborly Package Megalodon
 Neighbor's Preppy Maltese
+Neighborly Package Megalodon
 Neighbourhood Party Manager
 Neil Patrick's Mansion
 Nemo's Parental Misguidance
@@ -236,9 +237,7 @@ Nevertheless Published Mine
 New Package Monster
 New Patch, Merge?
 New Personal Mail
-ɹǝʞɐW ǝʌᴉʇɔǝdsɹǝԀ ʍǝN
 New Phone Models
-nuǝɯ pǝɥsᴉꞁod mǝu
 New Power Management
 New Power Manual
 New Powerful Machines
@@ -350,7 +349,6 @@ No Points Made
 No Possible Meaning
 No Potty Mouths
 No Prejudice Makers
-No! Primate Mutation!
 No Princess, Mario
 No Prize Money
 No Problem Man
@@ -361,6 +359,7 @@ No Proscribed Meaning
 No Punches Made
 No Puns Monday
 No Purchase Made
+No! Primate Mutation!
 No, Pay Me
 Noah's Pairwise Manifest
 Nobel Prize Magnet
@@ -444,8 +443,8 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Normal People, MMM!
 Normal Programming Mistake
-Normally Pleasant Mixture
 Normally Palatable Mango
+Normally Pleasant Mixture
 Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
 North Pole Merriment
@@ -505,8 +504,8 @@ Novelty Plastic Moustache
 Novelty Polygonal Mathematics
 November Perfect Moustache
 November's Paddleball Marathon
-Novice, Paragon, Master
 Novice Prime Minister
+Novice, Paragon, Master
 Novices Performing Miracles
 Now Package More
 Now Packing Magic
@@ -531,7 +530,6 @@ NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
 Nth Power Matrix
-Nü Metal Provocateur
 Nu Pop Metal
 Nuanced Pterodactyl Monk
 Nuclear Pizza Machine
@@ -563,12 +561,14 @@ Nutella Per Minute
 Nutmeg Plundering Muse
 Nutrias Punching Marmots
 Nutrient Packed Morsels
-Nutritious Pumpkin Meal
 Nutritious Pomegranate Muffins
+Nutritious Pumpkin Meal
 Nutty Penguin Music
 Nutty Professor Movie
 Nutty Programming Men
+nuǝɯ pǝɥsᴉꞁod mǝu
 Nybble Processing Mainframe
+Nü Metal Provocateur
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
