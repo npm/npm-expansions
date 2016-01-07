@@ -385,6 +385,7 @@ Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
+Node Picked Me
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
