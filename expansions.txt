@@ -485,6 +485,7 @@ npm provides modules
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
+NP Mystery
 NTFS Path Mockery
 Nth Phonetic Mnemonic
 Nth Power Matrix
