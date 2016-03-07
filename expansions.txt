@@ -577,7 +577,6 @@ Nutty Professor Movie
 Nutty Programming Men
 nuǝɯ pǝɥsᴉꞁod mǝu
 Nybble Processing Mainframe
-Nü Metal Provocateur
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
