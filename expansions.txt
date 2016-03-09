@@ -548,6 +548,7 @@ Nuclear Powered Macros
 Nuclear Powered Mushroom
 Nuclear Pumpkin Mocha
 Nuclearly Potent Moonshine
+Nucleic Photon Magnetizer
 Nucleophosmin
 NuGet Package Manager
 Nukem's Possible Manifestation
