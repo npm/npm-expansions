@@ -347,6 +347,7 @@ No Package Mishaps
 No Packages Misplaced
 No Packages, Mate
 No Padding Margin
+No Padding Module
 No Painful Merges
 No Pants Mafia
 No Pants Monkey
