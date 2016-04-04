@@ -1,4 +1,4 @@
-N00b Pwn M3
+﻿N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
 Naboo's Podracing Misadventure
@@ -543,6 +543,7 @@ Nth Phonetic Mnemonic
 Nth Power Matrix
 Nu Pop Metal
 Nuanced Pterodactyl Monk
+Nuclear Painful Nuke
 Nuclear Pizza Machine
 Nuclear Planning Manual
 Nuclear Power Manager
