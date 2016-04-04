@@ -112,6 +112,7 @@ Neapolitan Pasta Maker
 Near Perfect Mood
 Nearly Past Midnight
 Nearly Perfect Mediocracy
+Nearly Perfect Moment
 Nearly Picked Makefiles
 Nearly Pooped Myself
 Nearly-Pickled Module
@@ -184,6 +185,7 @@ Nerd Party Madness
 Nerd Play Mate
 Nerdiest Political Manifesto
 Nerdiest Precious Modules
+Nerds Per Minute
 Nerds Pledge Magnanimously
 Nerds Produce Money
 Nerds Publishing Monstrosities
@@ -194,6 +196,8 @@ Nerdy Pun Mavens
 Nerfing Powerful Megalomaniacs
 Nero Punished Miscreants
 Nervous Parrot Muttering
+Nessessary Pikachu Massacre
+Nessessary Pokemon Massacre
 Nestable Processes Mutate
 Nested Parenthetical Madness
 Nested Public Modules
@@ -352,6 +356,7 @@ No Pants Mafia
 No Pants Monkey
 No Pants, Mom
 No Particular Method
+No Particular Method
 No Partying Mariachis
 No Password Management
 No Plugins; Monolithic
@@ -472,6 +477,7 @@ Nostalgic Piano Music
 Nostalgic Pickled Mango
 Nostalgic Pizza Manager
 Nostalgic Primordial Monster
+Nostrils, Please Meet
 Nostradamus Predicting Maelstroms
 Nosy Pinocchio Manners
 Not a Package Manager
@@ -521,6 +527,7 @@ Now Package More
 Now Packing Magic
 Now Paging Maciej
 Now Particularly Misnamed
+Now Picture Me
 Now Playing Mario
 Now Playing Mathcore
 Now Printing Money
