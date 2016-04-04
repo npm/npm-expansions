@@ -112,6 +112,7 @@ Neapolitan Pasta Maker
 Near Perfect Mood
 Nearly Past Midnight
 Nearly Perfect Mediocracy
+Nearly Perfect Moment
 Nearly Picked Makefiles
 Nearly Pooped Myself
 Nearly-Pickled Module
@@ -351,6 +352,8 @@ No Painful Merges
 No Pants Mafia
 No Pants Monkey
 No Pants, Mom
+No Particle Movement
+No Particular Method
 No Particular Method
 No Partying Mariachis
 No Password Management
@@ -521,6 +524,7 @@ Now Package More
 Now Packing Magic
 Now Paging Maciej
 Now Particularly Misnamed
+Now Picture Me
 Now Playing Mario
 Now Playing Mathcore
 Now Printing Money
