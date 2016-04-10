@@ -529,6 +529,7 @@ Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
 npm packaged modules
+npm's personal messenger
 npm pretty much
 npm private modules
 npm promotes metadefinitions
