@@ -247,7 +247,6 @@ Never Push Mistakes
 Never Push to Master
 Neverending Package Mountain
 Neverending Perpetual Motion
-Neverending Pilates Maneuver
 Neverending Plethora of Modules
 Neverending Programming Mistakes
 Neverending Prototype Mode
@@ -447,6 +446,7 @@ Non-Polite Mother
 Non-Polynomial Mantissa
 Non-Potable Macchiato
 Non-Printable Material
+Nonalcoholic Potable Moonshine
 Nonagons Please Me
 Nonchalantly Performs Magic
 Noncollinear Perpendicular Microcrystalline
