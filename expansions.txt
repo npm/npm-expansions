@@ -152,6 +152,7 @@ Needs Perl Modules
 Needs Puma Managers
 Needy Poetic Mothers
 Nefarious Planetary Meddling
+Nefarious Prankster Maniac
 Nefarious Punk Monk
 Nefariously Programmed Mecha
 Nefariously Pushing Master
