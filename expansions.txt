@@ -471,6 +471,7 @@ Node Plus Me
 Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
+Node's Perfect Mate
 Node's Perpetuum Mobile
 Node's Personal Monk
 Node's Play Mate
