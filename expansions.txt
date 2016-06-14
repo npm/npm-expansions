@@ -628,6 +628,7 @@ Now with Partition Management
 Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm packaged modules
+npm's personal messenger
 npm pretty much
 npm private modules
 npm promotes metadefinitions
