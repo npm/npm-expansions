@@ -165,7 +165,7 @@ Nebulous Program Mechanic
 Nebulous Puffy Marshmallows
 Necessarily Precedes Mischief
 Necessary Pigeonholing Mechanism
-Necessary Package Modules
+Necessary Package
 Necessitates Proper Modularity
 Necromancers Playing MTG
 Necrotizing Pineapple Music
@@ -205,6 +205,7 @@ Neigh Purr Moo
 Neighbor's Preppy Maltese
 Neighborly Package Megalodon
 Neighbourhood Party Manager
+Neighbour Problem Manager
 Neil Patrick's Mansion
 Nemo's Parental Misguidance
 Neo's Personal Matrix
