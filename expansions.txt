@@ -298,6 +298,7 @@ Never Pummel Muskoxen
 Never Punch Manticores
 Never Push Mistakes
 Never Push to Master
+Neverending Party Manager
 Neverending Package Mountain
 Neverending Perpetual Motion
 Neverending Pile of Messages
