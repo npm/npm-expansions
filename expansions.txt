@@ -73,6 +73,7 @@ Narwhals Playing Mahjong
 Narwhals Poke Mammals
 Narwhals Prolong Mischief
 Nary a Package Missing
+NASA Planetary Mission
 NASA Proceeds to Mars
 NASA: Pluto Matters!
 Nasal Pathway Melodrama
@@ -173,6 +174,7 @@ Need Package Maintenance
 Need Pray More
 Need Private Modules
 Need Prize Money
+Need Public Method
 Needful Program Management
 Needle-Pinpointing Machine
 Needless Patchouli Manufacture
@@ -204,6 +206,7 @@ Neigh Purr Moo
 Neighbor's Preppy Maltese
 Neighborly Package Megalodon
 Neighbourhood Party Manager
+Neighbour Problem Manager
 Neil Patrick's Mansion
 Nemo's Parental Misguidance
 Neo's Personal Matrix
@@ -546,6 +549,7 @@ Nonlinear Performance Magnification
 Nonlinear Programming Methods
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
+Nonsense Parser Microframework
 Nonstop Pajama Models
 Nonstop Perpetual Motion
 Nonstop Pet Mewing
@@ -606,6 +610,7 @@ Notary Public Mystifier
 Note: Purchase Milk
 Notebook Page Margin
 :notebook: :pencil: :milky_way:
+Notes Per Minute
 Noteworthy Programming Masterpiece
 Noteworthy Programs Map
 Noteworthy Puppy Movies
@@ -639,6 +644,7 @@ Novelty Plastic Moustache
 Novelty Polygonal Mathematics
 Novelty Promotes Magicians
 November Perfect Moustache
+November Papa Mike
 November's Paddleball Marathon
 November: Procrastination Month
 Novice Prime Minister
