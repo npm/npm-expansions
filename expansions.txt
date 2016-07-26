@@ -1,4 +1,4 @@
-*nix Programming Mammals
+﻿*nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -170,6 +170,7 @@ Necessitates Proper Modularity
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
+Ned's Problematic Manager
 Need Package Maintenance
 Need Pray More
 Need Private Modules
