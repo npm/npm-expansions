@@ -666,6 +666,7 @@ Now, Publish Me
 Now, Push Me
 Now with Partition Management
 Noxious Plant Miasma
+Noxious Pokemon Mania
 Nozzle Piping Mismatch
 npm packaged modules
 npm's personal messenger
