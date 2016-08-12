@@ -696,6 +696,7 @@ Nucleic Phosphate Modifier
 Nucleic Photon Magnetizer
 Nucleophosmin
 NuGet Package Manager
+Nuggets Please, Mom!
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
