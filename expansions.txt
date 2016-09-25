@@ -489,6 +489,7 @@ Nodding Previously Managed
 Node Package Maid
 Node Package Manager
 Node Package Master
+Node Package McBoatface
 Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
