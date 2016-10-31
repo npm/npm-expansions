@@ -677,6 +677,7 @@ npm provides modules
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
+NSA’s Pervasive Metadata
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
