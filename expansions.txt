@@ -35,6 +35,7 @@ Nancy's Preferred Machete
 Nanobot: Polygonal Mascot
 Nanobots Producing Megastructures
 Nanobots Protecting Microbots
+Nanocephalous Package Maintainers
 Nanometer Process Machine
 Nanometers Per Millisecond
 Nanoprogrammed Penultimate Musicianship
@@ -121,6 +122,7 @@ Naughty Programmer's Madness
 Naughty Pterodactyl Maid
 Naughty Push Message
 Nauseating Packaged Meat
+Nauseated Penguins Migrate
 Nautical Pea Maker
 Nautical Pirate Moustache
 Nautical Poseidon Mythology
