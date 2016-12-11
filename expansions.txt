@@ -560,6 +560,7 @@ Nonviolent Pigeon Manifestation
 Nonviolent Pirate Mobster
 Nonvoluntary Professional Mangling
 Noodle Printing Machine
+Noodle Pot Manager
 Noodly Pasta Maker
 Noodles Practicing Medicine
 noop(); pop(); map();
