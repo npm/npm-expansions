@@ -494,6 +494,7 @@ Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
 Node Pizza Maker
+Node Plasma Membrane
 Node Pleases Me
 Node Plus Me
 Node Popular Man
