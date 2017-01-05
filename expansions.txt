@@ -12,6 +12,7 @@ Nachos Pillage Milwaukee
 Nachos Preventing Motivation
 Nagging Mario's Princess
 Nagging Penguin Matriarchs
+Nagging PullRequest Manager
 Nail Polish Makeover
 Nail Polishing Minions
 Naive Puppets Marching
@@ -77,7 +78,6 @@ NASA Planetary Mission
 NASA Proceeds to Mars
 NASA: Pluto Matters!
 Nasal Pathway Melodrama
-Nasal Piercings Manipulator
 Nascent Personality Manifestation
 Nascent Plasticine Materialist
 Nascent Political Miscreant
