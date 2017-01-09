@@ -678,6 +678,7 @@ npm provides modules
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
+NSA Privacy Manager
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
