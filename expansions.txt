@@ -674,6 +674,7 @@ npm pretty much
 npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
+npm > composer
 npm provides modules
 npm's pretty magical
 npm: package manager
