@@ -575,6 +575,7 @@ Normally Pleasant Mixture
 Norse Polytheistic Mythology
 North Pittsburgh Meatpackers
 North Pole Merriment
+North-American Paris Movement 
 Northern Pileated Marmoset
 Northern Pie Muncher
 Norvell's Public Machinations
@@ -678,6 +679,7 @@ npm provides modules
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
+NPM Supports Paris
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
