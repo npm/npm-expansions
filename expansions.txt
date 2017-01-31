@@ -45,6 +45,7 @@ Nanotechnology Promises Much
 Nantes Paradox Market
 Não Posso Mais
 Nap Power: Maximum
+Napalm Power Maximum
 Napolean Paced Mischeviously
 Napoleon's Penguin Mascot
 Napoleon's Pixelated Mugshot
@@ -566,6 +567,7 @@ Noodles Practicing Medicine
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nordic Panda Moor
+Nordic Post Master
 Normal People, MMM!
 Normal Programming Mistake
 Norse Power Metal
