@@ -1,0 +1,31 @@
+{
+  "name": "npm-expansions",
+  "description": "What does n-p-m stand for?",
+  "version": "2.2.4",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "bugs": {
+    "url": "https://github.com/npm/npm-expansions/issues"
+  },
+  "devDependencies": {
+    "tap": "^0.4.13"
+  },
+  "homepage": "https://github.com/npm/npm-expansions",
+  "keywords": [
+    "abbreviations",
+    "acronym",
+    "names",
+    "naming-is-hard",
+    "npm"
+  ],
+  "license": "ISC",
+  "main": "expansions.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm-expansions"
+  },
+  "scripts": {
+    "prepublish": "npm test",
+    "pretest": "node build.js",
+    "test": "tap test"
+  }
+}
