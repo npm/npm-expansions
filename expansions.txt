@@ -677,6 +677,7 @@ npm promulgates marsupials
 npm provides modules
 npm's pretty magical
 npm: package manager
+npm, please manage
 npm: possibly marvellous
 NTFS Path Mockery
 Nth Permutation Mathematics
