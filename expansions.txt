@@ -1,4 +1,4 @@
-*nix Programming Mammals
+﻿*nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -377,6 +377,7 @@ Nifty Penguin Magic
 Nifty Pony Merchandise
 Nifty Poutine Meal
 Nifty Procrastination Machine
+Nifty Programmer Messages
 Nifty Pun Master
 Nifty Purring Manticore
 Nigerian Prince Meme
