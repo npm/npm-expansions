@@ -498,8 +498,8 @@ Node Pizza Maker
 Node Pleases Me
 Node Plus Me
 Node Popular Man
-Node Promiscuous Modules
 Node Powered Modules
+Node Promiscuous Modules
 Node's Package Magician
 Node's Perfect Mate
 Node's Perpetuum Mobile
