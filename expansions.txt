@@ -1,3 +1,4 @@
+Naughty Package Manager
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
