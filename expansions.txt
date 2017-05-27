@@ -279,6 +279,7 @@ Neutrino Packing Machine
 Neutrinos Peludos Magnéticos
 Neutron Polarization Manipulator
 Never Paint Mohawks
+Never Paint Monkeys
 Never Panic Much
 Never Patronize Mothers
 Never Pay your Mortgage
@@ -298,6 +299,7 @@ Never Pummel Muskoxen
 Never Punch Manticores
 Never Push Mistakes
 Never Push to Master
+Never Push Mildly-Finished-Releases
 Neverending Package Mountain
 Neverending Perpetual Motion
 Neverending Pile of Messages
