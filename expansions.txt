@@ -497,6 +497,7 @@ Node People Magic
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
+Node Plutonium Manager
 Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
