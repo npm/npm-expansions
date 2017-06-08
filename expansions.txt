@@ -614,6 +614,7 @@ Notably Polite Mariner
 Notary Public Mystifier
 Note: Purchase Milk
 Notebook Page Margin
+:notebook: :pencil: :milky_way:
 Notes Per Minute
 Noteworthy Programming Masterpiece
 Noteworthy Programs Map
