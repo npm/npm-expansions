@@ -511,6 +511,7 @@ Node's Pretty Magical
 Nodes Per Minute
 Nodeschool Public Materials
 Nodular Pudding Multiverse
+Noice Package Manager
 Noiseless Party Machine
 Noiseless Peaceful Morning
 Noiseless Praying Mantis
