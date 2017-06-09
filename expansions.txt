@@ -85,6 +85,7 @@ Nascent Prototype Metaverse
 Nashville Plays Music
 Nasty Polka Music
 Nasty Popsicle Machine
+Nasty Package Manipulator
 National Palace Museum
 National Park of Minnesota
 National Party Month
@@ -567,6 +568,7 @@ Noodles Practicing Medicine
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nordic Panda Moor
+Nordic Pitchfork Magician
 Normal People, MMM!
 Normal Programming Mistake
 Norse Power Metal
