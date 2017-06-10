@@ -21,6 +21,8 @@ This is the source code for the three-word thingies that randomly appear in the 
 - Nineties Party Mix
 - Null Pointer Missing
 
+See [who to blame](https://github.com/npm/npm-expansions/blame/master/expansions.txt)
+
 ## How to Contribute
 
 Add your own expansion to [expansions.txt](expansions.txt), then send us a pull request! **If you think of multiple possibilities, please submit them as separate PRs**, as we may like some but not others.
