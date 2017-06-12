@@ -290,6 +290,7 @@ Never Please Meanies
 Never Poke Monkeys
 Never Post Memes
 Never Prank Me
+Never Press Mute
 Never Print Magazines
 Never Program Mad
 Never Propel Marmalade
@@ -678,6 +679,7 @@ npm provides modules
 npm's pretty magical
 npm: package manager
 npm: possibly marvellous
+NSA Privacy Manager
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
