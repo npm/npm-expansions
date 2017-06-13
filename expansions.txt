@@ -146,6 +146,7 @@ Nearly Perpendicular Macaroons
 Nearly Picked Makefiles
 Nearly Pooped Myself
 Nearly-Pickled Module
+Nearly Puking Meerkats
 Nearly Pure Mustard
 Nearsighted Paramecium Multiverse
 Nearsighted Prank Master
@@ -261,6 +262,7 @@ Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
 Neurological Phenomenon Multiplexer
+Neurological Pooping Mechanism
 Neurologically Paralyzing Mouseovers
 Neurophysiologically Pseudoscientific Manatee
 Neurotic and Probably Misinformed
@@ -325,6 +327,7 @@ New Prog Mixtape
 Newbie Paintball Master
 Newbies Pass Muster
 Newfangled Package Modernizer
+Newfangled Programming Mumbojumbo
 Newline Pending Merge
 Newline Proliferating Maniac
 Newly Paranoid Maintainers
@@ -400,6 +403,7 @@ Nihilist Postmodern Mistake
 Nihilistic Party Mantra
 Nil Packet Minimizer
 Nimble Package Maestros
+Nimble Pantyhose Management
 Nimble Pirate Monitor
 Nimble Pixie Merchant
 Nimble Polyglot Microcosm
@@ -671,6 +675,7 @@ Nozzle Piping Mismatch
 npm packaged modules
 npm's personal messenger
 npm pretty much
+npm prevents meltdowns
 npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
