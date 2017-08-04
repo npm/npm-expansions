@@ -670,6 +670,7 @@ Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm packaged modules
 npm's personal messenger
+npm's plethora of monikers
 npm pretty much
 npm private modules
 npm promotes metadefinitions
