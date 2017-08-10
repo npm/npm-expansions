@@ -517,6 +517,7 @@ Nodular Pudding Multiverse
 Noiseless Party Machine
 Noiseless Peaceful Morning
 Noiseless Praying Mantis
+Noisy Penguin Muncher
 Noisy Pillaging Monster
 Noisy Pirate Mutiny
 Noisy Pneumatic Mnemonic
@@ -591,7 +592,6 @@ Norwegian Puffin Movies
 Nose Picker's Maven
 Nose Picking Mechanisms
 Nosey Party Murderer
-Nosey Penguin Muncher
 Nosferatu's Pace Maker
 Nostalgic Perogi Monogramming
 Nostalgic Piano Music
