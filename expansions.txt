@@ -506,6 +506,7 @@ Node's Perpetuum Mobile
 Node's Personal Monk
 Node's Play Mate
 Node's Pocket Monsters
+Node's Power Magnet
 Node's Power Meal
 Node's Pretty Magical
 Nodes Per Minute
