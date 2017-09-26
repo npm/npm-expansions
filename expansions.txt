@@ -110,6 +110,7 @@ Natural Push Machine
 Naturally Pacifist Marsupials
 Naturally Processed Meals
 Naturally Produced Modules
+Naturally, Pippin and Merry
 Nature Preceded Machines
 Nature's Particle Manager
 Naughty Panda Manga
@@ -398,6 +399,7 @@ Nihilist Pocket Monsters
 Nihilistic Pool Man
 Nihilist Postmodern Mistake
 Nihilistic Party Mantra
+Nikola Powering Mankind
 Nil Packet Minimizer
 Nimble Package Maestros
 Nimble Pirate Monitor
@@ -658,6 +660,7 @@ Novices Plagiarizing Mozart
 Now Package More
 Now Packing Magic
 Now Paging Maciej
+Now Partially Merged
 Now Particularly Misnamed
 Now Playing Mario
 Now Playing Mathcore
@@ -666,6 +669,7 @@ Now, Please Meander
 Now, Publish Me
 Now, Push Me
 Now with Partition Management
+Nowaday Perpetuum Mobile
 Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm packaged modules
