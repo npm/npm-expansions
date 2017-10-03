@@ -349,6 +349,7 @@ Next Phenomenal Microbrewery
 Next Planet of Monkeys
 Next Popular Module
 Next Prince Montage
+Next Prodigious Menace
 next() Packaged Middleware
 NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
@@ -366,6 +367,7 @@ Nicely Packaged Make
 Nicely Pointed Mandibles
 Nicely Presented Misnomer
 Nicely Printed Maps
+Nicely Put Mockery
 Nicer Package Manager
 Nicer Perusal Method
 Niche Portobello Mushroom
@@ -450,6 +452,7 @@ No Pants, Mom
 No Particular Method
 No Partying Mariachis
 No Password Management
+No Pizza Magic
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
@@ -499,6 +502,7 @@ Node Pleases Me
 Node Plus Me
 Node Popular Man
 Node Promiscuous Modules
+Node Put Mystically
 Node's Package Magician
 Node's Pastoral Musicians
 Node's Perfect Mate
