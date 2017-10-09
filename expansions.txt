@@ -679,6 +679,7 @@ npm: package manager
 npm: possibly marvellous
 npm's personal messenger
 npm's pretty magical
+NPR Program Multibroadcasting
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
