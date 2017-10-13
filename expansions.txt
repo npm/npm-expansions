@@ -549,6 +549,7 @@ Nondigestible Purple Mayonnaise
 Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
 Nonlinear Programming Methods
+Nonsense, Parentheses Mandated
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonsense Parser Microframework
