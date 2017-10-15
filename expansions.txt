@@ -499,6 +499,7 @@ Node Pizza Maker
 Node Pleases Me
 Node Plus Me
 Node Popular Man
+Node pretty great
 Node Promiscuous Modules
 Node's Package Magician
 Node's Pastoral Musicians
