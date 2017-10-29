@@ -27,6 +27,7 @@ Namespace Pollution Mechanism
 Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
+NaN Prevents Math
 NaN Producing Misery
 Nana Plays Minesweeper
 Nana's Plush Muppet
@@ -69,6 +70,7 @@ Narnia Protect Me
 Narnia's Poofy Meatcleaver
 Narnia's Psychedelic Mushrooms
 Narrating Prophetic Monks
+Narrowly Passed Math
 Narwhal Parade Maestro
 Narwhals Playing Mahjong
 Narwhals Poke Mammals
@@ -570,7 +572,6 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nordic Panda Moor
 Normal People, MMM!
-Normal Poopthrowing Monkeys
 Normal Programming Mistake
 Normally Palatable Mango
 Normally Pleasant Mixture
