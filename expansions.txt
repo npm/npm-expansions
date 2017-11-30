@@ -669,6 +669,7 @@ Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
 Nozzle Piping Mismatch
+npm package manager
 npm packaged modules
 npm pretty much
 npm private modules
