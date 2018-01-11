@@ -46,6 +46,7 @@ NaNoWriMo Promotes Manuscription
 Nantes Paradox Market
 Não Posso Mais
 Nap Power: Maximum
+Nap Proof Mode
 Napolean Paced Mischeviously
 Napoleon's Penguin Mascot
 Napoleon's Pixelated Mugshot
@@ -488,6 +489,7 @@ Nocturnal Prancing Mosquito
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
 Nodding Previously Managed
+Node of puberty Meatballs
 Node Package Maid
 Node Package Manager
 Node Package Master
