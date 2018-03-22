@@ -56,6 +56,7 @@ Napoleonic Political Magnificence
 Napping Panda Missionaries
 Napping Peanut Monsters
 Naps Per Month
+Naphthalene Possum Management
 Narcissistic Passion Minified
 Narcissistic Piano Mover
 Narcissistic Pickle Meister
@@ -93,6 +94,7 @@ National Park of Minnesota
 National Party Month
 National Patience Month
 National Pest Management
+National Pizza Magistrate
 National Poetry Month
 National Preventative Mechanism
 National Public Mania
@@ -117,6 +119,7 @@ Naturally Processed Meals
 Naturally Produced Modules
 Nature Preceded Machines
 Nature's Particle Manager
+Nature's Powerful Meme
 Naughty Panda Manga
 Naughty Pinching Mannequins
 Naughty Platypus Memorabilia
@@ -170,7 +173,9 @@ Nebulae Populate M83
 Nebulous Plasma Muffin
 Nebulous Program Mechanic
 Nebulous Puffy Marshmallows
+Necesito Programar Más
 Necessarily Precedes Mischief
+Necessary Package Manager
 Necessary Pigeonholing Mechanism
 Necessitates Proper Modularity
 Necromancers Playing MTG
@@ -197,6 +202,7 @@ Nefarious Plastic Mannequins
 Nefarious Punk Monk
 Nefariously Programmed Mecha
 Nefariously Pushing Master
+Negating Past Mistakes
 Negatively Proportional Model
 Negatory. Postpone Mission.
 Neglected Parking Meter
@@ -253,6 +259,7 @@ Nerfing Powerful Megalomaniacs
 Nero Punished Miscreants
 Nervous Parrot Muttering
 Nervous Penpal Message
+Nervously Proposing Marriage
 Nestable Processes Mutate
 Nested Parenthetical Madness
 Nested Public Modules
@@ -274,6 +281,7 @@ Neurosis Prevention Mechanism
 Neurotic and Probably Misinformed
 Neurotic Pantaloon Maker
 Neurotic Pink Mongooses
+Neurotic Programmer Masquerade
 Neurotoxin Powered Marketing
 Neutered Paranoid Meerkat
 Neutered Puppy Masquerade
@@ -396,6 +404,7 @@ Nightly Panic Munchies
 Nightly Patch Machine
 Nightly Perpetrated Mischief
 Nightly Piano Man
+Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
@@ -422,6 +431,7 @@ Nine Percent Milk
 Nine Point Mulligan
 Nine Pomeranian Monsters
 Nine Post Meridiem
+Nine Pounds of Mayonnaise
 Nine Project Managers
 Nine Putrid Mangos
 Nineteen Poor Moths
@@ -476,6 +486,7 @@ No Punches Made
 No Puns Monday
 No Purchase Made
 No, Pay Me
+No Python Modules
 No! Primate Mutation!
 Noah's Pairwise Manifest
 Nobel Prize Magnet
@@ -533,6 +544,7 @@ nom, please more
 Nomad Packaging Mechanism
 Nomadic People Migration
 Nomenclature Processing Machine
+Nomenclature Predictably Misunderstood
 Nominal Package Missing
 Nominal Pizza Masticator
 Nominally Patriotic Meathead
@@ -579,6 +591,7 @@ Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
+Nope, prefer mopeds.
 Nordic Panda Moor
 Normal People, MMM!
 Normal Programming Mistake
@@ -629,6 +642,7 @@ Notary Public Mystifier
 Note: Purchase Milk
 Notebook Page Margin
 Notes Per Minute
+Noteworthy Placebo Mongers
 Noteworthy Programming Masterpiece
 Noteworthy Programs Map
 Noteworthy Puppy Movies
@@ -645,13 +659,16 @@ Notorious Penguin Magicians
 Notorious Preying Mantis
 Notorious Public Menace
 Notorious Pug Mafia
+Notorious Puppy Memes
 Notoriously Problematic Merge
 Notoriously Psychedelic Modules
 Notwithstanding Precautions, Misadventure
+Notwithstanding Previous Misdemeanors
 Nougat Predominant Middleware
 Noun/Pronoun Mix-up
 Nourished Personal Mucus
 Nourishing Pear Medley
+Nourishing Pizza Microservice
 Nouveau Papier Mâché
 Nouveau Print Maker
 Novel Personal Mantras
@@ -684,6 +701,7 @@ Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
 Nozzle Piping Mismatch
+npm package manager
 npm packaged modules
 npm pretty much
 npm private modules
@@ -703,6 +721,7 @@ Nuanced Pterodactyl Monk
 Nuclear Package Magnet
 Nuclear Pizza Machine
 Nuclear Planning Manual
+Nuclear Potato Monster
 Nuclear Power Manager
 Nuclear Powered Macros
 Nuclear Powered Marshmallows
@@ -721,6 +740,7 @@ Null Pointer Micromanagement
 Null Pointer Missing
 Nullifying Precipitation Machine
 Numbers Prefer Multiplication
+Numbers Probably Matter
 Numeric Production Mechanism
 Numerous Packages Multiply
 Numerous Panicky Mimes
@@ -742,6 +762,7 @@ Nutella with Pepperoni and Mushrooms
 Nutmeg Plundering Muse
 Nutrias Punching Marmots
 Nutrient Packed Morsels
+Nutritious Pancake Mountain
 Nutritious Polygonal Meatball
 Nutritious Pomegranate Muffins
 Nutritious Potato Munchies
