@@ -687,6 +687,7 @@ Now, Please Meander
 Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
+Noxious Pokemon Mania
 Nozzle Piping Mismatch
 npm package manager
 npm packaged modules
@@ -696,6 +697,7 @@ npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
 npm: package manager
+npm: professional mismanagement
 npm: possibly marvellous
 npm's personal messenger
 npm's pretty magical
