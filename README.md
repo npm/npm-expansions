@@ -23,7 +23,11 @@ This is the source code for the three-word thingies that randomly appear in the 
 
 ## How to Contribute
 
-Add your own expansion to [expansions.txt](expansions.txt), then send us a pull request! **If you think of multiple possibilities, please submit them as separate PRs**, as we may like some but not others.
+1. Add your own expansion to [expansions.txt](expansions.txt)
+2. Run `npm test` (this will format and alphabetize the file)
+3. Send us a pull request!
+
+**If you think of multiple possibilities, please submit them as separate PRs**, as we may like some but not others.
 
 Some other suggestions:
 
@@ -46,6 +50,7 @@ We'll no longer be accepting expansions that begin with the following frequent s
 * New
 * Nice
 * Nifty
+* Ninjas
 * No
 * Non
 * Nobody
