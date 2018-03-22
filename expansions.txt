@@ -359,8 +359,8 @@ Next Prince Montage
 next() Packaged Middleware
 NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
-Nibbling Perfect Macaroni
 Nibbling Pastry Monster
+Nibbling Perfect Macaroni
 Nicaragua's Pet Mice
 Nice Package, Mate
 Nice Paintings, Mondrian
@@ -441,11 +441,11 @@ Nirvana Playing Madonna
 Nit-Picking Magistrate
 Nit-Picking Manager
 Nitrate Processed Mincemeat
-Nitroglycerin Pickle Machine
 Nitro Powered Motorcycles
 Nitrogen Peroxide Monoxide
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
+Nitroglycerin Pickle Machine
 Nixon's Pants Missing
 No Package Mishaps
 No Packages Misplaced
@@ -659,6 +659,7 @@ November Papa Mike
 November Perfect Moustache
 November: Procrastination Month
 November's Paddleball Marathon
+Novice Pokémon Master
 Novice Prime Minister
 Novice, Paragon, Master
 Novice, Practiced, Mastered
