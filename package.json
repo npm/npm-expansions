@@ -7,7 +7,8 @@
     "url": "https://github.com/npm/npm-expansions/issues"
   },
   "devDependencies": {
-    "tap": "^0.4.13"
+    "tap": "^0.4.13",
+    "husky": "^0.14.3"
   },
   "homepage": "https://github.com/npm/npm-expansions",
   "keywords": [
@@ -25,7 +26,7 @@
   },
   "scripts": {
     "prepublish": "npm test",
-    "pretest": "node build.js",
+    "precommit": "node build.js",
     "test": "tap test"
   }
 }
