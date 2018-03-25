@@ -27,6 +27,7 @@
   "scripts": {
     "prepublish": "npm test",
     "precommit": "node build.js",
+    "pretest": "node build.js",
     "test": "tap test"
   }
 }
