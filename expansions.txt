@@ -577,7 +577,6 @@ Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
 Nonlinear Programming Methods
 Nonsense Parser Microframework
-Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonstick Pancake Maker
@@ -594,6 +593,7 @@ Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
+Nootropic Portal Magic
 Nope, prefer mopeds.
 Nordic Panda Moor
 Normal People, MMM!
