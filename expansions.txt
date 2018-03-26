@@ -597,6 +597,7 @@ Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
+Nordic Palladium Miners
 Nordic Panda Moor
 Normal People, MMM!
 Normal Programming Mistake
