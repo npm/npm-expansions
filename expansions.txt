@@ -737,6 +737,7 @@ Nucleophosmin
 nuǝɯ pǝɥsᴉꞁod mǝu
 nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 NuGet Package Manager
+Nugget Packing Machine
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
