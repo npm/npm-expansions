@@ -464,6 +464,7 @@ Nixon's Pants Missing
 No Package Mishaps
 No Packages Misplaced
 No Packages, Mate
+No Package Mess
 No Padding Margin
 No Padding Module
 No Painful Merges
@@ -513,6 +514,7 @@ Nocturnally Psychologizing Millipede
 Nodding Previously Managed
 Node Package Maid
 Node Package Manager
+Nod Poke Mon
 Node Package Master
 Node Packaged Masterfully
 Node Packaged Modules
