@@ -271,6 +271,7 @@ Net Possibility Multiplier
 Netherworld's Pretend Minibar
 Neti Pot Manufacturer
 Nettle Pie Market
+Network Packet Monkey
 Network Performance Monitor
 Network Pipe Manufacturer
 Network Printer Manager
