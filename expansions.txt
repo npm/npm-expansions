@@ -520,6 +520,7 @@ Node Package Master
 Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
+Node Pays Myrent
 Node People Magic
 Node Pizza Maker
 Node Pleases Me
