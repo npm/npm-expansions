@@ -200,6 +200,7 @@ Needling Perl Mongers
 Needs Perl Modules
 Needs Puma Managers
 Needy Poetic Mothers
+Nefarious Package Manager
 Nefarious Pickle Muncher
 Nefarious Planetary Meddling
 Nefarious Plastic Mannequins
