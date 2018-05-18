@@ -127,6 +127,7 @@ Naughty Panda Manga
 Naughty Pinching Mannequins
 Naughty Platypus Memorabilia
 Naughty Praying Mantis
+Naughty Precious Module
 Naughty Program Manipulator
 Naughty Programmer's Madness
 Naughty Pterodactyl Maid
@@ -519,11 +520,13 @@ Node Package Master
 Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
+Node Peaks Mountaintop
 Node People Magic
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
 Node Popular Man
+Node Powered Pickles
 Node Promiscuous Modules
 Node's Package Magician
 Node's Pastoral Musicians
@@ -675,6 +678,7 @@ Nourished Personal Mucus
 Nourishing Pear Medley
 Nourishing Pizza Microservice
 Nouveau Papier Mâché
+Nouveau Party Mate
 Nouveau Print Maker
 Novel Personal Mantras
 Novel Planetary Movement
