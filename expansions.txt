@@ -402,6 +402,8 @@ Niche Portobello Mushroom
 Nickel Palladium Manganese
 Nickel Plated Moose
 Nickelback Plays Music
+Nicotine Pulse Test
+Nibble Pot Test
 Nietzsche's Preposterous Moustache
 Nifty Penguin Magic
 Nifty Pony Merchandise
@@ -791,6 +793,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
