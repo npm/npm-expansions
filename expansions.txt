@@ -50,6 +50,7 @@ NaNoWriMo Promotes Manuscription
 Nantes Paradox Market
 Não Posso Mais
 Nap Power: Maximum
+Naphthalene Possum Management
 Napolean Paced Mischeviously
 Napoleon's Penguin Mascot
 Napoleon's Pixelated Mugshot
@@ -58,7 +59,6 @@ Napoleonic Political Magnificence
 Napping Panda Missionaries
 Napping Peanut Monsters
 Naps Per Month
-Naphthalene Possum Management
 Narcissistic Passion Minified
 Narcissistic Piano Mover
 Narcissistic Pickle Meister
@@ -70,8 +70,8 @@ Narcoleptic Pony Machine
 Narcoleptic Possum Mob
 Narcoleptic Programmers' Medicine
 Narcoleptic's Patch Mangler
-Narnia Protect Me
 Narnia Produced Magic
+Narnia Protect Me
 Narnia's Poofy Meatcleaver
 Narnia's Psychedelic Mushrooms
 Narrating Prophetic Monks
@@ -91,6 +91,7 @@ Nascent Political Miscreant
 Nascent Prototype Metaverse
 Nashville Plays Music
 Nasty Pineapple Mayonnaise
+Nasty Pirate Macaw
 Nasty Polka Music
 Nasty Popsicle Machine
 National Palace Museum
@@ -100,6 +101,7 @@ National Patience Month
 National Pest Management
 National Pizza Magistrate
 National Poetry Month
+National Poo Museum
 National Preventative Mechanism
 National Public Mania
 National Puppy Menace
@@ -183,10 +185,12 @@ Necessarily Precedes Mischief
 Necessary Package Manager
 Necessary Pigeonholing Mechanism
 Necessitates Proper Modularity
+Neck Protection Mandate
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
 Need Package Maintenance
+Need Paper Mache
 Need Pray More
 Need Private Modules
 Need Prize Money
@@ -230,6 +234,7 @@ Neo's Personal Matrix
 Neo's Playing Morpheus
 Neoanthropic Preternatural Murmurings
 Neoclassic Placebo Maker
+Neoclassical Philosophic Musings
 Neoclassical Piano Montage
 Neoclassical Programming Multitude
 Neocon Propaganda Machine
@@ -247,6 +252,7 @@ Neovictorian Paisley Menswear
 Nepotistic Pontifex Maximus
 Neptune: Planet or Myth?
 Neptune's Personal Maid
+Neptune's Potato Monsters
 Neptunian Parity Mnemonic
 Neptunium, Promethium, Manganese
 Nerd Party Madness
@@ -260,6 +266,7 @@ Nerdy People Matriculate
 Nerdy Poly Millionaires
 Nerdy Programmers Mingling
 Nerdy Pun Mavens
+Nerfed Poet Melancholia
 Nerfing Powerful Megalomaniacs
 Nero Punished Miscreants
 Nervous Parrot Muttering
@@ -389,6 +396,7 @@ Nicely Packaged Make
 Nicely Pointed Mandibles
 Nicely Presented Misnomer
 Nicely Printed Maps
+Nicely Pruned Marigolds
 Nicer Package Manager
 Nicer Perusal Method
 Niche Portobello Mushroom
@@ -410,10 +418,12 @@ Nightly Panic Munchies
 Nightly Patch Machine
 Nightly Perpetrated Mischief
 Nightly Piano Man
+Nightly Pocket Measurement
 Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
+Nighttime Pachinko Marathon
 Nights Pay More
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
@@ -491,8 +501,8 @@ No Proscribed Meaning
 No Punches Made
 No Puns Monday
 No Purchase Made
-No, Pay Me
 No Python Modules
+No, Pay Me
 No! Primate Mutation!
 Noah's Pairwise Manifest
 Nobel Prize Magnet
@@ -521,6 +531,7 @@ Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
+Node Permanently Moved
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
@@ -549,8 +560,8 @@ Noisy Pterodactyl Melodies
 nom, please more
 Nomad Packaging Mechanism
 Nomadic People Migration
-Nomenclature Processing Machine
 Nomenclature Predictably Misunderstood
+Nomenclature Processing Machine
 Nominal Package Missing
 Nominal Pizza Masticator
 Nominally Patriotic Meathead
@@ -560,6 +571,7 @@ Nomnom Pumpernickle Muffins
 Non Polar Magnetism
 Non Productive Monday
 Non Programming Manager
+Non-Partisan Magicians
 Non-Permeable Membrane
 Non-Polite Mother
 Non-Polynomial Mantissa
@@ -579,7 +591,7 @@ Nondigestible Purple Mayonnaise
 Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
 Nonlinear Programming Methods
-Nonsense Parser Microframework
+Nonprofit Pizza Maker
 Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
@@ -594,22 +606,23 @@ Nonvoluntary Professional Mangling
 Noodle Printing Machine
 Noodles Practicing Medicine
 Noodles, Poodles and More!
+Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
 Nordic Panda Moor
 Normal People, MMM!
-Normal Programming Mistake
-Norse Power Metal
-Noodles, Poodles and More!
 Normal Polygamous Marriage
+Normal Programming Mistake
 Normally Palatable Mango
 Normally Pleasant Mixture
 Norse Polytheistic Mythology
 Norse Power Metal
+Norse Power Metal
 North Pittsburgh Meatpackers
 North Pole Merriment
+North Pole Mysteries
 Northern Pileated Marmoset
 Norvell, Please Merge
 Norvell's Public Machinations
@@ -740,6 +753,7 @@ Nucleophosmin
 nuǝɯ pǝɥsᴉꞁod mǝu
 nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 NuGet Package Manager
+Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
