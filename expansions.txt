@@ -1,3 +1,4 @@
+Naughty Package Manager
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
@@ -16,6 +17,7 @@ Nagging Mario's Princess
 Nagging Penguin Matriarchs
 Nail Polish Makeover
 Nail Polishing Minions
+Narcissistic Pancake Monster
 Naive Puppets Marching
 Naively Programmable Module
 Naivete Precedes Misrepresentation
