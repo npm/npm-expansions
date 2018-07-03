@@ -1,6 +1,6 @@
-var fs       = require("fs")
-var infile   = __dirname + '/expansions.txt'
-var outfile_pre  = __dirname + '/expansions'
+var fs = require("fs")
+var infile = __dirname + '/expansions.txt'
+var outfile_pre = __dirname + '/expansions'
 var outfile_json = outfile_pre + '.json'
 var outfile_txt = outfile_pre + '.txt'
 
