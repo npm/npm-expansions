@@ -422,8 +422,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -594,6 +594,7 @@ Nonprofit Pizza Maker
 Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
+Nonsense Printing Machine
 Nonstick Pancake Maker
 Nonstop Pajama Models
 Nonstop Perpetual Motion
@@ -791,7 +792,6 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-Nonsense Printing Machine
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
