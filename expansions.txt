@@ -728,6 +728,7 @@ npm promulgates marsupials
 npm provides modules
 npm: package manager
 npm: possibly marvellous
+npm's pretty messy
 npm's personal messenger
 npm's pretty magical
 NTFS Path Mockery
