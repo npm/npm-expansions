@@ -436,6 +436,7 @@ Nimble Package Maestros
 Nimble Pet Microbes
 Nimble Pirate Monitor
 Nimble Pixie Merchant
+Nimble Pug Mob
 Nimble Polyglot Microcosm
 Nimble Porridge Muncher
 Nimoy Prospers Mystically
