@@ -422,8 +422,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -592,6 +592,7 @@ Nonlinear Performance Magnification
 Nonlinear Programming Methods
 Nonprofit Pizza Maker
 Nonsense Parser Microframework
+Nonsense Party Machine
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonstick Pancake Maker
