@@ -30,6 +30,7 @@ Namespace Pollution Mechanism
 Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
+NaN Prevents Mathemagicians
 NaN Producing Misery
 Nana Plays Minesweeper
 Nana's Plush Muppet
