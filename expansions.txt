@@ -25,6 +25,7 @@ Namby Pamby Magicians
 Name Picker Malfunction
 Named Pipe Mechanism
 Nameless Package Manager
+Nameless Project Maintainer
 Namely, Pickled Meatballs
 Namespace Pollution Mechanism
 Namespace, Primitive, Method
@@ -340,6 +341,7 @@ New Package Monster
 New Patch, Merge?
 New Personal Mail
 New Phone Models
+New Pitchfork Maker
 New Power Management
 New Power Manual
 New Powerful Machines
