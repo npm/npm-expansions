@@ -321,6 +321,7 @@ Never Print Magazines
 Never Program Mad
 Never Propel Marmalade
 Never Publish Malarkey
+Never Publish to NPM
 Never Pummel Muskoxen
 Never Punch Manticores
 Never Push Mistakes
