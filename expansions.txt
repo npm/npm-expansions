@@ -730,6 +730,7 @@ npm: package manager
 npm: possibly marvellous
 npm's personal messenger
 npm's pretty magical
+NTFS Partition Maker
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
