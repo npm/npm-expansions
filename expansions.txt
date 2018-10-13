@@ -422,8 +422,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -523,6 +523,7 @@ Nocturnal Prancing Mosquito
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
 Nodding Previously Managed
+Node Pac-Man
 Node Package Maid
 Node Package Manager
 Node Package Master
