@@ -611,6 +611,7 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
 Nordic Panda Moor
+Nordic Police Man
 Normal People, MMM!
 Normal Polygamous Marriage
 Normal Programming Mistake
