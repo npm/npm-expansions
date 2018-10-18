@@ -1,4 +1,4 @@
-*nix Programming Mammals
+﻿*nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -423,8 +423,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nights Pay More
 Nighttime Pachinko Marathon
+Nights Pay More
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
