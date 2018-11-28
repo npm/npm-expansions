@@ -28,6 +28,7 @@ Nameless Package Manager
 Namely, Pickled Meatballs
 Namespace Pollution Mechanism
 Namespace, Primitive, Method
+Names Provide Meaning
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 NaN Producing Misery
