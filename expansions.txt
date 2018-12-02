@@ -755,6 +755,7 @@ NuGet Package Manager
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
+Null Pointer Manufacturer
 Null Pointer Micromanagement
 Null Pointer Missing
 Nullifying Precipitation Machine
@@ -791,6 +792,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+n p m
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
