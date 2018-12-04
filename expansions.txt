@@ -422,9 +422,10 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
+Nighttime Photography Master
 Nighttime Possum Meandering
 Nihil Prius Modulus
 Nihilist Pocket Monsters
@@ -721,6 +722,7 @@ Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm package manager
 npm packaged modules
+npm pours milk
 npm pretty much
 npm private modules
 npm promotes metadefinitions
@@ -757,6 +759,7 @@ Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
 Null Pointer Missing
+Nullified Potassium in Mangoes
 Nullifying Precipitation Machine
 Numbers Prefer Multiplication
 Numbers Probably Matter
