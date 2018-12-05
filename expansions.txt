@@ -36,6 +36,7 @@ Nana's Plush Muppet
 Nanananananananana.. Pat Man!
 Nancy's Preferred Machete
 Nano Particle Matrix
+Nano-sized Peripherals Manufacturer
 Nanobot: Polygonal Mascot
 Nanobots Producing Megastructures
 Nanobots Protecting Microbots
@@ -422,9 +423,10 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
+Nighttime Photography Master
 Nighttime Possum Meandering
 Nihil Prius Modulus
 Nihilist Pocket Monsters
@@ -721,6 +723,8 @@ Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm package manager
 npm packaged modules
+npm paid me
+npm pours milk
 npm pretty much
 npm private modules
 npm promotes metadefinitions
@@ -757,6 +761,7 @@ Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Micromanagement
 Null Pointer Missing
+Nullifying Potassium in Mangoes
 Nullifying Precipitation Machine
 Numbers Prefer Multiplication
 Numbers Probably Matter
