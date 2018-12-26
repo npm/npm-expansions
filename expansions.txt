@@ -17,6 +17,7 @@ Nagging Penguin Matriarchs
 Nail Polish Makeover
 Nail Polishing Minions
 Naive Puppets Marching
+Naive Pygmy Marmosets
 Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
@@ -197,6 +198,7 @@ Need Public Method
 Needful Program Management
 Needle-Pinpointing Machine
 Needless Patchouli Manufacture
+Needlessly Pedantic Moderators
 Needlessly Postulating Minds
 Needlessly Promiscuous, Modularize!
 Needlessly Provoking Marsupials
@@ -215,6 +217,7 @@ Negatively Proportional Model
 Negatory. Postpone Mission.
 Neglected Parking Meter
 Neglected Pizza Money
+Neglected Potter’s Magic
 Neglected Pulse Machine
 Neglected Puppy Market
 Negligent Pachinko Machine
@@ -422,8 +425,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -577,12 +580,14 @@ Non-Polynomial Mantissa
 Non-Potable Macchiato
 Non-Printable Material
 Nonagons Please Me
+Nonce Parser and Manipulator
 Nonchalant Programming Master
 Nonchalantly Performs Magic
 Noncollinear Perpendicular Microcrystalline
 Noncommital Premarital Mischief
 Nonconformist Propaganda Machine
 Nondeterministic Palindrome Machine
+Nondeterministic Panini Maker
 Nondeterministic Polynomial Munchies
 Nondeterministic Postrequisite Metaprotocol
 Nondeterministic Programming Methodology
@@ -602,6 +607,7 @@ Nonstop Progressive Marxism
 Nonviolent Pigeon Manifestation
 Nonviolent Pirate Mobster
 Nonvoluntary Professional Mangling
+Noob’s Preferred Modules
 Noodle Printing Machine
 Noodles Practicing Medicine
 Noodles, Poodles and More!
@@ -719,6 +725,7 @@ Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
 Nozzle Piping Mismatch
+NP-complete Proving Machine
 npm package manager
 npm packaged modules
 npm pretty much
