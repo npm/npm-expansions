@@ -9,7 +9,7 @@ var list = fs
   .split("\n")
   .map(function(e) { return e.trim() })
   .filter(function(e) { return (e.length > 0) })
-  .filter(function(e) { return e.charAt(0).toLowerCase() === "n" })
+  .filter(function(e) { return e.charAt(0) !== '#' })
   .sort(function (a, b) {
     return a.toLowerCase().localeCompare(b.toLowerCase());
   })
