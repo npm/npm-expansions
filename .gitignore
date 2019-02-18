@@ -1,3 +1,6 @@
 node_modules
 expansions.json
 .idea
+/.vs/ProjectSettings.json
+/.vs/npm-expansions/v15
+/.vs
