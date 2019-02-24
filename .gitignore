@@ -1,3 +1,4 @@
 node_modules
 expansions.json
 .idea
+.DS_Store
