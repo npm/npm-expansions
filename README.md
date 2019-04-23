@@ -58,3 +58,4 @@ We'll no longer be accepting expansions that begin with the following frequent s
 * Node (unless it's *really* good)
 * Not
 * Now
+* Nail
