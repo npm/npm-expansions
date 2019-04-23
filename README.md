@@ -20,6 +20,7 @@ This is the source code for the three-word thingies that randomly appear in the 
 - Nickel Plated Moose
 - Nineties Party Mix
 - Null Pointer Missing
+- Nail Polish Maker
 
 ## How to Contribute
 
@@ -57,3 +58,4 @@ We'll no longer be accepting expansions that begin with the following frequent s
 * Node (unless it's *really* good)
 * Not
 * Now
+* Nail
