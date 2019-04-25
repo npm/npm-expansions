@@ -532,7 +532,7 @@ Node Parcel Merchant
 Node People Magic
 Node Permanently Moved
 Node Pizza Maker
-Node Planet Mission
+Node Planet Missionary
 Node Pleases Me
 Node Plus Me
 Node Popular Man
