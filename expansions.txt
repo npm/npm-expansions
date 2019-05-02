@@ -285,6 +285,7 @@ Network Processor Module
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
+Neurolinguistic Puzzle Machine
 Neurological Phenomenon Multiplexer
 Neurologically Paralyzing Mouseovers
 Neuron Powered Motorization
