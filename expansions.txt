@@ -352,6 +352,7 @@ New Project, Monday
 New Purple Moon
 Newbie Paintball Master
 Newbies Pass Muster
+Newest Packages Published
 Newfangled Package Modernizer
 Newline Pending Merge
 Newline Proliferating Maniac
@@ -509,6 +510,7 @@ Noble Programming Mantra
 Noble Pug Mullet
 Nobody Packages More
 Nobody Pays (for) Magazines
+Nobody Pays Programers :'(
 Nobody Peels Mangoes
 Nobody Picked Me
 Nobody Prefers Margarine
