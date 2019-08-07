@@ -791,6 +791,10 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Nitpicking Pricky Managers
+Natural Piss Machine
+Nolan's Precious Movies
+Narcissistic Pringles Man
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
