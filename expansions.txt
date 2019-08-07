@@ -63,6 +63,7 @@ Narcissistic Passion Minified
 Narcissistic Piano Mover
 Narcissistic Pickle Meister
 Narcissistic Preening Monarch
+Narcissistic Pringles Man
 Narcissistic Project Managers
 Narcissistic, Perfectly Modest
 Narcoleptic Pasta Manufacturer
@@ -114,6 +115,7 @@ Nattily Primped Monster
 Natty Precise Maverick
 Natural Pacifist Manatees
 Natural Performance Manager
+Natural Piss Machine
 Natural Pleistocene Monsters
 Natural Polyglot Machine
 Natural Potato Magnet
@@ -464,6 +466,7 @@ Ninja Programmers Mindmeld
 Ninja Pumpkin Mutants
 Ninjas Practicing Multidimensionality
 Nirvana Playing Madonna
+Nitpicking Pricky Managers
 Nit-Picking Magistrate
 Nit-Picking Manager
 Nitrate Processed Mincemeat
@@ -556,6 +559,7 @@ Noisy Pirate Mutiny
 Noisy Pneumatic Mnemonic
 Noisy Pop Music
 Noisy Pterodactyl Melodies
+Nolan's Precious Movies
 nom, please more
 Nomad Packaging Mechanism
 Nomadic People Migration
@@ -625,6 +629,7 @@ North Pole Mysteries
 Northern Pileated Marmoset
 Norvell, Please Merge
 Norvell's Public Machinations
+Norwegian Parading Machetes
 Norwegian Parcel Mail
 Norwegian Peat Moss
 Norwegian Polka Music
@@ -791,10 +796,6 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-Nitpicking Pricky Managers
-Natural Piss Machine
-Nolan's Precious Movies
-Narcissistic Pringles Man
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
