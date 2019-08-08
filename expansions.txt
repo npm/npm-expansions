@@ -422,8 +422,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -726,6 +726,7 @@ npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
+npm punchline module
 npm: package manager
 npm: possibly marvellous
 npm's personal messenger
