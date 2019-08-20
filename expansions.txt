@@ -378,6 +378,7 @@ Next Planet of Monkeys
 Next Popular Module
 Next Prince Montage
 next() Packaged Middleware
+Next-gen Programming Model
 NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
 Nibbling Pastry Monster
