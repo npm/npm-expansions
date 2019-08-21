@@ -524,6 +524,7 @@ Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
 Nodding Previously Managed
 Node Package Maid
+Node Package Maker
 Node Package Manager
 Node Package Master
 Node Packaged Masterfully
@@ -531,6 +532,7 @@ Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
 Node Permanently Moved
+Node Pizza Delivery
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
