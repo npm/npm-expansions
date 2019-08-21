@@ -532,7 +532,6 @@ Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
 Node Permanently Moved
-Node Pizza Delivery
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
