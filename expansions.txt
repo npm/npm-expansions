@@ -1,30 +1,3 @@
-Neolithic Puffin Marathon
-Nicking Puffins' Mackerels
-Nootropic Pituitary Masseuse
-Norwegian Pig Market
-Nixon's Party Mansion
-Nifty Pickle Meal
-Nourishing Pangolin Mince
-Nystrom's Programming Manual
-Nimble Perl Manufacturer
-Nobody Picks Me
-Nonexistent package mystery
-Nested Proton Manifold
-Noble Penguins March
-Nipple Pump Malfunction
-Neoclassical Pueblo Megastructure
-Neatly Prepared Mittens
-Nut Permanence Measurer
-Node Packages are Majestic
-Nice Packages Mate!
-Nuptial Promises Made
-Northern Punk Matinee
-Neodymium Powerful Magnet
-Nefarious Pimp Meeting
-Naked Porn Man
-Nearly Perfect, Man!
-Network Purgatory Maze
-
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
@@ -47,6 +20,7 @@ Naive Puppets Marching
 Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
+Naked Porn Man
 naM ,sevitcepsreP weN
 Namby Pamby Magicians
 Name Picker Malfunction
@@ -181,6 +155,7 @@ Near Perfect Mood
 Nearest Phase Modulator
 Nearly Past Midnight
 Nearly Perfect Mediocracy
+Nearly Perfect, Man!
 Nearly Perfected Mystique
 Nearly Perpendicular Macaroons
 Nearly Picked Makefiles
@@ -199,6 +174,7 @@ Neatly Packaged Modules
 Neatly Placed Mail
 Neatly Planned Meal
 Neatly Positioned Magazines
+Neatly Prepared Mittens
 Neatly Prepared Mustache
 Neatly Punctuated Musings
 Neato Polyester Material
@@ -232,6 +208,7 @@ Needs Perl Modules
 Needs Puma Managers
 Needy Poetic Mothers
 Nefarious Pickle Muncher
+Nefarious Pimp Meeting
 Nefarious Planetary Meddling
 Nefarious Plastic Mannequins
 Nefarious Punk Monk
@@ -263,11 +240,14 @@ Neoclassic Placebo Maker
 Neoclassical Philosophic Musings
 Neoclassical Piano Montage
 Neoclassical Programming Multitude
+Neoclassical Pueblo Megastructure
 Neocon Propaganda Machine
 Neodymium Plated Magnet
+Neodymium Powerful Magnet
 Neolithic Populous Metropolis
 Neolithic Programming Machine
 Neolithic Psychedelic Mushrooms
+Neolithic Puffin Marathon
 Neologistic Paraphasic Mumbling
 Neon Papier Mâché
 Neonatal Penguin March
@@ -300,6 +280,7 @@ Nervous Penpal Message
 Nervously Proposing Marriage
 Nestable Processes Mutate
 Nested Parenthetical Madness
+Nested Proton Manifold
 Nested Public Modules
 Net Possibility Multiplier
 Netherworld's Pretend Minibar
@@ -309,6 +290,7 @@ Network Performance Monitor
 Network Pipe Manufacturer
 Network Printer Manager
 Network Processor Module
+Network Purgatory Maze
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
@@ -411,6 +393,7 @@ Nibbling Pastry Monster
 Nibbling Perfect Macaroni
 Nicaragua's Pet Mice
 Nice Package, Mate
+Nice Packages Mate!
 Nice Paintings, Mondrian
 Nice Pants, Man
 Nice Parakeet Marriage
@@ -429,8 +412,10 @@ Niche Portobello Mushroom
 Nickel Palladium Manganese
 Nickel Plated Moose
 Nickelback Plays Music
+Nicking Puffins' Mackerels
 Nietzsche's Preposterous Moustache
 Nifty Penguin Magic
+Nifty Pickle Meal
 Nifty Pony Merchandise
 Nifty Poutine Meal
 Nifty Procrastination Machine
@@ -449,8 +434,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -460,6 +445,7 @@ Nihilistic Party Mantra
 Nihilistic Pool Man
 Nil Packet Minimizer
 Nimble Package Maestros
+Nimble Perl Manufacturer
 Nimble Pet Microbes
 Nimble Pirate Monitor
 Nimble Pixie Merchant
@@ -490,6 +476,7 @@ Ninja Power Manifesto
 Ninja Programmers Mindmeld
 Ninja Pumpkin Mutants
 Ninjas Practicing Multidimensionality
+Nipple Pump Malfunction
 Nirvana Playing Madonna
 Nit-Picking Magistrate
 Nit-Picking Manager
@@ -500,6 +487,7 @@ Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
 Nitroglycerin Pickle Machine
 Nixon's Pants Missing
+Nixon's Party Mansion
 No Package Mishaps
 No Packages Misplaced
 No Packages, Mate
@@ -532,12 +520,14 @@ No, Pay Me
 No! Primate Mutation!
 Noah's Pairwise Manifest
 Nobel Prize Magnet
+Noble Penguins March
 Noble Programming Mantra
 Noble Pug Mullet
 Nobody Packages More
 Nobody Pays (for) Magazines
 Nobody Peels Mangoes
 Nobody Picked Me
+Nobody Picks Me
 Nobody Prefers Margarine
 Nobody Preheats Microwaves
 Nobody Publish Monsters
@@ -555,6 +545,7 @@ Node Package Manager
 Node Package Master
 Node Packaged Masterfully
 Node Packaged Modules
+Node Packages are Majestic
 Node Parcel Merchant
 Node People Magic
 Node Permanently Moved
@@ -614,6 +605,7 @@ Nondeterministic Polynomial Munchies
 Nondeterministic Postrequisite Metaprotocol
 Nondeterministic Programming Methodology
 Nondigestible Purple Mayonnaise
+Nonexistent package mystery
 Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
 Nonlinear Programming Methods
@@ -636,6 +628,7 @@ Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
+Nootropic Pituitary Masseuse
 Nope, prefer mopeds.
 Nordic Panda Moor
 Normal People, MMM!
@@ -650,10 +643,12 @@ North Pittsburgh Meatpackers
 North Pole Merriment
 North Pole Mysteries
 Northern Pileated Marmoset
+Northern Punk Matinee
 Norvell, Please Merge
 Norvell's Public Machinations
 Norwegian Parcel Mail
 Norwegian Peat Moss
+Norwegian Pig Market
 Norwegian Polka Music
 Norwegian Pony Master
 Norwegian Puffin Movies
@@ -712,6 +707,7 @@ Notwithstanding Previous Misdemeanors
 Nougat Predominant Middleware
 Noun/Pronoun Mix-up
 Nourished Personal Mucus
+Nourishing Pangolin Mince
 Nourishing Pear Medley
 Nourishing Pizza Microservice
 Nouveau Papier Mâché
@@ -800,8 +796,10 @@ Nuns Playing Monopoly
 Nuns Practicing Misanthropy
 Nupital Pomp Mesmerises
 Nuptial Predicament Mediation
+Nuptial Promises Made
 Nurturing Palpable Magnificence
 Nurturing Pluto's Martians
+Nut Permanence Measurer
 Nutella Peanut-Butter Marshmallow
 Nutella Per Minute
 Nutella with Pepperoni and Mushrooms
@@ -818,6 +816,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Nystrom's Programming Manual
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
