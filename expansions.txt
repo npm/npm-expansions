@@ -282,6 +282,7 @@ Network Performance Monitor
 Network Pipe Manufacturer
 Network Printer Manager
 Network Processor Module
+Network Proxy Mishap
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
@@ -422,8 +423,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
