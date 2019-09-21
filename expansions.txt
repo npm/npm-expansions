@@ -48,7 +48,6 @@ Nanotech Parading Mars
 Nanotechnology Promises Much
 NaNoWriMo Promotes Manuscription
 Nantes Paradox Market
-Não Posso Mais
 Nap Power: Maximum
 Naphthalene Possum Management
 Napolean Paced Mischeviously
@@ -249,9 +248,9 @@ Neopolitan Pizza Maker
 Neoteric Plumbing Mishap
 Neovictorian Paisley Menswear
 Nepotistic Pontifex Maximus
-Neptune: Planet or Myth?
 Neptune's Personal Maid
 Neptune's Potato Monsters
+Neptune: Planet or Myth?
 Neptunian Parity Mnemonic
 Neptunium, Promethium, Manganese
 Nerd Party Madness
@@ -422,8 +421,8 @@ Nightly Procrastination Machine
 Nightly Punk Masters
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
-Nighttime Pachinko Marathon
 Nights Pay More
+Nighttime Pachinko Marathon
 Nighttime Peanut Migrations
 Nighttime Possum Meandering
 Nihil Prius Modulus
@@ -501,8 +500,8 @@ No Punches Made
 No Puns Monday
 No Purchase Made
 No Python Modules
-No, Pay Me
 No! Primate Mutation!
+No, Pay Me
 Noah's Pairwise Manifest
 Nobel Prize Magnet
 Noble Programming Mantra
@@ -623,8 +622,8 @@ North Pittsburgh Meatpackers
 North Pole Merriment
 North Pole Mysteries
 Northern Pileated Marmoset
-Norvell, Please Merge
 Norvell's Public Machinations
+Norvell, Please Merge
 Norwegian Parcel Mail
 Norwegian Peat Moss
 Norwegian Polka Music
@@ -668,8 +667,8 @@ Nothing Particularly Magnificent
 Nothing Pleases Me
 Nothing Plus Modules
 Nothing Prevents Misery
-Nothing, Plus More
 Nothing's plumb meaningless
+Nothing, Plus More
 Noticeably Playful Monkeys
 Notify President Madagascar
 Notorious Party Muppets
@@ -698,8 +697,8 @@ Novelty Polygonal Mathematics
 Novelty Promotes Magicians
 November Papa Mike
 November Perfect Moustache
-November: Procrastination Month
 November's Paddleball Marathon
+November: Procrastination Month
 Novice Pokémon Master
 Novice Prime Minister
 Novice, Paragon, Master
@@ -726,10 +725,10 @@ npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
-npm: package manager
-npm: possibly marvellous
 npm's personal messenger
 npm's pretty magical
+npm: package manager
+npm: possibly marvellous
 NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
@@ -749,8 +748,6 @@ Nuclearly Potent Moonshine
 Nucleic Phosphate Modifier
 Nucleic Photon Magnetizer
 Nucleophosmin
-nuǝɯ pǝɥsᴉꞁod mǝu
-nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 NuGet Package Manager
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
@@ -789,8 +786,11 @@ Nutritious Pumpkin Meal
 Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
+nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
+nuǝɯ pǝɥsᴉꞁod mǝu
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Não Posso Mais
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
