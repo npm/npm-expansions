@@ -727,6 +727,7 @@ npm private modules
 npm promotes metadefinitions
 npm promulgates marsupials
 npm provides modules
+Npm Run Npm
 npm: package manager
 npm: possibly marvellous
 npm's personal messenger
