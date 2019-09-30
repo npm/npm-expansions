@@ -1,4 +1,4 @@
-*nix Programming Mammals
+﻿*nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -399,6 +399,7 @@ Nicely Pruned Marigolds
 Nicer Package Manager
 Nicer Perusal Method
 Niche Portobello Mushroom
+Nickel Pack Man
 Nickel Palladium Manganese
 Nickel Plated Moose
 Nickelback Plays Music
