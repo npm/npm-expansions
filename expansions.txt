@@ -473,7 +473,6 @@ Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
 Nitroglycerin Pickle Machine
 Nixon's Pants Missing
-No Monitoring, Man
 No Package Mishaps
 No Packages Misplaced
 No Packages, Mate
@@ -486,6 +485,7 @@ No Pants, Mom
 No Particular Method
 No Partying Mariachis
 No Password Management
+No Peeking, Man
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
