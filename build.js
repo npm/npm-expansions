@@ -1,32 +1,42 @@
-var fs       = require("fs")
-var infile   = __dirname + '/expansions.txt'
-var outfile_pre  = __dirname + '/expansions'
-var outfile_json = outfile_pre + '.json'
-var outfile_txt = outfile_pre + '.txt'
+'use strict'
 
-var list = fs
-  .readFileSync(infile, 'utf8')
-  .split("\n")
-  .map(function(e) { return e.trim() })
-  .filter(function(e) { return (e.length > 0) })
-  .filter(function(e) { return e.charAt(0) !== '#' })
+const { join } = require('path')
+const fs = require('fs')
+
+const listFromFile = require('./utils/listFromFile')
+
+const infile = join(__dirname, 'expansions.txt')
+const outfilePre = join(__dirname, 'expansions')
+const outfileJson = `${outfilePre}.json`
+const outfileTxt = `${outfilePre}.txt`
+
+const legacyFile = require('./legacy-expansions')
+
+const userSubmissions = listFromFile(infile)
+const list = []
+  .concat(userSubmissions)
+  .concat(legacyFile)
   .sort(function (a, b) {
-    return a.toLowerCase().localeCompare(b.toLowerCase());
+    return a.toLowerCase().localeCompare(b.toLowerCase())
   })
 
-fs.writeFileSync(outfile_json, JSON.stringify(list, null, 2))
+fs.writeFileSync(outfileJson, JSON.stringify(list, null, 2))
 
-fs.writeFileSync(outfile_txt, list.reduce(
-  function(p, c){
-    return p + c + '\n'
-  }, list.shift() + '\n')
-)
-// reappend the instructions
-fs.appendFileSync(
-  outfile_txt,
-  "#\n" +
-  "# please don't add your expansions down here!\n" +
-  "# insert them in alphabetical order to help reduce merge conflicts.\n" +
-  "#\n" +
-  "# <3\n"
-)
+fs.writeFileSync(outfileTxt, userSubmissions.join('\n'))
+
+// Reappend the instructions
+const instructions = `
+
+######################################################################
+#                                                                    #
+# Please add your expansions to this file; above this instruction    #
+# block. Please run \`npm test\` locally before submitting a           #
+# pull-request to see if everything checks out. The process for      #
+# adding expansions is completely automated now, so if \`npm test\`    #
+# passes, then your pull-request is very likely to be automatically  #
+# accepted!                                                          #
+#                                                                    #
+# <3 npm team                                                        #
+######################################################################
+`
+fs.appendFileSync(outfileTxt, instructions)

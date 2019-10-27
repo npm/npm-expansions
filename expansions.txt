@@ -1,7 +1,13 @@
 Nope! Preciously Meticulous.
 
-#
-# please don't add your expansions down here!
-# insert them in alphabetical order to help reduce merge conflicts.
-#
-# <3
+######################################################################
+#                                                                    #
+# Please add your expansions to this file; above this instruction    #
+# block. Please run `npm test` locally before submitting a           #
+# pull-request to see if everything checks out. The process for      #
+# adding expansions is completely automated now, so if `npm test`    #
+# passes, then your pull-request is very likely to be automatically  #
+# accepted!                                                          #
+#                                                                    #
+# <3 npm team                                                        #
+######################################################################
