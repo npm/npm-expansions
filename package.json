@@ -26,6 +26,7 @@
   },
   "scripts": {
     "lint": "standard",
+    "build": "node build.js",
     "prepublishOnly": "npm test",
     "pretest": "node build.js",
     "test": "tap"
