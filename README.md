@@ -1,5 +1,5 @@
 # npm-expansions
-[![Build Status](http://img.shields.io/travis/npm/npm-expansions.svg?style=flat-square)](https://travis-ci.org/npm/npm-expansions) [![NPM version](http://img.shields.io/npm/v/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions) [![NPM license](http://img.shields.io/npm/l/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions)
+[![NPM version](http://img.shields.io/npm/v/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions) [![NPM license](http://img.shields.io/npm/l/npm-expansions.svg?style=flat-square)](https://www.npmjs.org/package/npm-expansions)
 
 What does n-p-m stand for?
 
