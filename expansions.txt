@@ -1,4 +1,3 @@
-Nicht Meine Panzerkampfwagen
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
@@ -198,13 +197,13 @@ Neck Protection Mandate
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
-Need Project Manager
 Need Package Maintenance
 Need Paper Mache
 Need Potato Man
 Need Pray More
 Need Private Modules
 Need Prize Money
+Need Project Manager
 Need Public Method
 Needful Program Management
 Needle-Pinpointing Machine
@@ -301,9 +300,9 @@ Neti Pot Manufacturer
 Nettle Pie Market
 Network Performance Monitor
 Network Pipe Manufacturer
+Network Powering Makers
 Network Printer Manager
 Network Processor Module
-Network Powering Makers
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
@@ -388,6 +387,7 @@ Newly Pregnant Mom
 Newly Purchased Memories
 Newlywed Party Monsters
 Newlyweds Proposing Marriage
+Newman's Personal Motorcade
 Newsworthy Presidential Mistakes
 Newton's Poleless Magnet
 Newton's Preposterous Miscalculation
@@ -425,6 +425,7 @@ Nicely Pruned Marigolds
 Nicer Package Manager
 Nicer Perusal Method
 Niche Portobello Mushroom
+Nicht Meine Panzerkampfwagen
 Nickel Palladium Manganese
 Nickel Plated Moose
 Nickelback Plays Music
@@ -643,7 +644,6 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
 Nordic Panda Moor
-Newman's Personal Motorcade
 Normal People, MMM!
 Normal Polygamous Marriage
 Normal Programming Mistake
@@ -658,12 +658,12 @@ North Pole Mysteries
 Northern Pileated Marmoset
 Norvell, Please Merge
 Norvell's Public Machinations
+Norway Porridge Makers
 Norwegian Parcel Mail
 Norwegian Peat Moss
 Norwegian Polka Music
 Norwegian Pony Master
 Norwegian Puffin Movies
-Norway Porridge Makers
 Nose Picker's Maven
 Nose Picking Mechanisms
 Nosey Party Murderer
@@ -721,11 +721,11 @@ Notoriously Punctual Manatee
 Notwithstanding Precautions, Misadventure
 Notwithstanding Previous Misdemeanors
 Nougat Predominant Middleware
-Nourishing Plushie Monster
 Noun/Pronoun Mix-up
 Nourished Personal Mucus
 Nourishing Pear Medley
 Nourishing Pizza Microservice
+Nourishing Plushie Monster
 Nouveau Papier Mâché
 Nouveau Print Maker
 Novel Personal Mantras
@@ -813,8 +813,8 @@ Numerous Pulsating Martians
 Nunchaku Pizza Master
 Nunjucks Powers Mozilla
 Nuns Playing Monopoly
-Nuns Practicing Misanthropy
 Nuns Playing Mozart
+Nuns Practicing Misanthropy
 Nupital Pomp Mesmerises
 Nuptial Predicament Mediation
 Nurturing Palpable Magnificence
