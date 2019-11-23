@@ -464,6 +464,7 @@ Nimble Package Maestros
 Nimble Pet Microbes
 Nimble Pirate Monitor
 Nimble Pixie Merchant
+Nimble Pogo Master
 Nimble Polyglot Microcosm
 Nimble Porridge Muncher
 Nimble Prime Musketeers
