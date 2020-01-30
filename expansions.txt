@@ -14,6 +14,7 @@ Nachos Preventing Motivation
 Nadie Programa más
 Nagging Mario's Princess
 Nagging Penguin Matriarchs
+Nahi Padha Maine
 Nahi Pata Mujhe!
 Nail Polish Makeover
 Nail Polishing Minions
@@ -22,7 +23,9 @@ Naive Puppets Marching
 Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
+Nako Package Mala
 naM ,sevitcepsreP weN
+Nam Prik Makua
 Namby Pamby Magicians
 Name Picker Malfunction
 Named Pipe Mechanism
@@ -33,6 +36,7 @@ Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 NaN Producing Misery
+Nana Patekar Movies
 Nana Plays Minesweeper
 Nana's Plush Muppet
 Nanananananananana.. Pat Man!
@@ -798,6 +802,7 @@ Null Pointer Mayhem
 Null Pointer Micromanagement
 Null Pointer Missing
 Nullifying Precipitation Machine
+Numbered Package Market
 Numbers Prefer Multiplication
 Numbers Probably Matter
 Numbers Produce Meaning
