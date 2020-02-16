@@ -562,6 +562,7 @@ Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
 Node Permanently Moved
+Node Permite Mucho
 Node Pizza Maker
 Node Pleases Me
 Node Plus Me
