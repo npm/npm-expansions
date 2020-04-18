@@ -329,7 +329,6 @@ Neutron Polarization Manipulator
 Never Paint Mohawks
 Never Panic Much
 Never Patronize Mothers
-Never Pause Mind
 Never Pay your Mortgage
 Never Perfectly Managed
 Never Pet Marmots
@@ -642,6 +641,7 @@ Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
+Noob Player Minecraft
 Nope, prefer mopeds.
 Nordic Panda Moor
 Normal People, MMM!
