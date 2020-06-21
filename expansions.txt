@@ -290,6 +290,7 @@ Nero Punished Miscreants
 Nervous Parrot Muttering
 Nervous Penpal Message
 Nervously Practice Multithreading
+Nervous Programmer's Maintainer
 Nervously Proposing Marriage
 Nestable Processes Mutate
 Nested Parenthetical Madness
@@ -389,6 +390,7 @@ Newly Purchased Memories
 Newlywed Party Monsters
 Newlyweds Proposing Marriage
 Newman's Personal Motorcade
+Newspread Para Machines
 Newsworthy Presidential Mistakes
 Newton's Poleless Magnet
 Newton's Preposterous Miscalculation
@@ -756,6 +758,7 @@ Now with Partition Management
 Now, Please Meander
 Now, Publish Me
 Now, Push Me
+Nowadays plastic-crisis matters
 Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm package manager
