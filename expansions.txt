@@ -396,6 +396,7 @@ Newton's Principia Mathematica
 Newton's Programmatic Measurements
 Newtonian Particle Motion
 Newtonian Physics Mockumentary
+Newt's Pet Mauler
 Newts Parading Majestically
 Newts Prefer MS-DOS
 Next Perpendicular Moonlanding
@@ -834,7 +835,6 @@ Nutritious Pumpkin Meal
 Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
-Newt's Pet Mauler
 Nybble Processing Mainframe
 Nylon Pendulum Movement
 #
