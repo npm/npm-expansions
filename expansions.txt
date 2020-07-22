@@ -627,6 +627,7 @@ Nonprofit Pizza Maker
 Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
+Nonsense Printing Machine
 Nonstick Pancake Maker
 Nonstop Pajama Models
 Nonstop Perpetual Motion
@@ -792,6 +793,7 @@ Nucleus Powered Mitochondria
 nuǝɯ pǝɥsᴉꞁod mǝu
 nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 NuGet Package Manager
+Nuisance Pestering Me
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
