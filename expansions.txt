@@ -1,4 +1,6 @@
 *nix Programming Mammals
+Data is loading
+is not found
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -554,6 +556,7 @@ Nocturnal Prancing Mosquito
 Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
 Nodding Previously Managed
+Node is loading ...
 Node Package Maid
 Node Package Manager
 Node Package Master
