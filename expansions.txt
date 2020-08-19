@@ -349,6 +349,7 @@ Never Punch Manticores
 Never Push Mistakes
 Never Push to Master
 Neverending Package Mountain
+Neverending Parkour Marathon
 Neverending Perpetual Motion
 Neverending Pile of Messages
 Neverending Plethora of Modules
@@ -586,7 +587,8 @@ Noisy Pillaging Monster
 Noisy Pirate Mutiny
 Noisy Pneumatic Mnemonic
 Noisy Pop Music
-Noisy Pterodactyl Melodies
+Noisy Pterodactyl Melodies,
+Non Programming Methods
 nom, please more
 Nomad Packaging Mechanism
 Nomadic People Migration
