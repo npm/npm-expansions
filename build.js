@@ -4,7 +4,7 @@ var outfile_pre  = __dirname + '/expansions'
 var outfile_json = outfile_pre + '.json'
 var outfile_txt = outfile_pre + '.txt'
 
-var list = fs
+var list = Fs
   .readFileSync(infile, 'utf8')
   .split("\n")
   .map(function(e) { return e.trim() })
