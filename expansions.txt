@@ -409,6 +409,7 @@ NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
 Nibbling Pastry Monster
 Nibbling Perfect Macaroni
+Nibiru Preppers Meeting
 Nicaragua's Pet Mice
 Nice Package, Mate
 Nice Paintings, Mondrian
@@ -614,6 +615,7 @@ Nonchalantly Performs Magic
 Nonchalantly Perusing Magazines
 Noncollinear Perpendicular Microcrystalline
 Noncommital Premarital Mischief
+Noncompliant Portland Moms
 Nonconformist Propaganda Machine
 Nondeterministic Palindrome Machine
 Nondeterministic Polynomial Munchies
@@ -835,6 +837,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Nystagmus Post Mortem
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
