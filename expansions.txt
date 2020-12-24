@@ -98,6 +98,7 @@ Nashville Plays Music
 Nasty Pinguin Manure
 Nasty Pirate Macaw
 Nasty Polka Music
+Nasty Poo Machine
 Nasty Popsicle Machine
 National Palace Museum
 National Park of Minnesota
@@ -306,6 +307,7 @@ Network Printer Manager
 Network Processor Module
 Neural Prediction Model
 Neural Processing Mechanisms
+Neural Proto-muffin
 Neural Proton Mapper
 Neurological Phenomenon Multiplexer
 Neurologically Paralyzing Mouseovers
@@ -644,6 +646,7 @@ noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
 Nordic Panda Moor
+Nordic Post Maul
 Normal People, MMM!
 Normal Polygamous Marriage
 Normal Programming Mistake
