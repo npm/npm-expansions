@@ -216,6 +216,7 @@ Needs Perl Modules
 Needs Puma Managers
 Needy Poetic Mothers
 Nefarious Pickle Muncher
+Nefarious Pink Mice
 Nefarious Planetary Meddling
 Nefarious Plastic Mannequins
 Nefarious Pomegranate Magnate
