@@ -565,6 +565,7 @@ Node Pizza Maker
 Node Pleases Me
 Node Plus Me
 Node Popular Man
+Nucleic Power Manager
 Node Promiscuous Modules
 Node's Package Magician
 Node's Pastoral Musicians
