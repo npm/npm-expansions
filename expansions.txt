@@ -502,6 +502,7 @@ Nitrogen Peroxide Monoxide
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
 Nitroglycerin Pickle Machine
+Nix Package Manager
 Nixon's Pants Missing
 No Package Mishaps
 No Packages Misplaced
@@ -533,6 +534,7 @@ No Purchase Made
 No Python Modules
 No, Pay Me
 No! Primate Mutation!
+Nope, Pete's Mad!
 Noah's Pairwise Manifest
 Nobel Prize Magnet
 Noble Programming Mantra
