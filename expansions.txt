@@ -140,6 +140,7 @@ Naughty Program Manipulator
 Naughty Programmer's Madness
 Naughty Pterodactyl Maid
 Naughty Push Message
+Nauseatic Painful Mornings
 Nauseating Packaged Meat
 Nautical Pace Marker
 Nautical Pea Maker
@@ -504,6 +505,7 @@ Nit-Picking Manager
 Nitrate Processed Mincemeat
 Nitro Powered Motorcycles
 Nitrogen Peroxide Monoxide
+Nitrogen Plutonium Magnesium
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
 Nitroglycerin Pickle Machine
@@ -513,6 +515,7 @@ No Packages Misplaced
 No Packages, Mate
 No Padding Margin
 No Padding Module
+No Pain Mode
 No Painful Merges
 No Pants Mafia
 No Pants Monkey
@@ -523,7 +526,9 @@ No Password Management
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
+No Potential Munchies
 No Potty Mouths
+No Peels Made
 No Prejudice Makers
 No Princess, Mario
 No Prize Money
@@ -531,6 +536,7 @@ No Problem Man
 No Problem Mate
 No Problem, Meatbag
 No Problemo Muchacho
+No Problematic Math
 No Proscribed Meaning
 No Punches Made
 No Puns Monday
@@ -540,6 +546,7 @@ No, Pay Me
 No! Primate Mutation!
 Noah's Pairwise Manifest
 Nobel Prize Magnet
+Nobelium Promethium Moscovium
 Noble Programming Mantra
 Noble Pug Mullet
 Nobody Packages More
@@ -840,8 +847,7 @@ Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
-Nylon Pendulum Movement
-#
+Nylon Pendulum Movement#
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
 #
