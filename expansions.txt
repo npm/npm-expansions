@@ -1,3 +1,5 @@
+$ npm -p module
+*Names Package Maliciously*
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
@@ -14,6 +16,7 @@ Nachos Preventing Motivation
 Nadie Programa más
 Nagging Penguin Matriarchs
 Nahi Pata Mujhe!
+Nail Palindrome Mordnilaplian
 Nail Polish Makeover
 Nail Polishing Minions
 Naive Pac Man
@@ -25,6 +28,7 @@ Naked Panda Meditations
 naM ,sevitcepsreP weN
 Namby Pamby Magicians
 Name Picker Malfunction
+Name: Poppins, Mary
 Named Pipe Mechanism
 Nameless Package Manager
 Namely, Pickled Meatballs
@@ -150,6 +154,7 @@ Naval Pilgrim's Mayflower
 Navel Piercing Madness
 Navel Pondering Mantra
 Navigator Prefabricating Marinates
+Navy-Pink Markiplierstache
 Navy Penguin Mariachi
 Naysayers Promote Misery
 Ne Pas Manger!
@@ -236,6 +241,7 @@ Negligible Participation Metric
 Negligible Psychological Misery
 Negotiable Paleobotanist Missions
 Negotiate Pushing Milestone
+Negotiating Prices, Mainly
 Neigh Purr Moo
 Neighbor's Preppy Maltese
 Neighborly Package Megalodon
@@ -306,6 +312,7 @@ Network Pipe Manufacturer
 Network Powering Makers
 Network Printer Manager
 Network Processor Module
+Neutral Particle Mol
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
@@ -354,10 +361,12 @@ Neverending Package Mountain
 Neverending Perpetual Motion
 Neverending Pile of Messages
 Neverending Plethora of Modules
+Neverending Prescription Medicine
 Neverending Programming Mistakes
 Neverending Prototype Mode
 Neverending Pun Machine
 Neverending Puppy Marathon
+NeverGonnaGiveYouUp! Perpetural Meme!
 Nevermore: a Poet's Mantra
 Nevertheless Published Mine
 Nevertheless! Party Metaphorically
@@ -391,6 +400,7 @@ Newly Purchased Memories
 Newlywed Party Monsters
 Newlyweds Proposing Marriage
 Newman's Personal Motorcade
+News Pertaining Motorcycles
 Newsworthy Presidential Mistakes
 Newton's Poleless Magnet
 Newton's Preposterous Miscalculation
