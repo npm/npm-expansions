@@ -1,6 +1,6 @@
-$ npm -p module
 *Names Package Maliciously*
 *nix Programming Mammals
+$ npm -p module
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -154,8 +154,8 @@ Naval Pilgrim's Mayflower
 Navel Piercing Madness
 Navel Pondering Mantra
 Navigator Prefabricating Marinates
-Navy-Pink Markiplierstache
 Navy Penguin Mariachi
+Navy-Pink Markiplierstache
 Naysayers Promote Misery
 Ne Pas Manger!
 Neanderthal Painting Monet
@@ -312,7 +312,6 @@ Network Pipe Manufacturer
 Network Powering Makers
 Network Printer Manager
 Network Processor Module
-Neutral Particle Mol
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
@@ -328,6 +327,7 @@ Neurotic Programmer Masquerade
 Neurotoxin Powered Marketing
 Neutered Paranoid Meerkat
 Neutered Puppy Masquerade
+Neutral Particle Mol
 Neutral Point Measurement
 Neutral Political Machine
 Neutral Pork Motel
