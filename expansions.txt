@@ -749,6 +749,7 @@ Novice Pokémon Master
 Novice Prime Minister
 Novice, Paragon, Master
 Novice, Practiced, Mastered
+Novice Programmer Mess
 Novices Performing Miracles
 Novices Plagiarizing Mozart
 Now Package More
