@@ -14,12 +14,14 @@ var list = fs
     return a.toLowerCase().localeCompare(b.toLowerCase());
   })
 
-fs.writeFileSync(outfile_json, JSON.stringify(list, null, 2))
+var distinct = [...new Set(list)]
 
-fs.writeFileSync(outfile_txt, list.reduce(
+fs.writeFileSync(outfile_json, JSON.stringify(distinct, null, 2))
+
+fs.writeFileSync(outfile_txt, distinct.reduce(
   function(p, c){
     return p + c + '\n'
-  }, list.shift() + '\n')
+  }, distinct.shift() + '\n')
 )
 // reappend the instructions
 fs.appendFileSync(
