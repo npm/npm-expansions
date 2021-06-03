@@ -42,6 +42,7 @@ Nano Pico Micro
 Nanobot: Polygonal Mascot
 Nanobots Producing Megastructures
 Nanobots Protecting Microbots
+Nanofurlongs per Millifortnight
 Nanometer Process Machine
 Nanometers Per Millisecond
 Nanoprogrammed Penultimate Musicianship
