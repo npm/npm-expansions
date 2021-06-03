@@ -7,7 +7,7 @@
     "url": "https://github.com/npm/npm-expansions/issues"
   },
   "devDependencies": {
-    "tap": "^0.4.13"
+    "tap": "^14.9.2"
   },
   "homepage": "https://github.com/npm/npm-expansions",
   "keywords": [
