@@ -23,6 +23,7 @@ Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
 naM ,sevitcepsreP weN
+namaste package manager
 Namby Pamby Magicians
 Name Picker Malfunction
 Named Pipe Mechanism
@@ -329,6 +330,7 @@ Neutralize Pesky Miscreants
 Neutrino Packing Machine
 Neutrinos Peludos Magnéticos
 Neutron Polarization Manipulator
+neutrons per minute
 Never Paint Mohawks
 Never Panic Much
 Never Patronize Mothers
