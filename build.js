@@ -14,6 +14,7 @@ var list = fs
     return a.toLowerCase().localeCompare(b.toLowerCase());
   })
 
+list = list.filter(function(item,pos) { return list.indexOf(item) === pos })
 fs.writeFileSync(outfile_json, JSON.stringify(list, null, 2))
 
 fs.writeFileSync(outfile_txt, list.reduce(
