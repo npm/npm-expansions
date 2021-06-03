@@ -33,6 +33,7 @@ Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 NaN Producing Misery
+NaN Protection Method
 Nana Plays Minesweeper
 Nana's Plush Muppet
 Nanananananananana.. Pat Man!
@@ -573,14 +574,18 @@ Node Plus Me
 Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
+Node's Paraplegic Magician
 Node's Pastoral Musicians
 Node's Perfect Mate
 Node's Perpetuum Mobile
 Node's Personal Monk
 Node's Play Mate
 Node's Pocket Monsters
+Node's Powder Medicine
 Node's Power Meal
+Node's Power Medicine
 Node's Pretty Magical
+Node's Pure Magic
 Nodes Per Minute
 Nodeschool Public Materials
 Nodular Pudding Multiverse
@@ -822,6 +827,7 @@ Nuns Playing Mozart
 Nuns Practicing Misanthropy
 Nupital Pomp Mesmerises
 Nuptial Predicament Mediation
+Nurse's Predilection Materialize
 Nurturing Palpable Magnificence
 Nurturing Pluto's Martians
 Nutella Pancake Machine
