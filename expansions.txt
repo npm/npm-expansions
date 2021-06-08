@@ -800,6 +800,7 @@ nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
+Null Mood Master
 Null Pointer Mayhem
 Null Pointer Micromanagement
 Null Pointer Missing
@@ -841,7 +842,6 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-Potato Giant Brilliant
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
