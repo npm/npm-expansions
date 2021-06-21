@@ -573,6 +573,7 @@ Node Plus Me
 Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
+Node's Party Machine
 Node's Pastoral Musicians
 Node's Perfect Mate
 Node's Perpetuum Mobile
@@ -773,6 +774,7 @@ npm promulgates marsupials
 npm provides modules
 npm: package manager
 npm: possibly marvellous
+npm's Panicking Manager
 npm's personal messenger
 npm's pretty magical
 NTFS Path Mockery
