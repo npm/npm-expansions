@@ -1,6 +1,7 @@
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
+Na Padi Me
 Naan and Paneer Makhani
 Nabbing Pleasant Monads
 Naboo's Podracing Misadventure
@@ -158,6 +159,7 @@ Neanderthal Pudding Mix
 Neanderthals Paint Mammals
 Neanderthals Programming Machines
 Neapolitan Pasta Maker
+Neapolitan Pie Macaroni
 Neapolitan Pizza Margherita
 Near Perfect Mood
 Nearest Phase Modulator
@@ -518,6 +520,7 @@ No Pants, Mom
 No Particular Method
 No Partying Mariachis
 No Password Management
+No Plan Mate
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
@@ -567,9 +570,11 @@ Node People Magic
 Node Permanently Moved
 Node Permite Mucho
 Node Pizza Maker
+Node Player Master
 Node Pleases Me
 Node Plus Me
 Node Popular Man
+Node Pro Master
 Node Promiscuous Modules
 Node's Package Magician
 Node's Pastoral Musicians
@@ -765,6 +770,7 @@ Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm package manager
 npm packaged modules
+Npm Planet Mate
 npm pretty much
 npm private modules
 npm promotes metadefinitions
