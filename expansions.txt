@@ -647,6 +647,7 @@ Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
+Nordic Programming Machine
 Nordic Panda Moor
 Normal People, MMM!
 Normal Polygamous Marriage
