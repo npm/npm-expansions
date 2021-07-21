@@ -252,6 +252,7 @@ Neoclassical Piano Montage
 Neoclassical Programming Multitude
 Neocolonial Partridgeberry Megacorporation
 Neodymium Plated Magnet
+Neodymium Power Measure
 Neolithic Populous Metropolis
 Neolithic Prancing Minotaurs
 Neolithic Programming Machine
@@ -501,6 +502,7 @@ Nit-Picking Magistrate
 Nit-Picking Manager
 Nitrate Processed Mincemeat
 Nitro Powered Motorcycles
+Nitrogen Peroxide Mixture
 Nitrogen Peroxide Monoxide
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
@@ -840,6 +842,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Nylon Plastic Material
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
