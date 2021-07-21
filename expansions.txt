@@ -802,6 +802,7 @@ Nukem's Possible Manifestation
 Null Pointer Mayhem
 Null Pointer Micromanagement
 Null Pointer Missing
+Nulls Per Minute
 Nullifying Precipitation Machine
 Numbers Prefer Multiplication
 Numbers Probably Matter
