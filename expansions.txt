@@ -467,6 +467,7 @@ Nimble Pirate Monitor
 Nimble Pixie Merchant
 Nimble Polyglot Microcosm
 Nimble Porridge Muncher
+Nimble Potato Manager
 Nimble Prime Musketeers
 Nimoy Prospers Mystically
 Nincompoops Producing Methane
