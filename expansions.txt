@@ -1,6 +1,7 @@
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
+Não Posso Mais
 Naan and Paneer Makhani
 Nabbing Pleasant Monads
 Naboo's Podracing Misadventure
@@ -34,8 +35,8 @@ Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 NaN Producing Misery
 Nana Plays Minesweeper
-Nana's Plush Muppet
 Nanananananananana.. Pat Man!
+Nana's Plush Muppet
 Nancy's Preferred Machete
 Nano Particle Matrix
 Nano Pico Micro
@@ -51,14 +52,13 @@ Nanotech Parading Mars
 Nanotechnology Promises Much
 NaNoWriMo Promotes Manuscription
 Nantes Paradox Market
-Não Posso Mais
 Nap Power: Maximum
 Naphthalene Possum Management
 Napolean Paced Mischeviously
-Napoleon's Penguin Mascot
-Napoleon's Pixelated Mugshot
 Napoleonic Panda Machine
 Napoleonic Political Magnificence
+Napoleon's Penguin Mascot
+Napoleon's Pixelated Mugshot
 Napping Panda Missionaries
 Napping Peanut Monsters
 Naps Per Month
@@ -87,9 +87,9 @@ Nary a Package Missing
 NASA Planetary Mission
 NASA Proceeds to Mars
 NASA: Pluto Matters!
-NASA's Punk Music
 Nasal Pathway Melodrama
 Nasal Piercings Manipulator
+NASA's Punk Music
 Nascent Personality Manifestation
 Nascent Plasticine Materialist
 Nascent Political Miscreant
@@ -129,8 +129,10 @@ Natural Push Machine
 Naturally Pacifist Marsupials
 Naturally Processed Meals
 Naturally Produced Modules
+Naturally Propelled by Magnesium
 Nature Preceded Machines
 Nature's Particle Manager
+Nature's Possible Mishaps
 Nature's Powerful Meme
 Naughty Panda Manga
 Naughty Pinching Mannequins
@@ -168,6 +170,7 @@ Nearly Perpendicular Macaroons
 Nearly Picked Makefiles
 Nearly Pooped Myself
 Nearly Post-Money
+Nearly Profitable Middleware
 Nearly Pure Mustard
 Nearly-Pickled Module
 Nearsighted Paramecium Multiverse
@@ -237,14 +240,12 @@ Negligible Psychological Misery
 Negotiable Paleobotanist Missions
 Negotiate Pushing Milestone
 Neigh Purr Moo
-Neighbor's Preppy Maltese
 Neighborly Package Megalodon
+Neighbor's Preppy Maltese
 Neighbour Problem Manager
 Neighbourhood Party Manager
 Neil Patrick's Mansion
 Nemo's Parental Misguidance
-Neo's Personal Matrix
-Neo's Playing Morpheus
 Neoanthropic Preternatural Murmurings
 Neoclassic Placebo Maker
 Neoclassical Philosophic Musings
@@ -264,6 +265,9 @@ Neophobe Plebeian Mumpsimus
 Neoplastic Plasma Medusa
 Neopolitan Pizza Maker
 Neoprene Party Masks
+Neo's Personal Matrix
+Neo's Pill in Matrix
+Neo's Playing Morpheus
 Neoteric Plumbing Mishap
 Neovictorian Paisley Menswear
 Nephrite Power Mace
@@ -294,9 +298,11 @@ Nervously Practice Multithreading
 Nervously Proposing Marriage
 Nestable Processes Mutate
 Nested Parenthetical Madness
+Nested Plugin Maintainers
 Nested Public Modules
 Nesting Penguins Molt
 Net Possibility Multiplier
+Net Profitable Mashups
 Netherworld's Pretend Minibar
 Neti Pot Manufacturer
 Nettle Pie Market
@@ -305,6 +311,8 @@ Network Pipe Manufacturer
 Network Powering Makers
 Network Printer Manager
 Network Processor Module
+Network Proxied Misdirection
+Networking Pause on Middleware
 Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
@@ -325,6 +333,7 @@ Neutral Political Machine
 Neutral Pork Motel
 Neutral, Plus or Minus
 Neutralize Pesky Miscreants
+Neutralizing Possible Malware
 Neutrino Packing Machine
 Neutrinos Peludos Magnéticos
 Neutron Polarization Manipulator
@@ -379,6 +388,7 @@ Newbies Pass Muster
 Newborn Programming Monsters
 Newfangled Package Modernizer
 Newfoundland Pitbull Mix
+Newline in Pipelines Monitored
 Newline Pending Merge
 Newline Proliferating Maniac
 Newly Paranoid Maintainers
@@ -391,12 +401,12 @@ Newlywed Party Monsters
 Newlyweds Proposing Marriage
 Newman's Personal Motorcade
 Newsworthy Presidential Mistakes
+Newtonian Particle Motion
+Newtonian Physics Mockumentary
 Newton's Poleless Magnet
 Newton's Preposterous Miscalculation
 Newton's Principia Mathematica
 Newton's Programmatic Measurements
-Newtonian Particle Motion
-Newtonian Physics Mockumentary
 Newts Parading Majestically
 Newts Prefer MS-DOS
 Next Perpendicular Moonlanding
@@ -405,6 +415,7 @@ Next Pizza's Mine
 Next Planet of Monkeys
 Next Popular Module
 Next Prince Montage
+Next Push to Main
 next() Packaged Middleware
 NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
@@ -416,6 +427,7 @@ Nice Paintings, Mondrian
 Nice Pants, Man
 Nice Parakeet Marriage
 Nice Philanthropist Metalhead
+Nice Pieces of Meat
 Nice Pithy Motto
 Nice Poodle, Mister
 Nice Pottery Mug
@@ -427,6 +439,8 @@ Nicely Pruned Marigolds
 Nicer Package Manager
 Nicer Perusal Method
 Niche Portobello Mushroom
+Niche Proper Mentoring
+Nickel and Polarized Mercury
 Nickel Palladium Manganese
 Nickel Plated Moose
 Nickelback Plays Music
@@ -446,8 +460,11 @@ Nightly Patch Machine
 Nightly Perpetrated Mischief
 Nightly Piano Man
 Nightly Pocket Measurement
+Nightly Poptart Mondays
+Nightly Portable Minibuilds
 Nightly Procrastination Machine
 Nightly Punk Masters
+Nightmare of Proud Minions
 Nightmare Prom Memories
 Nightmarish Pawnshop Mystic
 Nights Pay More
@@ -468,8 +485,10 @@ Nimble Pixie Merchant
 Nimble Polyglot Microcosm
 Nimble Porridge Muncher
 Nimble Prime Musketeers
+Nimbly Push Mashups
 Nimoy Prospers Mystically
 Nincompoops Producing Methane
+Nine in Production Missing
 Nine Parsecs from Milwaukee
 Nine Pedestrians Mesmerized
 Nine Percent Milk
@@ -477,6 +496,7 @@ Nine Point Mulligan
 Nine Pomeranian Monsters
 Nine Post Meridiem
 Nine Pounds of Mayonnaise
+Nine Processes Monitored
 Nine Project Managers
 Nine Putrid Mangos
 Nine-Pin Masters
@@ -534,8 +554,8 @@ No Punches Made
 No Puns Monday
 No Purchase Made
 No Python Modules
-No, Pay Me
 No! Primate Mutation!
+No, Pay Me
 Noah's Pairwise Manifest
 Nobel Prize Magnet
 Noble Programming Mantra
@@ -573,6 +593,7 @@ Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
 Node's Pastoral Musicians
+Nodes Per Minute
 Node's Perfect Mate
 Node's Perpetuum Mobile
 Node's Personal Monk
@@ -580,7 +601,6 @@ Node's Play Mate
 Node's Pocket Monsters
 Node's Power Meal
 Node's Pretty Magical
-Nodes Per Minute
 Nodeschool Public Materials
 Nodular Pudding Multiverse
 Noiseless Party Machine
@@ -605,13 +625,6 @@ Nomnom Pumpernickle Muffins
 Non Polar Magnetism
 Non Productive Monday
 Non Programming Manager
-Non-Partisan Magicians
-Non-Permeable Membrane
-Non-Polite Mother
-Non-Polynomial Mantissa
-Non-Potable Macchiato
-Non-Printable Material
-Non-Production Machines
 Nonagons Please Me
 Nonchalant Programming Master
 Nonchalantly Performs Magic
@@ -627,6 +640,13 @@ Nondigestible Purple Mayonnaise
 Nonflavored Prescription Medicine
 Nonlinear Performance Magnification
 Nonlinear Programming Methods
+Non-Partisan Magicians
+Non-Permeable Membrane
+Non-Polite Mother
+Non-Polynomial Mantissa
+Non-Potable Macchiato
+Non-Printable Material
+Non-Production Machines
 Nonprofit Pizza Maker
 Nonsense Parser Microframework
 Nonsense Placement Mandatory
@@ -642,7 +662,6 @@ Nonvoluntary Professional Mangling
 Noodle Printing Machine
 Noodles Practicing Medicine
 Noodles, Poodles and More!
-Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
@@ -650,11 +669,13 @@ Nope, prefer mopeds.
 Nordic Panda Moor
 Normal People, MMM!
 Normal Polygamous Marriage
+Normal Posts Minifier
 Normal Programming Mistake
+Normal Props Maximizer
+Normalized Phonetical Modernization
 Normally Palatable Mango
 Normally Pleasant Mixture
 Norse Polytheistic Mythology
-Norse Power Metal
 Norse Power Metal
 North Pittsburgh Meatpackers
 North Pole Merriment
@@ -671,6 +692,7 @@ Norwegian Puffin Movies
 Nose Picker's Maven
 Nose Picking Mechanisms
 Nosey Party Murderer
+Nosferatus on Payroll Monitored
 Nosferatu's Pace Maker
 Nostalgic Perogi Monogramming
 Nostalgic Piano Music
@@ -694,9 +716,11 @@ Not Providing Milkshakes
 Notable Pastry Maker
 Notable Peru Mariachis
 Notable Pottery Manufacturer
+Notable Professional Movement
 Notable Pseudocode Mashups
 Notably Polite Mariner
 Notary Public Mystifier
+Note Passwords More
 Note: Purchase Milk
 Notebook Page Margin
 Notes Per Minute
@@ -778,8 +802,11 @@ NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
 Nth Power Matrix
+NTLM Processes in Memory
 Nu Pop Metal
 Nuanced Pterodactyl Monk
+nuǝɯ pǝɥsᴉꞁod mǝu
+nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 Nuclear Package Magnet
 Nuclear Pizza Machine
 Nuclear Planning Manual
@@ -794,19 +821,22 @@ Nucleic Phosphate Modifier
 Nucleic Photon Magnetizer
 Nucleophosmin
 Nucleus Powered Mitochondria
-nuǝɯ pǝɥsᴉꞁod mǝu
-nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Mayhem
 Null Pointer Micromanagement
 Null Pointer Missing
+NULL Powered Middleware
 Nullifying Precipitation Machine
+Numbers of Poisson Medians
 Numbers Prefer Multiplication
 Numbers Probably Matter
 Numbers Produce Meaning
+Numeric Papers on Mondays
+Numeric Plumbing Minified
 Numeric Production Mechanism
+Numerical Points per Month
 Numerous Packages Multiply
 Numerous Pancakes Munched
 Numerous Panicky Mimes
@@ -835,12 +865,13 @@ Nutritious Polygonal Meatball
 Nutritious Pomegranate Muffins
 Nutritious Potato Munchies
 Nutritious Pumpkin Meal
+Nuts & Pepper Mill
 Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
+Nyan's Proper Marking
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-#
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
 #
