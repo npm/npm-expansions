@@ -733,6 +733,7 @@ Nourishing Pizza Microservice
 Nourishing Plushie Monster
 Nouveau Papier Mâché
 Nouveau Print Maker
+Novel Package Manager
 Novel Personal Mantras
 Novel Planetary Movement
 Novel Preposterous Mockery
