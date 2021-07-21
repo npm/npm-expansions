@@ -200,6 +200,7 @@ Necrotizing Pineapple Music
 Nectar of the Programming Masses
 Need Package Maintenance
 Need Paper Mache
+Need Plenty Munchies
 Need Potato Man
 Need Pray More
 Need Private Modules
@@ -364,6 +365,7 @@ New Package Monster
 New Patch, Merge?
 New Personal Mail
 New Phone Models
+New Pneumatic Machine
 New Power Management
 New Power Manual
 New Powerful Machines
@@ -518,6 +520,7 @@ No Pants, Mom
 No Particular Method
 No Partying Mariachis
 No Password Management
+No Plugin Management
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
