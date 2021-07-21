@@ -1,4 +1,6 @@
 *nix Programming Mammals
+Node Programmer's Machine
+New generation Package Manager
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
