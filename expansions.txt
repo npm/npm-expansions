@@ -379,6 +379,7 @@ Newbies Pass Muster
 Newborn Programming Monsters
 Newfangled Package Modernizer
 Newfoundland Pitbull Mix
+Newline Pattern Matching
 Newline Pending Merge
 Newline Proliferating Maniac
 Newly Paranoid Maintainers
