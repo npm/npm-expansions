@@ -300,6 +300,7 @@ Net Possibility Multiplier
 Netherworld's Pretend Minibar
 Neti Pot Manufacturer
 Nettle Pie Market
+Network of Poor Machines
 Network Performance Monitor
 Network Pipe Manufacturer
 Network Powering Makers
@@ -403,6 +404,7 @@ Next Perpendicular Moonlanding
 Next Phenomenal Microbrewery
 Next Pizza's Mine
 Next Planet of Monkeys
+Next Pop Model
 Next Popular Module
 Next Prince Montage
 next() Packaged Middleware
