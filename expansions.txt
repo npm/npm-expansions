@@ -206,6 +206,7 @@ Need Private Modules
 Need Prize Money
 Need Project Manager
 Need Public Method
+Need to Play Minecraft
 Needful Program Management
 Needle-Pinpointing Machine
 Needless Patchouli Manufacture
@@ -560,6 +561,7 @@ Nodding Previously Managed
 Node Package Maid
 Node Package Manager
 Node Package Master
+Node Package Minecraft
 Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
@@ -572,6 +574,7 @@ Node Plus Me
 Node Popular Man
 Node Promiscuous Modules
 Node's Package Magician
+Node's Password Manager
 Node's Pastoral Musicians
 Node's Perfect Mate
 Node's Perpetuum Mobile
