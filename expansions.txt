@@ -19,6 +19,7 @@ Nail Polishing Minions
 Naive Pac Man
 Naive Props Mutation
 Naive Puppets Marching
+Naively Positive Manager
 Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
