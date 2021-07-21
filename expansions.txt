@@ -75,6 +75,7 @@ Narcoleptic Programmers' Medicine
 Narcoleptic's Patch Mangler
 Narnia Produced Magic
 Narnia Protect Me
+Narnian Pig Manifesto
 Narnia's Poofy Meatcleaver
 Narnia's Psychedelic Mushrooms
 Narrating Prophetic Monks
@@ -90,6 +91,7 @@ NASA: Pluto Matters!
 NASA's Punk Music
 Nasal Pathway Melodrama
 Nasal Piercings Manipulator
+NASCAR Pirate Manifesto
 Nascent Personality Manifestation
 Nascent Plasticine Materialist
 Nascent Political Miscreant
@@ -195,6 +197,7 @@ Necessary Package Manager
 Necessary Pigeonholing Mechanism
 Necessitates Proper Modularity
 Neck Protection Mandate
+Necklace Peddling Mage
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
@@ -241,6 +244,7 @@ Neighbor's Preppy Maltese
 Neighborly Package Megalodon
 Neighbour Problem Manager
 Neighbourhood Party Manager
+Neil Patrick's Manifesto
 Neil Patrick's Mansion
 Nemo's Parental Misguidance
 Neo's Personal Matrix
@@ -639,6 +643,7 @@ Nonstop Progressive Marxism
 Nonviolent Pigeon Manifestation
 Nonviolent Pirate Mobster
 Nonvoluntary Professional Mangling
+Noodle Packaging Manufacturer
 Noodle Printing Machine
 Noodles Practicing Medicine
 Noodles, Poodles and More!
@@ -839,7 +844,9 @@ Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
+Nylon Pants Magician
 Nylon Pendulum Movement
+Nylon Pickle Mask
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
