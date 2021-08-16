@@ -620,6 +620,7 @@ Noncollinear Perpendicular Microcrystalline
 Noncommital Premarital Mischief
 Nonconformist Propaganda Machine
 Nondeterministic Palindrome Machine
+Nondeterministic Polynomial Maker
 Nondeterministic Polynomial Munchies
 Nondeterministic Postrequisite Metaprotocol
 Nondeterministic Programming Methodology
@@ -762,7 +763,7 @@ Now, Please Meander
 Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
-Nozzle Piping Mismatch
+Nozzle Piping Mismatch 
 npm package manager
 npm packaged modules
 npm pretty much
