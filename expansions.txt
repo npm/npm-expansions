@@ -5,6 +5,7 @@ Naan and Paneer Makhani
 Nabbing Pleasant Monads
 Naboo's Podracing Misadventure
 Nacho Pace Maker
+Nacho Pizza Macaroni
 Nacho Pizza Marinade
 Nacho Portion Monitor
 Nacho Portmanteau Meltdown
@@ -23,6 +24,7 @@ Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
 naM ,sevitcepsreP weN
+Namaste! Package Manager
 Namby Pamby Magicians
 Name Picker Malfunction
 Named Pipe Mechanism
@@ -32,6 +34,7 @@ Namespace Pollution Mechanism
 Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
+Namkeen Parathe is Must!
 NaN Producing Misery
 Nana Plays Minesweeper
 Nana's Plush Muppet
@@ -159,6 +162,7 @@ Neanderthals Paint Mammals
 Neanderthals Programming Machines
 Neapolitan Pasta Maker
 Neapolitan Pizza Margherita
+Near Peaceful Minds
 Near Perfect Mood
 Nearest Phase Modulator
 Nearly Past Midnight
@@ -179,6 +183,7 @@ Neat! Pickled Muskrat!
 Neatly Packaged Magic
 Neatly Packaged Manuals
 Neatly Packaged Modules
+Neatly Placed Magicspells
 Neatly Placed Mail
 Neatly Planned Meal
 Neatly Positioned Magazines
@@ -376,6 +381,7 @@ New Project, Monday
 New Purple Moon
 Newbie Paintball Master
 Newbies Pass Muster
+Newbies PR Merged!
 Newborn Programming Monsters
 Newfangled Package Modernizer
 Newfoundland Pitbull Mix
@@ -537,7 +543,9 @@ No Python Modules
 No, Pay Me
 No! Primate Mutation!
 Noah's Pairwise Manifest
+Nobel Princess Mansion
 Nobel Prize Magnet
+Nobita's Pocket Manager
 Noble Programming Mantra
 Noble Pug Mullet
 Nobody Packages More
@@ -583,6 +591,7 @@ Node's Pretty Magical
 Nodes Per Minute
 Nodeschool Public Materials
 Nodular Pudding Multiverse
+Noentry in Party, Muggles!
 Noiseless Party Machine
 Noiseless Peaceful Morning
 Noiseless Praying Mantis
@@ -631,6 +640,7 @@ Nonprofit Pizza Maker
 Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
+Nonsense Prohibited Man
 Nonstick Pancake Maker
 Nonstop Pajama Models
 Nonstop Perpetual Motion
@@ -685,6 +695,7 @@ Nosy Praying Mantis
 Not a Package Manager
 Not a Penny More
 Not a Propaganda Machine
+Not all People are Muggles
 Not Pancake Mix
 Not Parents' Money
 Not Particularly Meaningful
@@ -700,6 +711,7 @@ Notary Public Mystifier
 Note: Purchase Milk
 Notebook Page Margin
 Notes Per Minute
+Noteworthy People's Manager
 Noteworthy Placebo Mongers
 Noteworthy Programming Masterpiece
 Noteworthy Programs Map
@@ -735,6 +747,8 @@ Nouveau Papier Mâché
 Nouveau Print Maker
 Novel Personal Mantras
 Novel Planetary Movement
+Novel Pop Music
+Novel Potterhead's Magicspells
 Novel Preposterous Mockery
 Novelty Palliates Malaise
 Novelty Plastic Moustache
@@ -831,10 +845,13 @@ Nutmeg Plundering Muse
 Nutrias Punching Marmots
 Nutrient Packed Morsels
 Nutritious Pancake Mountain
+Nutritious Pancake with Maple syrup
+Nutritious Plate of Macaroni
 Nutritious Polygonal Meatball
 Nutritious Pomegranate Muffins
 Nutritious Potato Munchies
 Nutritious Pumpkin Meal
+Nutritious PuranPoli Makers
 Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
