@@ -1,7 +1,6 @@
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
-Naan and Paneer Makhani
 Nabbing Pleasant Monads
 Naboo's Podracing Misadventure
 Nacho Pace Maker
@@ -689,6 +688,7 @@ Not Pancake Mix
 Not Parents' Money
 Not Particularly Meaningful
 Not Pictured: Mangoes
+Not Practicing Magic
 Not Preposterously Macho
 Not Providing Milkshakes
 Notable Pastry Maker
@@ -840,6 +840,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Naan and Paneer Makhani
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
