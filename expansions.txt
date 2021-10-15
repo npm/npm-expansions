@@ -132,6 +132,7 @@ Naturally Produced Modules
 Nature Preceded Machines
 Nature's Particle Manager
 Nature's Powerful Meme
+Natural Party Meddling
 Naughty Panda Manga
 Naughty Pinching Mannequins
 Naughty Platypus Memorabilia
@@ -647,6 +648,7 @@ Noodly Pasta Maker
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
+No Possible Melioration
 Nordic Panda Moor
 Normal People, MMM!
 Normal Polygamous Marriage
@@ -763,6 +765,7 @@ Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
 Nozzle Piping Mismatch
+Nuggets Perfectly Made
 npm package manager
 npm packaged modules
 npm pretty much
