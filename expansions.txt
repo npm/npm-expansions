@@ -785,6 +785,7 @@ Nuclear Pizza Machine
 Nuclear Planning Manual
 Nuclear Potato Monster
 Nuclear Power Manager
+Nuclear Power Modularity
 Nuclear Powered Macros
 Nuclear Powered Marshmallows
 Nuclear Powered Mushroom
