@@ -31,7 +31,7 @@ This is the source code for the three-word thingies that randomly appear in the 
 
 Some other suggestions:
 
-* Be meaningful. Three random words is not good enough.
+* Be meaningful. Three random words are not good enough.
 * Be funny. This is very subjective, we realize, so try not to take it personally if we don't get it.
 * Be novel. If your expansion starts with "Node" the other two words better be pretty great.
 * Avoid hyphenation, especially "non-". Yes, there are some in there already. Sorry.
