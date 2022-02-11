@@ -10,6 +10,7 @@ var list = fs
   .map(function(e) { return e.trim() })
   .filter(function(e) { return (e.length > 0) })
   .filter(function(e) { return e.charAt(0) !== '#' })
+  .filter(function(e, idx, currentList) { return currentList[idx + 1] ? currentList[idx + 1].toLowerCase() !== e.toLowerCase() : true})
   .sort(function (a, b) {
     return a.toLowerCase().localeCompare(b.toLowerCase());
   })
