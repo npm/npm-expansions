@@ -631,6 +631,7 @@ Nonprofit Pizza Maker
 Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
+Nonsense Psychedelic Music
 Nonstick Pancake Maker
 Nonstop Pajama Models
 Nonstop Perpetual Motion
@@ -667,6 +668,7 @@ Norwegian Parcel Mail
 Norwegian Peat Moss
 Norwegian Polka Music
 Norwegian Pony Master
+Norwegian Pork Meatballs
 Norwegian Puffin Movies
 Nose Picker's Maven
 Nose Picking Mechanisms
