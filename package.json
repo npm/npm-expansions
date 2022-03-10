@@ -6,9 +6,6 @@
   "bugs": {
     "url": "https://github.com/npm/npm-expansions/issues"
   },
-  "devDependencies": {
-    "tap": "^0.4.13"
-  },
   "homepage": "https://github.com/npm/npm-expansions",
   "keywords": [
     "abbreviations",
@@ -27,5 +24,8 @@
     "prepublish": "npm test",
     "pretest": "node build.js",
     "test": "tap test"
+  },
+  "devDependencies": {
+    "tap": "^16.0.0"
   }
 }
