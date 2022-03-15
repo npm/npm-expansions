@@ -440,7 +440,7 @@ Nifty Pun Master
 Nifty Purring Manticore
 Nigerian Prince Meme
 Nightclub Party Music
-Nightingale Posing Mischievously
+Nightingale Posing Mischievously=
 Nightly Panic Munchies
 Nightly Patch Machine
 Nightly Perpetrated Mischief
@@ -590,6 +590,7 @@ Noisy Pillaging Monster
 Noisy Pirate Mutiny
 Noisy Pneumatic Mnemonic
 Noisy Pop Music
+Noisy Pilot Manager
 Noisy Pterodactyl Melodies
 nom, please more
 Nomad Packaging Mechanism
