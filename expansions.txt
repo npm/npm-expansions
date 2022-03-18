@@ -1,4 +1,4 @@
-*nix Programming Mammals
+r*nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
 Naan and Paneer Makhani
@@ -372,6 +372,7 @@ New Pretend Meaning
 New Priority Mail
 New Prog Mixtape
 New Programs Makers
+New Project Maker
 New Project, Monday
 New Purple Moon
 Newbie Paintball Master
