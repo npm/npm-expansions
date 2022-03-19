@@ -632,6 +632,7 @@ Nonsense Parser Microframework
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonstick Pancake Maker
+Nonstochastic Perturbation Mechanism
 Nonstop Pajama Models
 Nonstop Perpetual Motion
 Nonstop Pet Mewing
