@@ -19,6 +19,7 @@ Nail Polishing Minions
 Naive Pac Man
 Naive Props Mutation
 Naive Puppets Marching
+Naive Push Moderator
 Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
@@ -62,6 +63,7 @@ Napoleonic Political Magnificence
 Napping Panda Missionaries
 Napping Peanut Monsters
 Naps Per Month
+Naps Power Me
 Narcissistic Passion Minified
 Narcissistic Piano Mover
 Narcissistic Pickle Meister
@@ -160,6 +162,7 @@ Neanderthals Programming Machines
 Neapolitan Pasta Maker
 Neapolitan Pizza Margherita
 Near Perfect Mood
+Nearby Pigeon Mascot
 Nearest Phase Modulator
 Nearly Past Midnight
 Nearly Perfect Mediocracy
@@ -200,6 +203,7 @@ Necrotizing Pineapple Music
 Nectar of the Programming Masses
 Need Package Maintenance
 Need Paper Mache
+Need Pet Monkey
 Need Potato Man
 Need Pray More
 Need Private Modules
@@ -242,6 +246,7 @@ Neighborly Package Megalodon
 Neighbour Problem Manager
 Neighbourhood Party Manager
 Neil Patrick's Mansion
+Nellie Produces Methane
 Nemo's Parental Misguidance
 Neo's Personal Matrix
 Neo's Playing Morpheus
@@ -644,6 +649,8 @@ Noodles Practicing Medicine
 Noodles, Poodles and More!
 Noodles, Poodles and More!
 Noodly Pasta Maker
+Noogie package manager
+Noon Pigeon March
 noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
@@ -725,6 +732,7 @@ Notoriously Psychedelic Modules
 Notoriously Punctual Manatee
 Notwithstanding Precautions, Misadventure
 Notwithstanding Previous Misdemeanors
+Nougat Pastry Maniac
 Nougat Predominant Middleware
 Noun/Pronoun Mix-up
 Nourished Personal Mucus
@@ -736,6 +744,7 @@ Nouveau Print Maker
 Novel Personal Mantras
 Novel Planetary Movement
 Novel Preposterous Mockery
+Novelty Pajama Mutants
 Novelty Palliates Malaise
 Novelty Plastic Moustache
 Novelty Polygonal Mathematics
