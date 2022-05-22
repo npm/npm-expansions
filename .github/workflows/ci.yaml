@@ -12,6 +12,9 @@ jobs:
         with:
           node-version: 16
 
+      - name: Install eslint
+        run: npm i -g eslint
+
       - name: run lint
         uses: wearerequired/lint-action@v1.7.0
         continue-on-error: true
@@ -27,3 +30,8 @@ jobs:
       - name: run tests
         run: tap
 
+      - name: (If required) commit sorted expansions.txt
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Sort expansions.txt
+          commit_user_name: github-actions[bot]
