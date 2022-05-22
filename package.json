@@ -29,6 +29,8 @@
   "scripts": {
     "prepublish": "npm test",
     "pretest": "node build.js",
-    "test": "npx tap"
+    "test": "tap",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   }
 }
