@@ -1,0 +1,29 @@
+name: CI
+on: ["push", "pull_request"]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16
+
+      - name: run lint
+        uses: wearerequired/lint-action@v1.7.0
+        continue-on-error: true
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          eslint: true
+          auto_fix: true
+
+      - run: npm ci
+
+      - run: npm i -g tap
+
+      - name: run tests
+        run: tap
+

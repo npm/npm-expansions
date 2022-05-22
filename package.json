@@ -29,6 +29,6 @@
   "scripts": {
     "prepublish": "npm test",
     "pretest": "node build.js",
-    "test": "tap"
+    "test": "npx tap"
   }
 }
