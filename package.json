@@ -7,6 +7,9 @@
     "url": "https://github.com/npm/npm-expansions/issues"
   },
   "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "tap": "^0.4.13"
   },
   "homepage": "https://github.com/npm/npm-expansions",
