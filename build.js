@@ -14,9 +14,12 @@ const list = fs
   .filter((e) => e.charAt(0) !== '#')
   .sort((a, b) => a.toLowerCase().localeCompare(b.toLowerCase()));
 
-fs.writeFileSync(outfile_json, JSON.stringify(list, null, 2));
+const distinct = [...new Set(list)];
 
-fs.writeFileSync(outfile_txt, list.reduce((p, c) => `${p + c}\n`, `${list.shift()}\n`));
+fs.writeFileSync(outfile_json, JSON.stringify(distinct, null, 2));
+
+fs.writeFileSync(outfile_txt, distinct.reduce((p, c) => `${p + c}\n`, `${distinct.shift()}\n`));
+
 // reappend the instructions
 fs.appendFileSync(
   outfile_txt,
