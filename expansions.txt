@@ -519,6 +519,7 @@ No Particular Method
 No Partying Mariachis
 No Password Management
 No Plugins; Monolithic
+No Pocket Moneu
 No Points Made
 No Possible Meaning
 No Potty Mouths
@@ -560,7 +561,6 @@ Nodding Previously Managed
 Node Package Maid
 Node Package Manager
 Node Package Master
-Node Package Miner
 Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
