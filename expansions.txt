@@ -574,6 +574,7 @@ Node Promiscuous Modules
 Node's Package Magician
 Node's Pastoral Musicians
 Node's Perfect Mate
+Node's Perfect Magician
 Node's Perpetuum Mobile
 Node's Personal Monk
 Node's Play Mate
@@ -705,6 +706,7 @@ Noteworthy Programming Masterpiece
 Noteworthy Programs Map
 Noteworthy Puppy Movies
 Nothing Particularly Magnificent
+Nothing Perfect Mandatory
 Nothing Pleases Me
 Nothing Plus Modules
 Nothing Precedes Matter
