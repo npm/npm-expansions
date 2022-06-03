@@ -2,6 +2,9 @@
 N00b Pwn M3
 N00b's Programming Machine
 N00b's First Project
+N00b's First Commit
+N00b's First Issue
+N00b's First Program
 Naan and Paneer Makhani
 Nabbing Pleasant Monads
 Naboo's Podracing Misadventure
