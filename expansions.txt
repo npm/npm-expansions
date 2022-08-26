@@ -12,6 +12,8 @@ Nacho Printing Machine
 Nachos Pillage Milwaukee
 Nachos Preventing Motivation
 Nadie Programa más
+Naggy Picky Monster
+Nagging Mario's Princess
 Nagging Penguin Matriarchs
 Nahi Pata Mujhe!
 Nail Polish Makeover
@@ -78,6 +80,7 @@ Narnia Protect Me
 Narnia's Poofy Meatcleaver
 Narnia's Psychedelic Mushrooms
 Narrating Prophetic Monks
+Narwhals Petting Master 
 Narrowly Preventing Mayhem
 Narwhal Parade Maestro
 Narwhals Playing Mahjong
@@ -132,6 +135,7 @@ Naturally Produced Modules
 Nature Preceded Machines
 Nature's Particle Manager
 Nature's Powerful Meme
+Naughty Partner Missing
 Naughty Panda Manga
 Naughty Pinching Mannequins
 Naughty Platypus Memorabilia
@@ -374,6 +378,7 @@ New Prog Mixtape
 New Programs Makers
 New Project, Monday
 New Purple Moon
+New Peace Maker
 Newbie Paintball Master
 Newbies Pass Muster
 Newborn Programming Monsters
@@ -629,6 +634,7 @@ Nonlinear Performance Magnification
 Nonlinear Programming Methods
 Nonprofit Pizza Maker
 Nonsense Parser Microframework
+Nonsense Package Manager
 Nonsense Placement Mandatory
 Nonsense Poetry Manager
 Nonstick Pancake Maker
@@ -681,6 +687,8 @@ Nostalgic Punchcard Missing
 Nostradamus Predicting Maelstroms
 Nostradamus Prophecy Machine
 Nosy Pinocchio Manners
+Not a Programming Machine
+Not a Perfect Muffin
 Nosy Praying Mantis
 Not a Package Manager
 Not a Penny More
