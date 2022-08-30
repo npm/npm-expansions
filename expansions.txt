@@ -120,6 +120,7 @@ Nattily Polished Marbles
 Nattily Primped Monster
 Natty Precise Maverick
 Natural Pacifist Manatees
+Natural People Magnet
 Natural Performance Manager
 Natural Pleistocene Monsters
 Natural Polyglot Machine
@@ -194,12 +195,14 @@ Necessarily Precedes Mischief
 Necessary Package Manager
 Necessary Pigeonholing Mechanism
 Necessitates Proper Modularity
+Necessity-Producing Machine
 Neck Protection Mandate
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
 Need Package Maintenance
 Need Paper Mache
+Need Paraskavedekatriaphobia's Meaning
 Need Potato Man
 Need Pray More
 Need Private Modules
@@ -486,6 +489,10 @@ Nineties Pop Music
 Ninety Percent Muffin
 Ninety Proof Mezcal
 Ninety-nine Pitchers of Malt
+Ninety-nine Percent Made
+Ninety-nine Percent Mana
+Ninety-nine Percent Managed
+Ninety-nine Percent Manager
 Ninja Painter Michelangelo
 Ninja Parading Musically
 Ninja Party Manager
@@ -495,29 +502,39 @@ Ninja Pokémon Master
 Ninja Power Manifesto
 Ninja Programmers Mindmeld
 Ninja Pumpkin Mutants
+Ninjas Practicing Magic
 Ninjas Practicing Multidimensionality
 Nirvana Playing Madonna
 Nit-Picking Magistrate
 Nit-Picking Manager
+Nit-Picking Monkey
+Nit-Picking Monkeys
 Nitrate Processed Mincemeat
-Nitro Powered Motorcycles
+Nitro-Powered Motorcycles
 Nitrogen Peroxide Monoxide
 Nitrogen Poisonous Monoxide
 Nitrogenous Polymorphic Molecule
 Nitroglycerin Pickle Machine
+Nixon Played Mahjong?
+Nixon Played Monopoly?
 Nixon's Pants Missing
 No Package Mishaps
+No Package Mismanagement
+No Packages Mismanaged
 No Packages Misplaced
 No Packages, Mate
 No Padding Margin
 No Padding Module
+No Pain? Maybe.
 No Painful Merges
 No Pants Mafia
 No Pants Monkey
 No Pants, Mom
+No Particular Meaning
 No Particular Method
 No Partying Mariachis
 No Password Management
+No Peace Makers
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
@@ -525,8 +542,8 @@ No Potty Mouths
 No Prejudice Makers
 No Princess, Mario
 No Prize Money
-No Problem Man
-No Problem Mate
+No Problem, Man
+No Problem, Mate
 No Problem, Meatbag
 No Problemo Muchacho
 No Proscribed Meaning
@@ -544,6 +561,7 @@ Nobody Packages More
 Nobody Pays (for) Magazines
 Nobody Peels Mangoes
 Nobody Picked Me
+Nobody Plays Monopoly
 Nobody Prefers Margarine
 Nobody Preheats Microwaves
 Nobody Publish Monsters
@@ -580,6 +598,7 @@ Node's Play Mate
 Node's Pocket Monsters
 Node's Power Meal
 Node's Pretty Magical
+Node's Previous Manager
 Nodes Per Minute
 Nodeschool Public Materials
 Nodular Pudding Multiverse
@@ -602,17 +621,20 @@ Nominally Patriotic Meathead
 Nominating Presidential Muppets
 Nomming Peanut M&M's
 Nomnom Pumpernickle Muffins
-Non Polar Magnetism
-Non Productive Monday
-Non Programming Manager
+Non-Polar Magnetism
+Non-Productive Monday
+Non-Programming Manager
 Non-Partisan Magicians
+Non-Perfidious Machine
 Non-Permeable Membrane
+Non-Playable Magic
 Non-Polite Mother
 Non-Polynomial Mantissa
 Non-Potable Macchiato
 Non-Printable Material
 Non-Production Machines
 Nonagons Please Me
+Nonchalant Play Man
 Nonchalant Programming Master
 Nonchalantly Performs Magic
 Nonchalantly Perusing Magazines
@@ -672,6 +694,7 @@ Nose Picker's Maven
 Nose Picking Mechanisms
 Nosey Party Murderer
 Nosferatu's Pace Maker
+Nosferatu Plays Monopoly
 Nostalgic Perogi Monogramming
 Nostalgic Piano Music
 Nostalgic Pickled Mango
@@ -684,10 +707,14 @@ Nosy Pinocchio Manners
 Nosy Praying Mantis
 Not a Package Manager
 Not a Penny More
+Not a Problem Multiplier
 Not a Propaganda Machine
 Not Pancake Mix
 Not Parents' Money
 Not Particularly Meaningful
+Not Particularly Misnamed
+Not Playing Mahjong
+Not Playing Monopoly
 Not Pictured: Mangoes
 Not Preposterously Macho
 Not Providing Milkshakes
@@ -750,17 +777,29 @@ Novice, Paragon, Master
 Novice, Practiced, Mastered
 Novices Performing Miracles
 Novices Plagiarizing Mozart
+Now, a Problem Multiplied
+Now a Problem Multiplier
+Now Pack More
 Now Package More
 Now Packing Magic
 Now Paging Maciej
 Now Particularly Misnamed
 Now Playing Mario
 Now Playing Mathcore
+Now Praise Me
+Now Pray for Me
 Now Printing Money
 Now with Partition Management
+Now Play Mahjong
+Now Play, Man
+Now Play Monopoly
+Now Playing Mahjong
+Now Playing Monopoly
 Now, Please Meander
+Now, Please Move
 Now, Publish Me
 Now, Push Me
+Now Pushing Men
 Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm package manager
@@ -816,6 +855,9 @@ Numerous Pulls Merged
 Numerous Pulsating Martians
 Nunchaku Pizza Master
 Nunjucks Powers Mozilla
+Nuns Play Mahjong?
+Nuns Play Monopoly?
+Nuns Playing Mahjong
 Nuns Playing Monopoly
 Nuns Playing Mozart
 Nuns Practicing Misanthropy
