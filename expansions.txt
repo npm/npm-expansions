@@ -1,6 +1,13 @@
 *nix Programming Mammals
 N00b Pwn M3
 N00b's Programming Machine
+NASA Planetary Mission
+NASA Proceeds to Mars
+NASA's Punk Music
+NASA: Pluto Matters!
+NTFS Path Mockery
+NaN Producing Misery
+NaNoWriMo Promotes Manuscription
 Naan and Paneer Makhani
 Nabbing Pleasant Monads
 Naboo's Podracing Misadventure
@@ -22,7 +29,6 @@ Naive Puppets Marching
 Naively Programmable Module
 Naivete Precedes Misrepresentation
 Naked Panda Meditations
-naM ,sevitcepsreP weN
 Namby Pamby Magicians
 Name Picker Malfunction
 Named Pipe Mechanism
@@ -32,7 +38,6 @@ Namespace Pollution Mechanism
 Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
-NaN Producing Misery
 Nana Plays Minesweeper
 Nana's Plush Muppet
 Nanananananananana.. Pat Man!
@@ -49,9 +54,7 @@ Nanoscale Parts Manufacturing
 Nanoseconds Produce Minutes
 Nanotech Parading Mars
 Nanotechnology Promises Much
-NaNoWriMo Promotes Manuscription
 Nantes Paradox Market
-Não Posso Mais
 Nap Power: Maximum
 Naphthalene Possum Management
 Napolean Paced Mischeviously
@@ -84,10 +87,6 @@ Narwhals Playing Mahjong
 Narwhals Poke Mammals
 Narwhals Prolong Mischief
 Nary a Package Missing
-NASA Planetary Mission
-NASA Proceeds to Mars
-NASA: Pluto Matters!
-NASA's Punk Music
 Nasal Pathway Melodrama
 Nasal Piercings Manipulator
 Nascent Personality Manifestation
@@ -153,6 +152,7 @@ Navigator Prefabricating Marinates
 Navy Penguin Mariachi
 Naysayers Promote Misery
 Ne Pas Manger!
+NeXTSTEP Programming Mastermind
 Neanderthal Painting Monet
 Neanderthal Pudding Mix
 Neanderthals Paint Mammals
@@ -268,10 +268,10 @@ Neoteric Plumbing Mishap
 Neovictorian Paisley Menswear
 Nephrite Power Mace
 Nepotistic Pontifex Maximus
-Neptune: Planet or Myth?
 Neptune's Personal Maid
 Neptune's Potato Monsters
 Neptune's Prized Moons
+Neptune: Planet or Myth?
 Neptunian Parity Mnemonic
 Neptunium, Promethium, Manganese
 Nerd Party Madness
@@ -313,10 +313,10 @@ Neurologically Paralyzing Mouseovers
 Neuron Powered Motorization
 Neurophysiologically Pseudoscientific Manatee
 Neurosis Prevention Mechanism
-Neurotic and Probably Misinformed
 Neurotic Pantaloon Maker
 Neurotic Pink Mongooses
 Neurotic Programmer Masquerade
+Neurotic and Probably Misinformed
 Neurotoxin Powered Marketing
 Neutered Paranoid Meerkat
 Neutered Puppy Masquerade
@@ -405,8 +405,6 @@ Next Pizza's Mine
 Next Planet of Monkeys
 Next Popular Module
 Next Prince Montage
-next() Packaged Middleware
-NeXTSTEP Programming Mastermind
 Nibble Plum Meringue
 Nibbling Pastry Monster
 Nibbling Perfect Macaroni
@@ -534,8 +532,8 @@ No Punches Made
 No Puns Monday
 No Purchase Made
 No Python Modules
-No, Pay Me
 No! Primate Mutation!
+No, Pay Me
 Noah's Pairwise Manifest
 Nobel Prize Magnet
 Noble Programming Mantra
@@ -591,7 +589,6 @@ Noisy Pirate Mutiny
 Noisy Pneumatic Mnemonic
 Noisy Pop Music
 Noisy Pterodactyl Melodies
-nom, please more
 Nomad Packaging Mechanism
 Nomadic People Migration
 Nomenclature Predictably Misunderstood
@@ -644,7 +641,6 @@ Noodles Practicing Medicine
 Noodles, Poodles and More!
 Noodles, Poodles and More!
 Noodly Pasta Maker
-noop(); pop(); map();
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
 Nordic Panda Moor
@@ -660,8 +656,8 @@ North Pittsburgh Meatpackers
 North Pole Merriment
 North Pole Mysteries
 Northern Pileated Marmoset
-Norvell, Please Merge
 Norvell's Public Machinations
+Norvell, Please Merge
 Norway Porridge Makers
 Norwegian Parcel Mail
 Norwegian Peat Moss
@@ -682,15 +678,15 @@ Nostradamus Predicting Maelstroms
 Nostradamus Prophecy Machine
 Nosy Pinocchio Manners
 Nosy Praying Mantis
-Not a Package Manager
-Not a Penny More
-Not a Propaganda Machine
 Not Pancake Mix
 Not Parents' Money
 Not Particularly Meaningful
 Not Pictured: Mangoes
 Not Preposterously Macho
 Not Providing Milkshakes
+Not a Package Manager
+Not a Penny More
+Not a Propaganda Machine
 Notable Pastry Maker
 Notable Peru Mariachis
 Notable Pottery Manufacturer
@@ -709,8 +705,8 @@ Nothing Pleases Me
 Nothing Plus Modules
 Nothing Precedes Matter
 Nothing Prevents Misery
-Nothing, Plus More
 Nothing's plumb meaningless
+Nothing, Plus More
 Noticeably Playful Monkeys
 Notify President Madagascar
 Notorious Party Muppets
@@ -742,8 +738,8 @@ Novelty Polygonal Mathematics
 Novelty Promotes Magicians
 November Papa Mike
 November Perfect Moustache
-November: Procrastination Month
 November's Paddleball Marathon
+November: Procrastination Month
 Novice Pokémon Master
 Novice Prime Minister
 Novice, Paragon, Master
@@ -763,18 +759,6 @@ Now, Publish Me
 Now, Push Me
 Noxious Plant Miasma
 Nozzle Piping Mismatch
-npm package manager
-npm packaged modules
-npm pretty much
-npm private modules
-npm promotes metadefinitions
-npm promulgates marsupials
-npm provides modules
-npm: package manager
-npm: possibly marvellous
-npm's personal messenger
-npm's pretty magical
-NTFS Path Mockery
 Nth Permutation Mathematics
 Nth Phonetic Mnemonic
 Nth Power Matrix
@@ -794,8 +778,6 @@ Nucleic Phosphate Modifier
 Nucleic Photon Magnetizer
 Nucleophosmin
 Nucleus Powered Mitochondria
-nuǝɯ pǝɥsᴉꞁod mǝu
-nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
@@ -840,6 +822,25 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Não Posso Mais
+naM ,sevitcepsreP weN
+next() Packaged Middleware
+niobe params matrix
+nom, please more
+noop(); pop(); map();
+npm package manager
+npm packaged modules
+npm pretty much
+npm private modules
+npm promotes metadefinitions
+npm promulgates marsupials
+npm provides modules
+npm's personal messenger
+npm's pretty magical
+npm: package manager
+npm: possibly marvellous
+nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
+nuǝɯ pǝɥsᴉꞁod mǝu
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
