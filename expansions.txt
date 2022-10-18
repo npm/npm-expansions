@@ -130,7 +130,7 @@ Naturally Pacifist Marsupials
 Naturally Processed Meals
 Naturally Produced Modules
 Nature Preceded Machines
-Nature's Particle Manager
+Nature's Particle Managerx
 Nature's Powerful Meme
 Naughty Panda Manga
 Naughty Pinching Mannequins
@@ -183,6 +183,7 @@ Neatly Placed Mail
 Neatly Planned Meal
 Neatly Positioned Magazines
 Neatly Prepared Mustache
+Neatly Produced Memes
 Neatly Punctuated Musings
 Neato Polyester Material
 Nebulae Populate M83
