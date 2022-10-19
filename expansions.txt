@@ -364,6 +364,7 @@ New Package Monster
 New Patch, Merge?
 New Personal Mail
 New Phone Models
+New Polished Magnets
 New Power Management
 New Power Manual
 New Powerful Machines
@@ -518,6 +519,7 @@ No Pants, Mom
 No Particular Method
 No Partying Mariachis
 No Password Management
+No Perfect Mangrove
 No Plugins; Monolithic
 No Points Made
 No Possible Meaning
@@ -558,6 +560,7 @@ Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
 Nodding Previously Managed
 Node Package Maid
+Node Package Maintenance
 Node Package Manager
 Node Package Master
 Node Packaged Masterfully
@@ -602,6 +605,7 @@ Nominally Patriotic Meathead
 Nominating Presidential Muppets
 Nomming Peanut M&M's
 Nomnom Pumpernickle Muffins
+Nobody Poops Manuals
 Non Polar Magnetism
 Non Productive Monday
 Non Programming Manager
@@ -689,6 +693,7 @@ Not Pancake Mix
 Not Parents' Money
 Not Particularly Meaningful
 Not Pictured: Mangoes
+Not Pointless Managing
 Not Preposterously Macho
 Not Providing Milkshakes
 Notable Pastry Maker
