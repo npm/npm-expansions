@@ -684,6 +684,7 @@ Nosy Pinocchio Manners
 Nosy Praying Mantis
 Not a Package Manager
 Not a Penny More
+Not a POSIX Mutex
 Not a Propaganda Machine
 Not Pancake Mix
 Not Parents' Money
