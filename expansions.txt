@@ -202,6 +202,7 @@ Need Package Maintenance
 Need Paper Mache
 Need Potato Man
 Need Pray More
+Need Prettier Markdown
 Need Private Modules
 Need Prize Money
 Need Project Manager
@@ -564,6 +565,7 @@ Node Packaged Masterfully
 Node Packaged Modules
 Node Parcel Merchant
 Node People Magic
+Node Per Mind
 Node Permanently Moved
 Node Permite Mucho
 Node Pizza Maker
@@ -705,6 +707,7 @@ Noteworthy Programming Masterpiece
 Noteworthy Programs Map
 Noteworthy Puppy Movies
 Nothing Particularly Magnificent
+Nothing Pause Me
 Nothing Pleases Me
 Nothing Plus Modules
 Nothing Precedes Matter
