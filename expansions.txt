@@ -191,10 +191,12 @@ Nebulous Program Mechanic
 Nebulous Puffy Marshmallows
 Necesito Programar Más
 Necessarily Precedes Mischief
+Necessarily Proven Mathematics
 Necessary Package Manager
 Necessary Pigeonholing Mechanism
 Necessitates Proper Modularity
 Neck Protection Mandate
+Necklace Permuting Machine
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
@@ -645,9 +647,11 @@ Noodles, Poodles and More!
 Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
+No-ops Producing Meaning
 Noosphere Possibilities Maximized
 Nope, prefer mopeds.
 Nordic Panda Moor
+Nordic Passport Minter
 Normal People, MMM!
 Normal Polygamous Marriage
 Normal Programming Mistake
@@ -840,6 +844,7 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
+Nymphs Preparing Mixtures
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
