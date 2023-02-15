@@ -347,6 +347,8 @@ Never Propel Marmalade
 Never Publish Malarkey
 Never Pummel Muskoxen
 Never Punch Manticores
+Never Punch Me
+Never Punch Me
 Never Push Mistakes
 Never Push to Master
 Neverending Package Mountain
@@ -415,10 +417,12 @@ Nice Package, Mate
 Nice Paintings, Mondrian
 Nice Pants, Man
 Nice Parakeet Marriage
+Nice Party Maker
 Nice Philanthropist Metalhead
 Nice Pithy Motto
 Nice Poodle, Mister
 Nice Pottery Mug
+Nice Pluggable Module
 Nicely Packaged Make
 Nicely Pointed Mandibles
 Nicely Presented Misnomer
@@ -799,6 +803,7 @@ nuǝW pǝuoᴉʇᴉsoԀ ʎlǝʌᴉʇɐƃǝN
 Nuke Pluto and Mars
 Nuked: Probably Microwaved
 Nukem's Possible Manifestation
+Null Point Maker
 Null Pointer Mayhem
 Null Pointer Micromanagement
 Null Pointer Missing
