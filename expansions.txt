@@ -33,6 +33,7 @@ Namespace, Primitive, Method
 Namibian Pyjama Merchant
 Naming Prosecution Mitigator
 NaN Producing Misery
+NaN Producing Mistery
 Nana Plays Minesweeper
 Nana's Plush Muppet
 Nanananananananana.. Pat Man!
@@ -378,6 +379,7 @@ New Powerful Machines
 New Prague, Minnesota
 New Pretend Meaning
 New Priority Mail
+new private Main();
 New Prog Mixtape
 New Programs Makers
 New Project, Monday
@@ -771,6 +773,8 @@ Now with Partition Management
 Now, Please Meander
 Now, Publish Me
 Now, Push Me
+Now! Push to Main!
+Now! Push to Master!
 Noxious Plant Miasma
 Nozzle Piping Mismatch
 npm package manager
@@ -811,9 +815,12 @@ Nuked: Probably Microwaved
 Nukem's Possible Manifestation
 Null Pointer Mayhem
 Null Pointer Micromanagement
+Null Pointer Misery
+Null Pointer Mistery
 Null Pointer Missing
 Nullifying Precipitation Machine
 Numbers Prefer Multiplication
+Numbers Preferably Matter
 Numbers Probably Matter
 Numbers Produce Meaning
 Numeric Production Mechanism
