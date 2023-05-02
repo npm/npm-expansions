@@ -464,6 +464,7 @@ Nil Packet Minimizer
 Nimble Package Maestros
 Nimble Pet Microbes
 Nimble Pirate Monitor
+Nimble Pixelated Maze
 Nimble Pixie Merchant
 Nimble Polyglot Microcosm
 Nimble Porridge Muncher
