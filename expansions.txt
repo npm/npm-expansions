@@ -206,7 +206,6 @@ Need Private Modules
 Need Prize Money
 Need Project Manager
 Need Public Method
-Need Pills Man
 Needful Program Management
 Needle-Pinpointing Machine
 Needless Patchouli Manufacture
@@ -215,6 +214,7 @@ Needlessly Promiscuous, Modularize!
 Needlessly Provoking Marsupials
 Needling Perl Mongers
 Needs Perl Modules
+Need Pills Man
 Needs Puma Managers
 Needy Poetic Mothers
 Nefarious Pickle Muncher
