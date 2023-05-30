@@ -783,6 +783,7 @@ Nuanced Pterodactyl Monk
 Nuclear Package Magnet
 Nuclear Pizza Machine
 Nuclear Planning Manual
+Nuclear Plant Monitor
 Nuclear Potato Monster
 Nuclear Power Manager
 Nuclear Powered Macros
@@ -840,7 +841,6 @@ Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
 Nylon Pendulum Movement
-Nuclear Plant Monitor
 #
 # please don't add your expansions down here!
 # insert them in alphabetical order to help reduce merge conflicts.
