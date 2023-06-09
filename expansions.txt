@@ -350,6 +350,7 @@ Never Punch Manticores
 Never Push Mistakes
 Never Push to Master
 Neverending Package Mountain
+Neverending Parable Machine
 Neverending Perpetual Motion
 Neverending Pile of Messages
 Neverending Plethora of Modules
@@ -515,6 +516,7 @@ No Painful Merges
 No Pants Mafia
 No Pants Monkey
 No Pants, Mom
+No Pants Monday
 No Particular Method
 No Partying Mariachis
 No Password Management
@@ -720,6 +722,7 @@ Notorious Public Menace
 Notorious Pug Mafia
 Notorious Puppy Memes
 Notoriously Pedantic Magistrate
+Notorious Potion Masters
 Notoriously Problematic Merge
 Notoriously Psychedelic Modules
 Notoriously Punctual Manatee
