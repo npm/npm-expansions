@@ -118,7 +118,6 @@ Natively Pluggable Module
 Natively Pronounced Mandarin
 Nattily Polished Marbles
 Nattily Primped Monster
-Natty Precise Maverick
 Natural Pacifist Manatees
 Natural Performance Manager
 Natural Pleistocene Monsters
@@ -132,6 +131,7 @@ Naturally Produced Modules
 Nature Preceded Machines
 Nature's Particle Manager
 Nature's Powerful Meme
+Natty Precise Maverick
 Naughty Panda Manga
 Naughty Pinching Mannequins
 Naughty Platypus Memorabilia
@@ -397,6 +397,7 @@ Newton's Principia Mathematica
 Newton's Programmatic Measurements
 Newtonian Particle Motion
 Newtonian Physics Mockumentary
+Newtonian Preprocessed Meatballs
 Newts Parading Majestically
 Newts Prefer MS-DOS
 Next Perpendicular Moonlanding
