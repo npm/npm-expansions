@@ -76,6 +76,7 @@ Narcoleptic's Patch Mangler
 Narnia Produced Magic
 Narnia Protect Me
 Narnia's Poofy Meatcleaver
+Narnia's Portal Master
 Narnia's Psychedelic Mushrooms
 Narrating Prophetic Monks
 Narrowly Preventing Mayhem
@@ -143,12 +144,14 @@ Naughty Push Message
 Nauseating Packaged Meat
 Nautical Pace Marker
 Nautical Pea Maker
+Nautical Pirate Map
 Nautical Pirate Moustache
 Nautical Poseidon Mythology
 Nautilus: Pelagic Mollusc
 Naval Pilgrim's Mayflower
 Navel Piercing Madness
 Navel Pondering Mantra
+Navigating Parallel Multiverses
 Navigator Prefabricating Marinates
 Navy Penguin Mariachi
 Naysayers Promote Misery
@@ -185,10 +188,14 @@ Neatly Positioned Magazines
 Neatly Prepared Mustache
 Neatly Punctuated Musings
 Neato Polyester Material
+Nebula Power Matrix
+Nebula's Prism Mechanism
 Nebulae Populate M83
+Nebulaic Pixel Mosaic
 Nebulous Plasma Muffin
 Nebulous Program Mechanic
 Nebulous Puffy Marshmallows
+Nebulous Python Minstrel
 Necesito Programar Más
 Necessarily Precedes Mischief
 Necessary Package Manager
@@ -198,6 +205,7 @@ Neck Protection Mandate
 Necromancers Playing MTG
 Necrotizing Pineapple Music
 Nectar of the Programming Masses
+Nectarine Popsicle Meltdown
 Need Package Maintenance
 Need Paper Mache
 Need Potato Man
@@ -243,6 +251,7 @@ Neighbour Problem Manager
 Neighbourhood Party Manager
 Neil Patrick's Mansion
 Nemo's Parental Misguidance
+Neo Pixel Manipulator
 Neo's Personal Matrix
 Neo's Playing Morpheus
 Neoanthropic Preternatural Murmurings
@@ -309,6 +318,7 @@ Neural Prediction Model
 Neural Processing Mechanisms
 Neural Proton Mapper
 Neurological Phenomenon Multiplexer
+Neurological Processing Marvel
 Neurologically Paralyzing Mouseovers
 Neuron Powered Motorization
 Neurophysiologically Pseudoscientific Manatee
@@ -407,6 +417,7 @@ Next Popular Module
 Next Prince Montage
 next() Packaged Middleware
 NeXTSTEP Programming Mastermind
+Nexus of Pythonic Magic
 Nibble Plum Meringue
 Nibbling Pastry Monster
 Nibbling Perfect Macaroni
@@ -462,6 +473,7 @@ Nihilistic Party Mantra
 Nihilistic Pool Man
 Nil Packet Minimizer
 Nimble Package Maestros
+Nimble Penguin Mischief
 Nimble Pet Microbes
 Nimble Pirate Monitor
 Nimble Pixie Merchant
@@ -487,6 +499,7 @@ Ninety Percent Muffin
 Ninety Proof Mezcal
 Ninety-nine Pitchers of Malt
 Ninja Painter Michelangelo
+Ninja Pandas Mastering
 Ninja Parading Musically
 Ninja Party Manager
 Ninja Pirate Marksman
@@ -593,7 +606,9 @@ Noisy Pop Music
 Noisy Pterodactyl Melodies
 nom, please more
 Nomad Packaging Mechanism
+Nomad's Pilgrimage Module
 Nomadic People Migration
+Nomadic Python Magician
 Nomenclature Predictably Misunderstood
 Nomenclature Processing Machine
 Nominal Package Missing
@@ -639,6 +654,8 @@ Nonstop Progressive Marxism
 Nonviolent Pigeon Manifestation
 Nonviolent Pirate Mobster
 Nonvoluntary Professional Mangling
+Noodle Parade Marshal
+Noodle Poodle Monastery
 Noodle Printing Machine
 Noodles Practicing Medicine
 Noodles, Poodles and More!
@@ -675,6 +692,7 @@ Nosferatu's Pace Maker
 Nostalgic Perogi Monogramming
 Nostalgic Piano Music
 Nostalgic Pickled Mango
+Nostalgic Pixel Memento
 Nostalgic Pizza Manager
 Nostalgic Primordial Monster
 Nostalgic Punchcard Missing
@@ -781,6 +799,7 @@ Nth Power Matrix
 Nu Pop Metal
 Nuanced Pterodactyl Monk
 Nuclear Package Magnet
+Nuclear Peanut Manifesto
 Nuclear Pizza Machine
 Nuclear Planning Manual
 Nuclear Potato Monster
@@ -838,6 +857,7 @@ Nutritious Pumpkin Meal
 Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
+Nutty Professor's Monologue
 Nybble Processing Mainframe
 Nylon Pendulum Movement
 #
