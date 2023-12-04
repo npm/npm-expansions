@@ -60,6 +60,7 @@ Napoleon's Pixelated Mugshot
 Napoleonic Panda Machine
 Napoleonic Political Magnificence
 Napping Panda Missionaries
+Napping Panda Master
 Napping Peanut Monsters
 Naps Per Month
 Narcissistic Passion Minified
@@ -231,6 +232,7 @@ Neglected Pizza Money
 Neglected Pulse Machine
 Neglected Puppy Market
 Negligent Pachinko Machine
+Negligible Package Manager
 Negligent Parachute Maintainers
 Negligible Participation Metric
 Negligible Psychological Misery
@@ -839,6 +841,7 @@ Nutty Peanut Marshmallow
 Nutty Penguin Music
 Nutty Professor Movie
 Nybble Processing Mainframe
+NYC's Peculiar Module
 Nylon Pendulum Movement
 #
 # please don't add your expansions down here!
