@@ -558,7 +558,7 @@ Nocturnal Programmer's Machine
 Nocturnally Psychologizing Millipede
 Nodding Previously Managed
 Node Package Maid
-Node Package Manager
+Node Package Main
 Node Package Master
 Node Packaged Masterfully
 Node Packaged Modules
