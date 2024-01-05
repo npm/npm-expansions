@@ -27,5 +27,8 @@
     "prepublish": "npm test",
     "pretest": "node build.js",
     "test": "tap test"
+  },
+  "dependencies": {
+    "npm-expansions": "^2.2.5"
   }
 }
