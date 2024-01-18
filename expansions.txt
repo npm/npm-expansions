@@ -73,6 +73,7 @@ Narcoleptic Pony Machine
 Narcoleptic Possum Mob
 Narcoleptic Programmers' Medicine
 Narcoleptic's Patch Mangler
+Narendra PM Modi
 Narnia Produced Magic
 Narnia Protect Me
 Narnia's Poofy Meatcleaver
@@ -641,7 +642,6 @@ Nonviolent Pirate Mobster
 Nonvoluntary Professional Mangling
 Noodle Printing Machine
 Noodles Practicing Medicine
-Noodles, Poodles and More!
 Noodles, Poodles and More!
 Noodly Pasta Maker
 noop(); pop(); map();
